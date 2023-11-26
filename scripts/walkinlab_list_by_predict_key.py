@@ -34,17 +34,28 @@ def get_results(key: str, /) -> list[str]:
     return results
 
 
-@DISKCACHE.memoize(expire=datetime.timedelta(weeks=4).total_seconds(), tag='get_data')
-def get_data(href: str) -> dict[str, str]:
+@DISKCACHE.memoize(expire=datetime.timedelta(weeks=4).total_seconds(), tag='get_content')
+def get_content(href: str) -> bytes:
     assert href.startswith(HREF_PREFIX), href
     href_short = href.removeprefix(HREF_PREFIX)
     print(f'Reading data for {href_short}.')
     response = requests.get(f'https://www.walkinlab.com{href}', headers=REQUEST_HEADERS)
-    response.raise_for_status()
-    print(f'Read data for {href_short}.')
-
-    parser = bs4.BeautifulSoup(response.content, 'html.parser')
     try:
+        response.raise_for_status()
+    except Exception:
+        print(f'Failed to get content for {href}.', file=sys.stderr)
+        raise
+    print(f'Read data for {href_short}.')
+    return response.content
+
+
+def get_data(href: str) -> dict[str, str]:
+    assert href.startswith(HREF_PREFIX), href
+    href_short = href.removeprefix(HREF_PREFIX)
+    content = get_content(href).decode()
+
+    try:
+        parser = bs4.BeautifulSoup(content, 'html.parser')
         data = {'id': href_short, 'name': parser.h1.get_text(strip=True), 'description': parser.find('div', {'class': 'description'}).get_text(strip=True)}
         assert data['name'], data
         assert ('\n' not in data['name']), data
@@ -58,8 +69,10 @@ def get_data(href: str) -> dict[str, str]:
             assert data['description'].startswith(advert), (data, advert)
             data['description'] = data['description'].removeprefix(advert).lstrip()
             assert data['description'], data
+
+        data['description'] = data['description'].replace('\xa0', ' ')  # Note: unicodedata.normalization with NFKC or NFKD shouldn't be used here as both undesirably replace the ™ character.
     except Exception:
-        print(f'Failed to get data for {href}.', file=sys.stderr)
+        print(f'Failed to parse data for {href}.', file=sys.stderr)
         raise
     return data
 
@@ -71,7 +84,7 @@ def main() -> None:
         keys = [''.join(key) for key in itertools.product(chars, repeat=key_len)]
 
         curr_results = set()
-        with cf.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        with cf.ProcessPoolExecutor(max_workers=MAX_WORKERS) as executor:
             results_groups = executor.map(get_results, keys)
             for result_group in results_groups:
                 for result in result_group:
