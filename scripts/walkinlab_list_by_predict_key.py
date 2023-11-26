@@ -18,6 +18,8 @@ REQUEST_HEADERS = {"User-Agent": 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Geck
 HREF_PREFIX = '/products/view/'
 EXCLUDED = {'gift-card-1'}
 
+# Note: If this script freezes during execution, it may be because of diskcache handling a process executor poorly. In this case, either stop and rerun the script, or otherwise use a thread executor instead.
+
 
 @DISKCACHE.memoize(expire=datetime.timedelta(weeks=4).total_seconds(), tag='get_results')
 def get_results(key: str, /) -> list[str]:
