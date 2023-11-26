@@ -58,13 +58,14 @@ def get_data(href: str, /) -> dict[str, str]:
 
     try:
         parser = bs4.BeautifulSoup(content, 'html.parser')
-        data = {'id': href_short, 'name': parser.h1.get_text(strip=True), 'description': parser.find('div', {'class': 'description'}).get_text(strip=True)}
+        description_tag = parser.find('div', {'class': 'description'})
+        data = {'id': href_short, 'name': parser.h1.get_text(strip=True), 'description': description_tag.get_text(strip=True)}
         assert data['name'], data
         assert ('\n' not in data['name']), data
         assert data['description'], data
         assert ('\n' not in data['description']), data
 
-        advert = parser.find('div', {'class': 'description'}).find('span', {'class': 'red'})
+        advert = description_tag.find('span', {'class': 'red'})
         if advert:
             advert = advert.get_text(strip=True)  # Example: November Special: Save 15% with coupon code NOV15.
             assert advert, (data, advert)
@@ -73,8 +74,13 @@ def get_data(href: str, /) -> dict[str, str]:
             assert data['description'], data
 
         data['description'] = data['description'].replace('\xa0', ' ')  # Note: unicodedata.normalization with NFKC or NFKD shouldn't be used here as both undesirably replace the ™ character.
+
         while '  ' in data['description']:
             data['description'] = data['description'].replace('  ', ' ')
+
+        if 'locate a lab' in data['description']:
+            data['description'] = data['description'].replace(' PleaseClick Hereto locate a lab for specimen collection.', '')
+            assert ('locate a lab' not in data['description']), data
     except Exception:
         print(f'Failed to parse data for {href}.', file=sys.stderr)
         raise
