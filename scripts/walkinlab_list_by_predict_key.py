@@ -88,7 +88,7 @@ def main() -> None:
         keys = [''.join(key) for key in itertools.product(chars, repeat=key_len)]
 
         curr_results = set()
-        with cf.ProcessPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        with cf.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             results_groups = executor.map(get_results, keys)
             for result_group in results_groups:
                 for result in result_group:
