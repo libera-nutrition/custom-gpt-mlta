@@ -4,15 +4,17 @@
 #
 #    pip-compile
 #
+beautifulsoup4==4.12.2
+    # via -r requirements.in
 certifi==2023.11.17
     # via requests
 charset-normalizer==3.3.2
     # via requests
-hext==1.0.8
-    # via -r requirements.in
 idna==3.6
     # via requests
 requests==2.31.0
     # via -r requirements.in
+soupsieve==2.5
+    # via beautifulsoup4
 urllib3==2.1.0
     # via requests
