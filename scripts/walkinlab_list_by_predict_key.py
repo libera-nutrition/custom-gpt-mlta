@@ -94,7 +94,9 @@ def main() -> None:
         keys = [''.join(key) for key in itertools.product(chars, repeat=key_len)]
 
         curr_results = set()
-        with cf.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        debugging = bool(sys.gettrace())
+        executor = cf.ThreadPoolExecutor if debugging else cf.ProcessPoolExecutor
+        with executor(max_workers=MAX_WORKERS) as executor:
             results_groups = executor.map(get_results, keys)
             for result_group in results_groups:
                 for result in result_group:
