@@ -115,4 +115,4 @@ def delete_cache_by_function(fn_name: str, /) -> None:
 
 if __name__ == '__main__':
     main()
-    # delete_cache_by_function('__main__.get_data')
+    # delete_cache_by_function('__main__.get_content')
