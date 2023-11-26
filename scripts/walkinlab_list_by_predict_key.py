@@ -73,6 +73,8 @@ def get_data(href: str, /) -> dict[str, str]:
             assert data['description'], data
 
         data['description'] = data['description'].replace('\xa0', ' ')  # Note: unicodedata.normalization with NFKC or NFKD shouldn't be used here as both undesirably replace the ™ character.
+        while '  ' in data['description']:
+            data['description'] = data['description'].replace('  ', ' ')
     except Exception:
         print(f'Failed to parse data for {href}.', file=sys.stderr)
         raise
