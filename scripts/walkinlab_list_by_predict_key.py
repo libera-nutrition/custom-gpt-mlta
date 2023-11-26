@@ -35,7 +35,7 @@ def get_results(key: str, /) -> list[str]:
 
 
 @DISKCACHE.memoize(expire=datetime.timedelta(weeks=4).total_seconds(), tag='get_content')
-def get_content(href: str) -> bytes:
+def get_content(href: str, /) -> bytes:
     assert href.startswith(HREF_PREFIX), href
     href_short = href.removeprefix(HREF_PREFIX)
     print(f'Reading data for {href_short}.')
@@ -49,7 +49,7 @@ def get_content(href: str) -> bytes:
     return response.content
 
 
-def get_data(href: str) -> dict[str, str]:
+def get_data(href: str, /) -> dict[str, str]:
     assert href.startswith(HREF_PREFIX), href
     href_short = href.removeprefix(HREF_PREFIX)
     content = get_content(href).decode()
