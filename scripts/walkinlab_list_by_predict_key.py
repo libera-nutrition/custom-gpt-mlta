@@ -64,7 +64,7 @@ def get_data(href: str) -> dict[str, str]:
     return data
 
 
-def main():
+def main() -> None:
     final_results = {}
     for key_len in range(1, MAX_KEY_LEN + 1):
         chars = string.ascii_lowercase + '0123456789' if (key_len <= 2) else string.ascii_lowercase
@@ -91,5 +91,13 @@ def main():
     path.write_text(text)
 
 
+def delete_cache_by_function(fn_name: str, /) -> None:
+    for key in list(DISKCACHE):
+        if key[0] == fn_name:
+            print(f'Deleting cache for key={key}')
+            del DISKCACHE[key]
+
+
 if __name__ == '__main__':
     main()
+    # delete_cache_by_function('__main__.get_data')
