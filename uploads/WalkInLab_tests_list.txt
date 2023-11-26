@@ -23,7 +23,7 @@ ANA Screen, IFA, with Reflex to Titer and Pattern Blood Test: The ANA Screen, IF
 ASH FibroSure Blood Test: The ASH FibroSURE Blood Test is a noninvasive blood test that evaluates liver function in those suspected of alcoholic liver disease.
 Acacia (Mimosa) Allergy IgE Blood Test: The acacia allergy blood test measures the amount of allergen-specific IgE antibodies in the blood in order to detect an allergy to the acacia tree.
 Actin (Smooth Muscle) Antibody (ASMA) Blood Test: The Actin Smooth Muscle Antibody (ASMA) Blood Test detects antibodies that attack healthy tissues to help screen for autoimmune hepatitis.
-Adiponectin Blood Test: November Special: Save 15% with coupon code NOV15.The adiponectin blood test is used to quantitatively measure human adiponectin in the blood.
+Adiponectin Blood Test: The adiponectin blood test is used to quantitatively measure human adiponectin in the blood.
 Adrenal 21-Hydroxylase Autoantibodies Blood Test (Endocrine Sciences): Adrenal 21-hydroxylase autoantibodies blood test will aid in diagnosing adrenal insufficiency and detect Addison's disease.
 Adrenal Function Saliva Panel - Labrix Test Kit: The Adrenal Function Saliva Panel tests the levels of DHEA and Cortisol.
 Adrenocortex Stress Profile, Saliva - Genova Test Kit: The Adrenocortex Stress Profile, Saliva Test Kit measures the cortisol and DHEA levels in four saliva samples over 24 hours to screen for a Hypothalamic-Pituitary-Adrenal (HPA) axis dysfunction.
@@ -37,16 +37,16 @@ Alkaline Phosphatase Blood Test: The Alkaline Phosphatase Blood Test is used to 
 Alkaline Phosphatase Isoenzymes Blood Test: The Alkaline Phosphatase Isoenzymes Blood Test measures the amounts of different types of ALP in the blood to screen for liver or bone diseases.
 Alkaline Phosphatase, Bone Specific Blood Test: An alkaline phosphatase, bone-specific blood test is helpful in the diagnosis and assessment of the severity of metabolic bone disease including Paget disease, osteomalacia, and other states of high bone turnover.  Also used for monitoring efficacy of antiresorptive therapies including postmenopausal osteoporosis treatment.
 Allergen Profile Mold Blood Test: The Allergen Profile Mold Blood Test measures IgE antibodies in the blood to detect an allergy to various common molds.
-Allergen Profile Shellfish Blood Test: November Special: Save 15% with coupon code NOV15.The Allergen Profile Shellfish Blood Test measures the IgE antibody levels in the blood to help detect an allergy to various common shellfish.
-Allergen Profile, Food-Legume Blood Test: November Special: Save 15% with coupon code NOV15.The Allergen Profile, Food-Legume Blood Test measures the IgE antibody levels in the blood to help detect an allergy to certain legumes.
-Allergen Profile, Vegetable I Blood Test: November Special: Save 15% with coupon code NOV15.The Allergen Profile, Vegetable I Blood Test measures the IgE antibody levels in the blood to detect an allergy to several common vegetables.
+Allergen Profile Shellfish Blood Test: The Allergen Profile Shellfish Blood Test measures the IgE antibody levels in the blood to help detect an allergy to various common shellfish.
+Allergen Profile, Food-Legume Blood Test: The Allergen Profile, Food-Legume Blood Test measures the IgE antibody levels in the blood to help detect an allergy to certain legumes.
+Allergen Profile, Vegetable I Blood Test: The Allergen Profile, Vegetable I Blood Test measures the IgE antibody levels in the blood to detect an allergy to several common vegetables.
 Allergy Animal Group Panel Blood Test: The Allergy Animal Group Panel Blood Test measures IgE antibodies in the blood to detect an allergy to five types of farm animals.
-Allergy Cereal Group Panel IgE Blood Test: November Special: Save 15% with coupon code NOV15.An Allergy Cereal Group Panel Blood Test detects possible IgE-mediated responses to five common cereal (grain) allergens.
+Allergy Cereal Group Panel IgE Blood Test: An Allergy Cereal Group Panel Blood Test detects possible IgE-mediated responses to five common cereal (grain) allergens.
 Allergy Mold Group Panel IgE Blood Test: The Allergy Mold Group Panel Blood Test detects possible IgE-mediated responses to common molds.
 Allergy Stinging Insect Profile IgE Blood Test: The Allergy Stinging Insect Profile Blood Test measures the IgE antibody levels in the blood to detect an allergy to several stinging insects.
-Almond Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Almond Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to almonds.
-Alpha Galactose (Gal) Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Alpha-Galactose (Alpha-Gal) Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to alpha-gal.
-Alpha Lactalbumin Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The alpha lactalbumin allergy blood test checks for an allergic reaction to alpha lactalbumin by determining IgE antibodies' level in the blood.
+Almond Allergy IgE Blood Test: The Almond Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to almonds.
+Alpha Galactose (Gal) Allergy IgE Blood Test: The Alpha-Galactose (Alpha-Gal) Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to alpha-gal.
+Alpha Lactalbumin Allergy IgE Blood Test: The alpha lactalbumin allergy blood test checks for an allergic reaction to alpha lactalbumin by determining IgE antibodies' level in the blood.
 Alpha-1 Antitrypsin Blood Test: The Alpha-1 Antitrypsin (AAT) Blood Test is used to screen for a deficiency of the AAT protein by measuring AAT levels in the blood.
 Alpha-Fetoprotein (AFP) Serum Test: The Alpha-Fetoprotein Serum Test helps to screen for and monitor the treatment of liver, testicular, and ovarian cancers.
 Alternaria Alternata Allergy IgE Blood Test: The alternaria alternata allergy blood test measures the amount of allergen-specific IgE antibodies in the blood in order to detect an allergy to alternaria alternata.
@@ -93,7 +93,7 @@ Antineutrophil Cytoplasmic Antibodies (ANCA) Blood Test: The Antineutrophil Cyto
 Antinuclear Antibodies (ANA) Comprehensive Blood Test Panel: The Antinuclear Antibodies (ANA) Comprehensive Blood Test Panel detects antinuclear antibodies in the blood to screen for autoimmune disorders.
 Antinuclear Antibodies (ANA) Direct Blood Test, Qualitative: An ANA blood test detects antibodies to nuclear antigens.
 Antioxidant Protection Assay - Redox (APA) - ALCAT Test Kit: The Antioxidant Protection Assay - Redox (APA) - ALCAT Test Kit identifies antioxidants that boost antioxidant ability and protect cells from oxidative damage.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
-Antipancreatic Islet Cells Serum Test: November Special: Save 15% with coupon code NOV15.The Antipancreatic Islet Cells Serum Test detects antipancreatic islet cells in a blood sample to help confirm the diagnosis of type 1 diabetes and evaluate the need for insulin treatment.
+Antipancreatic Islet Cells Serum Test: The Antipancreatic Islet Cells Serum Test detects antipancreatic islet cells in a blood sample to help confirm the diagnosis of type 1 diabetes and evaluate the need for insulin treatment.
 Antiphosphatidylserine Blood Test, IgA, IgG, and IgM: The Antiphosphatidylserine Blood Test, IgA, IgG, and IgM detect antibodies in the blood to screen for autoimmune thrombotic disorders, such as antiphospholipid syndrome.
 Antiproteinase 3 (PR3) Antibodies Blood Test: The Antiproteinase 3 (PR3) Antibodies Blood Test detects antibodies to proteinase 3 to help screen for Wegener's granulomatosis.
 Antipsychotic Drug Profile Blood Test: The Antipsychotic Drug Profile Blood Test detects the presence of antipsychotic drugs used to treat serious mental illnesses in a blood sample.
@@ -101,20 +101,20 @@ Antithrombin III Antigen Blood Test: An antithrombin III antigen blood test is u
 Apolipoprotein A1 Blood Test: An Apo A1 blood test measures the A1 protein that has a specific role in the metabolism of lipids and is the main protein component in HDL, the "good cholesterol".
 Apolipoprotein Assessment Blood Test: Apolipoprotein Assessment Blood Test evaluates risk of cardiovascular disease and includes apolipoprotein A-1, apolipoprotein B, and apolipoprotein B/A1 ratio.
 Apolipoprotein B Blood Test: An apolipoprotein B blood test is useful in evaluating the risk of developing cardiovascular disease and monitoring treatment for high cholesterol.
-Apple Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The apple allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to apples.
-Apricot Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Apricot Allergy test measures the IgE antibody levels to detect a food allergy to apricots.
+Apple Allergy IgE Blood Test: The apple allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to apples.
+Apricot Allergy IgE Blood Test: The Apricot Allergy test measures the IgE antibody levels to detect a food allergy to apricots.
 Arsenic Blood Test: An arsenic blood test is used to monitor recent or acute exposure to arsenic.
 Arthritis #1 Baseline Blood Test Panel: The Arthritis #1 Baseline Blood Test Panel helps to screen for rheumatoid arthritis (RA), evaluate the severity of the disease, monitor treatment, and detect potential side effects of treatment.
 Arthritis Comprehensive Blood Test Panel, Men: The Arthritis Comprehensive Blood Test Panel, Men, helps to screen for rheumatoid arthritis (RA) and prostate cancer, evaluate the severity of the diseases, monitor treatment, and detect potential side effects of treatment.
 Arthritis Comprehensive Blood Test Panel, Women: The Arthritis Comprehensive Blood Test Panel, Women, helps to screen for rheumatoid arthritis (RA) and autoimmune diseases, evaluate the severity of the diseases, monitor treatment, and detect potential side effects of treatment.
 Arthritis Wellness #2 Blood Test Panel: The Arthritis Wellness #2 Blood Test Panel helps to screen for, diagnose, and monitor rheumatoid arthritis (RA) and autoimmune diseases.
-Asparagus Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Asparagus Allergy test measures IgE allergen-specific antibodies to detect an asparagus allergy.
+Asparagus Allergy IgE Blood Test: The Asparagus Allergy test measures IgE allergen-specific antibodies to detect an asparagus allergy.
 Aspergillus Fumigatus Allergy IgE Blood Test: The Aspergillus Fumigatus Allergy Blood Test measures the IgE antibody levels in the blood to detect an allergy to aspergillus fumigatus.
 AspirinWorks; (11-Dehydro Thromboxane B2) Urine Test, Random: The AspirinWorks Test Kit is an enzyme-linked immunoassay (ELISA) to determine levels of 11-dehydrothromboxane B2 (11dhTxB2) in human urine, which aids in the qualitative detection of aspirin effect in apparently healthy individuals post ingestion.
 Athlete Biomarker Blood Test Panel, Female: The athlete biomarker blood test panel gives a clear picture of the inside of an athlete's body, which fuels performance.
 Athlete Biomarker Blood Test Panel, Male: The athlete biomarker blood test panel gives a clear picture of the inside of an athlete's body, which fuels performance.
 Autoimmune Hepatitis Blood Test Panel: The Autoimmune Hepatitis Blood Test Panel detects the presence of 3 types of antibodies (ASMA, ANA, and Anti-LKM-1) in the blood to screen for autoimmune hepatitis.
-Avocado Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Avocado Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to avocados.
+Avocado Allergy IgE Blood Test: The Avocado Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to avocados.
 B Pertussis IgG, IgM, and IgA Antibodies Blood Test: The B Pertussis IgG, IgM, & IgA Antibodies Blood Test detects IgG, IgA, and IgM antibodies produced in response to a Bordetella pertussis infection.
 B-Type Natriuretic Peptide (BNP) Blood Test: The BNP Blood Test is used to support a diagnosis of congestive heart failure (CHF).
 B6T Smart Panel #1 Blood Test Panel: The BT6 Smart Panel #1 Blood Test should be taken quarterly for at least the first year to screen for vitamin B6 toxicity and rule out other potential causes of neuropathy.
@@ -122,10 +122,10 @@ B6T Smart Panel #2 Blood Test Panel: The BT6 Smart Panel #2 Blood Test should be
 Bacterial Overgrowth of the Small Intestine Breath Test -3 Hours-Genova Test Kit: The 3 Hour Bacterial Overgrowth of the Small Intestine Breath Test is a Non-invasive, gastrointestinal test detects bacterial overgrowth in the small intestine, often referred to as BOSI or SIBO.
 Bacterial Overgrowth of the Small Intestine Breath Test 2-Hours - Genova Test Kit: The 2 Hour Bacterial Overgrowth of the Small Intestine Breath Test Kit is a non-invasive, gastrointestinal test that detects bacterial overgrowth in the small intestine, often referred to as BOSI or SIBO.
 Bacteriology Culture, Stool - Doctor's Data Kit: This Bacteriology Culture, Stool - Doctor's Data Kit helps detect beneficial and imbalanced flora and infectious pathogens.
-Banana Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The banana allergy blood test measures IgE antibodies in the blood and the level of an individual's reaction to bananas.
+Banana Allergy Blood Test: The banana allergy blood test measures IgE antibodies in the blood and the level of an individual's reaction to bananas.
 Barium Blood Test: A Barium Blood Test monitors exposure to Barium.
 Barium Urine Test: The Barium Urine Test monitors exposure to Barium.
-Barley Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The Barley Allergy Blood Test measures a person's allergic reaction to barley.
+Barley Allergy Blood Test: The Barley Allergy Blood Test measures a person's allergic reaction to barley.
 Bartonella Antibody Profile Blood Test: Bartonella (formerly Rochalimaea) henselae has become firmly established as the primary etiologic agent for cat scratch disease (CSD). Bartonella quintana, known for some time as a cause of trench fever, is also associated with CSD and bacillary angiomatosis (BA). Both diseases frequently affect immunocompromised patients, particularly those infected with HIV-1. Although CSD is generally a self-limiting disease, it can be life-threatening.
 Bartonella DNA Blood Test, Qualitative Real-Time PCR: A Bartonella DNA PCR test can be used to detect the presence of Bartonella species DNA in your blood and differentiate between Bartonella henselae and Bartone quintana infections.
 Basic Hormone Saliva Panel - Labrix Test Kit: The Basic Hormone Saliva Panel is a basic evaluation of the sex hormones, adrenal function and AM cortisol level.
@@ -133,37 +133,37 @@ Basic Metabolic Panel (BMP8) Blood Test: A Basic Metabolic Panel (BMP8) Blood Te
 Basic Stress Mastery Blood Test Panel: The Basic Stress Mastery Blood Test Panel includes a CMP-14, CBC, Lipid Panel, Thyroid Panel with TSH, Free Tri-iodothyronine (T3), Thyroxine (T4) Free Direct, A1c, AM Cortisol, and Fasting Insulin.
 Basil Allergy IgE Blood Test: The Basil Allergy test measures the IgE antibody levels to detect a food sensitivity to basil.
 Bayberry Allergy IgE Blood Test: The Bayberry Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect a bayberry allergy.
-Beef Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Beef Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to beef.
+Beef Allergy IgE Blood Test: The Beef Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to beef.
 Behavior Blood Test Panel: The behavior panel includes a CMP, Lipid Panel, CBC, Ceruloplasmin, Copper, Histamine, Homocysteine, Magnesium RBC, Vitamin B6, and Zinc.
 Benzene Exposure Blood Test: The Benzene Exposure Blood Test helps indicate benzene exposure.
 Benzodiazepine and Metabolite Confirmation Blood Test: The Benzodiazepine and Metabolite Confirmation (LabCorp MedWatch®) screens for and monitors the usage of benzodiazepines and metabolites through a urine sample.
-Berry Allergy IgE Blood Test Panel: November Special: Save 15% with coupon code NOV15.The Berry Allergy IgE, Blood Test Panel, measures the IgE antibody levels in the blood to help detect an allergy to various berries.
+Berry Allergy IgE Blood Test Panel: The Berry Allergy IgE, Blood Test Panel, measures the IgE antibody levels in the blood to help detect an allergy to various berries.
 Beta 2 Microglobulin Serum Test: The Beta 2 Microglobulin Serum Test helps evaluate the severity and prognosis of certain cancers and screens for kidney disorders.
 Beta Carotene Blood Test: This beta carotene blood test is used to determine if an individual has carotene (also known as beta carotene) deficiencies.
-Beta-Hydroxybutyrate Blood Test: November Special: Save 15% with coupon code NOV15.The Beta-Hydroxybutyrate test measures the amount of beta-hydroxybutyrate in your blood to help diagnose diabetic ketoacidosis (DKA).
-Beta-Lactoglobulin Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The beta-lactoglobulin allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to beta-lactoglobulin.
+Beta-Hydroxybutyrate Blood Test: The Beta-Hydroxybutyrate test measures the amount of beta-hydroxybutyrate in your blood to help diagnose diabetic ketoacidosis (DKA).
+Beta-Lactoglobulin Allergy IgE Blood Test: The beta-lactoglobulin allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to beta-lactoglobulin.
 Beta-glucuronidase, Stool-Doctor's Data Test Kit: This Beta-glucuronidase, Stool-Doctor's Data Test Kit measures β-G levels in a stool sample and helps screen for an imbalanced intestinal microbiome.
 Bicarbonate Urine Test: The bicarbonate urine test measures the amount of bicarbonate, a form of carbon dioxide, in the urine.
 Bile Acids Blood Test: The Bile Acids Blood Test evaluates liver function by measuring bile acid levels in the blood.
 Bilirubin Direct Blood Test: The Bilirubin Direct Blood Test measures direct bilirubin levels in the blood to diagnose or monitor liver or red blood cell disorders.
 Bilirubin Total and Direct Blood Test: The Bilirubin Total & Direct Blood Test measures bilirubin levels in the blood to diagnose or monitor liver or red blood cell disorders.
 Bipolaris Allergy Blood Test: The Bipolaris Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to the mold Bipolaris.
-Black Olive Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The Black Olive Allergy test measures the IgE antibody levels to detect an allergy to olives.
-Black Pepper Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The black pepper allergy blood test measures a person's allergic reaction to black pepper.
+Black Olive Allergy Blood Test: The Black Olive Allergy test measures the IgE antibody levels to detect an allergy to olives.
+Black Pepper Allergy Blood Test: The black pepper allergy blood test measures a person's allergic reaction to black pepper.
 Blackberry Allergy IgE Blood Test: The Blackberry Allergy test measures the IgE antibody levels to detect a food sensitivity to blackberries.
 Blalack Blood Test Panel plus Carbon Dioxide and TSH: A Blalack Blood Test Panel plus Carbon Dioxide and TSH includes Comprehensive Metabolic Panel with eGFR (CMP-20), Lipid Profile (cholesterol), Fluid & Electrolytes, Uric Acid, Sodium, Calcium, Ferritin, Iron and Total Iron-Binding Capacity (TIBC), Carbon Dioxide, Thyroid-stimulating Hormone (TSH), and Complete Blood Count (CBC) with Differential and Platelets.
 Blalack Blood Test Panel plus Carbon Dioxide: A Blalack Blood Test Panel plus Carbon Dioxide includes Comprehensive Metabolic Panel with eGFR (CMP-20), Lipid Profile (cholesterol), Fluid & Electrolytes, Uric Acid, Sodium, Calcium, Ferritin, Iron and Total Iron-Binding Capacity (TIBC), Carbon Dioxide, and Complete Blood Count (CBC) with Differential and Platelets.
 Blalack Blood Test Panel: A Blalack Blood Test Panel includes a Comprehensive Metabolic Panel with eGFR (CMP-20), Lipid Profile (cholesterol), Fluid & Electrolytes, Uric Acid, Sodium, Calcium, Ferritin, Iron and Total Iron-Binding Capacity (TIBC), and Complete Blood Count (CBC) with Differential and Platelets.
 Blood Culture, Routine: The Blood Culture, Routine screens for bacterial and fungal infections in a blood sample.
-Blueberry Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Blueberry Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to blueberries.
+Blueberry Allergy IgE Blood Test: The Blueberry Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to blueberries.
 Body Builder Blood Test Panel: A Body Builder Blood Test Panel includes a CMP-14, Lipid, Testosterone free and total, homocysteine, CRP-hs, Thyroid Panel with Thyroid-stimulating Hormone (TSH), Free T3, Free T4, estradiol, DHEAs, and IGF1.
 Bordetella Pertussis Antibodies Blood Test, IgG: The Bordetella Pertussis Antibodies Blood Test, IgG detects antibodies and helps determine if an individual has been vaccinated against or previously infected by bordetella pertussis.
-Brazil Nut Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Brazil Nut Allergy test measures the IgE antibody levels to detect a tree nut allergy.
+Brazil Nut Allergy IgE Blood Test: The Brazil Nut Allergy test measures the IgE antibody levels to detect a tree nut allergy.
 Breast Cancer Blood Test Panel: The Breast Cancer Blood Test Panel helps screen for and monitor invasive breast cancer.
-Broccoli Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The broccoli allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to broccoli.
-Brussel Sprouts Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Brussel Sprouts Allergy test measures the IgE antibody levels to detect a Brussel sprouts allergy.
-Buckwheat Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Buckwheat Allergy Test is a blood test for allergies to buckwheat.
-C-Peptide Serum Test: November Special: Save 15% with coupon code NOV15.The C-Peptide Serum Test helps determines how much insulin the pancreas is producing.
+Broccoli Allergy IgE Blood Test: The broccoli allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to broccoli.
+Brussel Sprouts Allergy IgE Blood Test: The Brussel Sprouts Allergy test measures the IgE antibody levels to detect a Brussel sprouts allergy.
+Buckwheat Allergy IgE Blood Test: The Buckwheat Allergy Test is a blood test for allergies to buckwheat.
+C-Peptide Serum Test: The C-Peptide Serum Test helps determines how much insulin the pancreas is producing.
 C-Reactive Protein (CRP) Blood Test, High Sensitivity, Cardiac Risk Assessment: The High Sensitivity C-Reactive Protein (hs-CRP) Blood Test, Cardiac Risk Assessment measures the hs-CRP levels in the blood to assess the risk of developing cardiovascular disease.
 C-Reactive Protein (CRP) Blood Test, Quantitative: The C-Reactive Protein (CRP) Blood Test, Quantitative, measures CRP levels in the blood and helps screen for an acute infection or inflammation.
 C-Telopeptide Blood Test (Endocrine Sciences): A C-Telopeptide Blood Test looks for a marker for bone resorption.
@@ -175,7 +175,7 @@ CICA: Celiac, IBS, and Crohn's Full Array - ALCAT Test Kit: The CICA evaluates a
 CICA: Celiac, IBS, and Crohn's Genetic Only - ALCAT Test Kit: The CICA: Celiac, IBS, and Crohn's Genetic Only - ALCAT Test Kit assesses your genetic predisposition to celiac and Crohn's disease and evaluates GI function.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
 Cadmium Blood Test: A Cadmium Blood Test is used to monitor recent or acute exposure to cadmium
 Cadmium, 24-Hour Urine Test: The Cadmium, 24-Hour Urine Test evaluates exposure to the toxic metal cadmium in a urine sample over 24 hours.
-Caffeine Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Caffeine Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to caffeine.
+Caffeine Allergy IgE Blood Test: The Caffeine Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to caffeine.
 Calcitonin Blood Test: The Calcitonin Blood Test measures the level of hormone calcitonin in the blood
 Calcium Ionized Serum Test: The Calcium Ionized Serum Test measures ionized calcium levels in the blood to help screen for, diagnose, and monitor various conditions related to the bones, heart, nerves, kidneys, and teeth.
 Calcium Serum Test: The Calcium Serum Test measures calcium levels in the blood to help screen for, diagnose, and monitor various conditions related to the bones, heart, nerves, kidneys, and teeth.
@@ -189,7 +189,7 @@ Cancer Antigen (CA) 15-3 Blood Test: The Cancer Antigen (CA) 15-3 Blood Test mon
 Cancer Antigen (CA) 27.29 Blood Test: The Cancer Antigen 27.29 Blood Test monitors patients with metastatic breast cancer.
 Cancer Screening Panel, Men: The Cancer Screening Panel for Men consists of five tumor markers that can help detect and monitor cancer, predict its behavior, and check for recurrence after treatment.
 Cancer Screening Panel, Women: The Cancer Screening Panel for Women consists of 5 tumor markers to help diagnose and monitor cancer, predict its behavior, and check for recurrence after treatment.
-Candida Albicans Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The Candida Albicans Allergy Blood Test measures the IgE antibody levels in the blood to help detect an allergy to candida albicans.
+Candida Albicans Allergy Blood Test: The Candida Albicans Allergy Blood Test measures the IgE antibody levels in the blood to help detect an allergy to candida albicans.
 Candida Antibodies Blood Test, IgA, IgG, and IgM, ELISA: The Candida Antibodies Blood Test, IgG, IgA, and IgM, ELISA detects antibodies that the body produces in response to Candida albicans.
 Candida Antibodies Blood Test, IgG, ELISA: The Candida Antibodies Blood Test, IgG, ELISA, detects antibodies the body produces in response to Candida albicans.
 Candida Immune Complex Blood Test: Candida immune complexes not only aid in diagnosing intestinal overgrowth, but that levels of complexes decrease during successful treatment of the condition
@@ -202,28 +202,28 @@ Carbon Monoxide Blood Test: A carbon monoxide blood test is used to detectcarbon
 Carcinoembryonic Antigen (CEA) Blood Test: This CEA Blood Test measures the protein in the blood called carcinoembryonic antigen (CEA). This protein can be found on some cancer cell types.
 Cardio Check Profile-Genova Test Kit: This Cardio Check Profile measures lipid and cardiometabolic analytes in the blood to assess your cardiovascular risk and aid in developing targeted therapeutic strategies or lifestyle changes to minimize overall risk.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
 Cardio IQ® Advanced Lipid Panel Blood Test: This Cardio IQ® Advanced Lipid Panel helps screen for cardiovascular disease risk and monitors treatment response.
-Cardio IQ® Hemoglobin A1c Blood Test: November Special: Save 15% with coupon code NOV15.The Cardio IQ® Hemoglobin A1C Blood Test evaluates the average amount of glucose in the blood over an extended period to help manage blood sugar levels.
+Cardio IQ® Hemoglobin A1c Blood Test: The Cardio IQ® Hemoglobin A1C Blood Test evaluates the average amount of glucose in the blood over an extended period to help manage blood sugar levels.
 Cardio IQ® High Sensitivity C-Reactive Protein (hs-CRP) Blood Test: The Cardio IQ® High Sensitivity C-Reactive Protein (hs-CRP) Blood Test measures hs-CRP levels in the blood to predict the risk of developing cardiovascular disease.
-Cardio IQ® Insulin Blood Test: November Special: Save 15% with coupon code NOV15.The Cardio IQ® Insulin Blood Test measures insulin levels to help screen for hyperinsulinemia.
-Cardio IQ® Insulin Resistance Panel with Score Blood Test: November Special: Save 15% with coupon code NOV15.The Cardio IQ insulin resistance (IR) test gives you information to change or avoid becoming diabetic or prediabetic.
+Cardio IQ® Insulin Blood Test: The Cardio IQ® Insulin Blood Test measures insulin levels to help screen for hyperinsulinemia.
+Cardio IQ® Insulin Resistance Panel with Score Blood Test: The Cardio IQ insulin resistance (IR) test gives you information to change or avoid becoming diabetic or prediabetic.
 Cardio IQ® Vitamin D, 25-Hydroxy Blood Test: The Cardio IQ® Vitamin D, 25-Hydroxy Blood Test is used to help screen for and diagnose vitamin D deficiency or toxicity and monitor response to vitamin D2 or vitamin D3 supplementation.
 Cardio Metabolic Profile, Blood Spot - ZRT Test Kit: The Cardio Metabolic Blood Spot Profile assesses risks associated with type 2 diabetes and cardiovascular disease. Tests in this profile include: Insulin, High Sensitivity C-Reactive Protein, Total Cholesterol, HDL and LDL Cholesterol, Hemoglobin A1c, and Triglycerides. (Blood Spot Test)
 Cardio Plus Blood Test Panel plus Prostate-specific Antigen (PSA): A Cardio Plus Blood Test Panel plus Prostate-specific Antigen is a PSA plus Cholesterol (Lipid) Profile, Comprehensive Metabolic Panel (CMP-14), and Complete Blood Count (CBC) with differential and platelets.
 Cardio Plus Blood Test Panel: A Cardio Plus Blood Test Panel includes Cholesterol (Lipid) Profile, Comprehensive Metabolic Panel (CMP-14), and Complete Blood Count (CBC) with differential and platelets. (Over 35 Test Results).
 Cardiolipin Antibodies Blood Test, IgA, IgG, and IgM: The Cardiolipin Antibodies Blood Test, IgA, IgG, and IgM, detects antibodies in the blood to investigate blood clotting, miscarriage causes, and autoimmune diseases.
 Cardiovascular Risk Profile, Serum - Doctor's Data Kit: This Cardiovascular Risk Profile, Serum assesses standard and advanced biomarkers to aid in the early detection and risk factor modification of cardiovascular disease (CVD).Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
-Carmine Red Dye IgE Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The Carmine Red Dye IgE Allergy Blood Test measures the IgE antibody levels in the blood to detect an allergy to carmine red dye.
+Carmine Red Dye IgE Allergy Blood Test: The Carmine Red Dye IgE Allergy Blood Test measures the IgE antibody levels in the blood to detect an allergy to carmine red dye.
 Carnitine Total and Free Blood Test: The Carnitine Total and Free Blood Test measures total and free carnitine levels to screen for deficiencies and metabolic abnormalities that affect energy metabolism.
-Carrot Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Carrot Allergy test measures the IgE antibody levels to detect a carrot allergy.
-Casein Allergy Blood Test, IgE: November Special: Save 15% with coupon code NOV15.The Casein Allergy Blood Test measures IgE antibody levels in the blood to screen for an allergy to the milk protein casein.
-Cashew Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The cashew allergy blood test checks for an allergic reaction to cashews by assessing the level of the IgE antibodies in the blood.
+Carrot Allergy IgE Blood Test: The Carrot Allergy test measures the IgE antibody levels to detect a carrot allergy.
+Casein Allergy Blood Test, IgE: The Casein Allergy Blood Test measures IgE antibody levels in the blood to screen for an allergy to the milk protein casein.
+Cashew Allergy Blood Test: The cashew allergy blood test checks for an allergic reaction to cashews by assessing the level of the IgE antibodies in the blood.
 Cat Hair and Dander Allergy IgE Blood Test: The Cat Hair and Dander Allergy Blood Test measures the IgE antibody levels in the blood to detect a cat allergy.
 Catecholamines without Creatinine Urine Test, Fractionated and VMA, 24-Hour: Catecholamine urine testing (CATU) is used to diagnose certain diseases that increase catecholamine production. Catecholamines are essential to the body's "fight-or-flight" response and help control a variety of functions.
 Catecholamines without Creatinine Urine Test, Fractionated, 24-Hour: Fractionated catecholamine measurement is useful in the diagnosis of pheochromocytoma and its differentiation from essential hypertension.
-Catfish IgE Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The Catfish Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to catfish.
-Cauliflower Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Cauliflower Allergy test measures the IgE antibody levels to detect a cauliflower allergy.
+Catfish IgE Allergy Blood Test: The Catfish Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to catfish.
+Cauliflower Allergy IgE Blood Test: The Cauliflower Allergy test measures the IgE antibody levels to detect a cauliflower allergy.
 Cefaclor Allergy IgE Blood Test: The Cefaclor allergy blood test checks for an allergic reaction to Cefaclor by determining the level of IgE antibodies in the blood.
-Celery Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Celery Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to celery.
+Celery Allergy IgE Blood Test: The Celery Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to celery.
 Celiac Disease Comprehensive Antibody Profile Blood Test: The Celiac Disease Comprehensive Antibody Profile Blood Test measures the IgA or IgG antibody levels to diagnose celiac disease and monitor response to dietary changes.
 Celiac Disease HLA DQ Association Blood Test: The Celiac Disease HLA DQ Association Blood Test detects celiac disease-associated alleles that predispose to the disorder to assess the risk of CD but is not diagnostic of celiac disease.
 Celiac Disease Profile Blood Test: The Celiac Disease Profile Blood Test measures the IgA antibody levels to help diagnose celiac disease and monitor response to a gluten-free diet.
@@ -233,34 +233,34 @@ Cellular Nutrition Assay (CNA) & MethylDetox Profile - ALCAT Test Kit: The Cellu
 Centromere B Antibody Blood Test: A centromere B antibody blood test is useful in the evaluation of patients with the form of scleroderma known as CREST.
 Ceruloplasmin Blood Test: The Ceruloplasmin Blood Test measures ceruloplasmin levels in the blood to screen for Wilson's disease and other copper deficiency conditions.
 Chaetomium Globosum IgE Blood Test: The Chaetomium Globosum test measures the IgE antibody levels to screen for and diagnose an allergy to Chaetomium Globosum mold.
-Cheddar Cheese Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Cheddar Cheese Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to cheddar cheese.
-Cherry Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The cherry allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to cherries.
-Chicken Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Chicken Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to chicken.
+Cheddar Cheese Allergy IgE Blood Test: The Cheddar Cheese Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to cheddar cheese.
+Cherry Allergy IgE Blood Test: The cherry allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to cherries.
+Chicken Allergy IgE Blood Test: The Chicken Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to chicken.
 Chicken Feather Allergy IgE Blood Test: The chicken feather allergy blood test checks for an allergic reaction to chicken feathers by determining the level of IgE antibodies in the blood.
-Chickpea Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The Chickpea Allergy test measures the IgE antibody levels to detect a chickpea allergy.
-Chili Pepper Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Chili Pepper Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to chili peppers.
+Chickpea Allergy Blood Test: The Chickpea Allergy test measures the IgE antibody levels to detect a chickpea allergy.
+Chili Pepper Allergy IgE Blood Test: The Chili Pepper Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to chili peppers.
 Chlamydia Pneumoniae Blood Test, IgG and IgM: A Chlamydia Pneumoniae Blood Test is used as an aid in the clinical diagnosis of chlamydial pneumoniae infection.
 Chlamydia Trachomatis Antibodies Blood Test, IgG, IgA, and IgM: This Chlamydia Trachomatis Antibodies Blood Test is used to detect IgG, IgA, and IgM antibodies to the bacteria Chlamydia trachomatis.
 Chlamydia and Gonorrhea Urine Test, Random: The Chlamydia and Gonorrhea Urine Test, Random, helps to screen for two of the most common sexually transmitted diseases (STDs).
 Chloride Blood Test: Chloride Blood Test is useful for measuring the amount of chloride in the blood.
 Chloride Urine Test, 24-Hour: A sodium urine test determines if you are hydrated properly. It can also evaluate your kidney function, especially with regard to its sodium control properties.
-Chocolate Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Chocolate Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to chocolate.
+Chocolate Allergy IgE Blood Test: The Chocolate Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to chocolate.
 Cholinesterase Blood Test: A Cholinesterase Blood Test is used to evaluate preoperative patients for succinylcholine (suxamethonium) anesthetic sensitivity.
 Chromatin (Nucleosomal) Antibody Blood Test: The Chromatin (Nucleosomal) Antibody Blood Test is useful in diagnosing SLE (systemic lupus erythmatosis).
 Chromium Plasma Test: This Chromium Plasma Test is used for industrial exposure monitoring. This test is not intended to monitor the level of chromium in diabetics or suspected chromium deficiencies.
 Chromogranin A Serum Test: A Chromogranin A Serum Test is used to detect neuroendocrine cancers.
 Chyluria Screen Urine Test, Random: The Chyluria Screen Urine Test measures the fat content of a urine sample to screen for a chyluria infection.
-Cilantro Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Cilantro Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to cilantro.
-Cinnamon Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Cinnamon Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to cinnamon.
-Clam Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Clam Allergy test measures the IgE antibody levels to detect a shellfish allergy.
+Cilantro Allergy IgE Blood Test: The Cilantro Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to cilantro.
+Cinnamon Allergy IgE Blood Test: The Cinnamon Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to cinnamon.
+Clam Allergy IgE Blood Test: The Clam Allergy test measures the IgE antibody levels to detect a shellfish allergy.
 Clostridium difficile Toxin B Stool Test, Qualitative, Real-Time PCR: The clostridium difficile toxin B stool test is useful in diagnosing clostridium difficile toxin B.
 Coccidioides Antibody Blood Test: A Coccidioides Antibody Blood Test is useful in looking for antibodies to the fungus Coccidioides immitis.
 Coccidioides Serology Blood Test Panel: The coccidioides serology blood test panel(also called valley fever) looks for antibodies to coccidioides which is the fungus that causes coccidioidomycosis.
 Cockatiel Feather Allergy IgE Blood Test: The Cockatiel Feather Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to cockatiel feathers.
-Coconut Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Coconut Allergy IgE Blood Test measures IgE antibody levels in the blood to screen for an allergy to coconuts.
-Codfish Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Codfish Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to codfish.
+Coconut Allergy IgE Blood Test: The Coconut Allergy IgE Blood Test measures IgE antibody levels in the blood to screen for an allergy to coconuts.
+Codfish Allergy IgE Blood Test: The Codfish Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to codfish.
 Coenzyme Q10 Blood Test: A Coenzyme Q10 Blood Test measures blood levels of Coenzyme Q10 (CoQ10).
-Coffee Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Coffee Allergy IgE Blood Test measures IgE antibody levels in the blood to screen for an allergy to coffee.
+Coffee Allergy IgE Blood Test: The Coffee Allergy IgE Blood Test measures IgE antibody levels in the blood to screen for an allergy to coffee.
 Cold Agglutinin Titer Blood Test, Quantitative: The Cold Agglutinin Titer Blood Test, Quantitative, helps determine the cause of hemolytic anemia and diagnose cold agglutinin disease.
 Complement C1q Blood Test, Quantitative: A Complement C1q Blood Test, Quantitative is particularly useful in evaluating kidney involvement and in monitoring the disease over time.
 Complement C2 Blood Test: The Complement C2 Blood Test measures C2 levels in the blood to help diagnose a deficiency.
@@ -271,7 +271,7 @@ Complement Total (CH50) Blood Test: The Complement Total (CH50) Blood Test monit
 Complete Blood Count (CBC) and Comprehensive Metabolic Panel (CMP-14) Blood Test Panel: The CBC and CMP-14 Panel Blood Test helps diagnose and monitor health conditions by evaluating blood cells, liver and kidney function, and detecting diabetes.
 Complete Blood Count (CBC) with Differential and Platelets Blood Test: The CBC with Differential and Platelets Blood Test evaluates blood cell types and levels to help diagnose health conditions and track treatment response.
 Comprehensive Melatonin Profile, Saliva - Genova Test Kit: The Comprehensive Melatonin Profile is a convenient, non-invasive salivary hormone test that analyzes the circadian secretion patterns of melatonin.
-Comprehensive Metabolic Panel (CMP-14) with eGFR Blood Test: November Special: Save 15% with coupon code NOV15.The Comprehensive Metabolic Panel (CMP-14) with EGFR Blood Test measures 14 different substances in the blood to assess the body's chemical balance and metabolism.
+Comprehensive Metabolic Panel (CMP-14) with eGFR Blood Test: The Comprehensive Metabolic Panel (CMP-14) with EGFR Blood Test measures 14 different substances in the blood to assess the body's chemical balance and metabolism.
 Comprehensive Parasitology Profile (CP) Random, Stool - Genova Test Kit: The Comprehensive Parasitology Profile is a thorough analysis to detect the presence of intestinal parasites, as well as beneficial intestinal microflora, imbalanced flora, and bacterial or fungal possible pathogens.
 Comprehensive Stool Analysis (CDSA) - Doctor's Data Test Kit: This CDSA test is performed to identify abnormal intestinal microflora but does not directly assess abnormal digestion/absorption, inflammation or other specific aspects of gastrointestinal health.
 Comprehensive Stool Analysis plus Parasitology x3 (CDSA/P) - Doctor's Data Test Kit: This CDSA/P test is performed to identify abnormal intestinal microflora, but does not directly assess abnormal digestion/absorption, inflammation or other specific aspects of gastrointestinal health.
@@ -280,12 +280,12 @@ Comprehensive Wellness #1 - ALCAT Test Kit: The Comprehensive Wellness Panel #1 
 Comprehensive Wellness #2 - ALCAT Test Kit: The Comprehensive Wellness Panel #2 - ALCAT Test Kit identifies intolerances to 200 foods and 30 food additives/colorings/preservatives.
 Comprehensive Wellness #3 - ALCAT Test Kit: The Comprehensive Wellness Panel #3 - ALCAT Test Kit identifies intolerances to 150 foods, 30 food additives/colorings/preservatives, and 20 molds.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
 Coombs Direct Antiglobulin Blood Test: The Coombs Direct Antiglobulin Blood Test detects antibodies attached to red blood cells that cause hemolytic anemia.
-Copeptin Blood Test: November Special: Save 15% with coupon code NOV15.The Copeptin Blood Test measures copeptin levels in the blood to help diagnose diabetes insipidus and aid as an alternative biomarker for arginine vasopressin (AVP).
+Copeptin Blood Test: The Copeptin Blood Test measures copeptin levels in the blood to help diagnose diabetes insipidus and aid as an alternative biomarker for arginine vasopressin (AVP).
 Copper Blood Test, RBC: This Copper Blood Test is used for monitoring copper exposure.
 Copper Serum Test: The Copper Serum Test measures the amount of copper in your blood.
 Copper Urine Test, 24- Hour: The Copper, 24-Hour Urine Test measures copper levels in the urine to diagnose Wilson's disease and detect a copper deficiency or toxicity.
 Copper, Random Urine: A Copper Urine Test, Random monitors exposure to copper.
-Corn Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Corn Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to corn.
+Corn Allergy IgE Blood Test: The Corn Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to corn.
 Corticosteroid-Binding Globulin (CBG) Blood Test: The CBG Blood Test measures Corticosteroid-binding globulin (CBG, transcortin), the main transport protein for cortisol and corticosterone in vertebrates. This protein binds glucocorticoids with high affinity. In some species, it also binds progesterone and to a lesser extent testosterone. Its specificity varies among species. CBG is important in regulating the actions of glucocorticoids.
 Corticosteroids 17 Hydroxy Urine Test, 24-Hour: A corticosteroids 17 hydroxy urine Test, 24-hour measures the levels of 17-hydroxy corticosteroid (17-OHCS), an inactive product formed when the liver and other body tissues break down the steroid hormone, cortisol.
 Cortisol Blood Test, AM: The Cortisol Blood Test, AM measures cortisol levels in a morning blood sample to help screen for health conditions that affect the adrenal glands.
@@ -297,7 +297,7 @@ Cortisol, Free And Cortisone with Creatinine Urine Test, 24 Hour: A Cortisol, Fr
 Cortisol:Cortisone Ratio Profile Blood Test, LC/MS-MS: A Cortisol:Cortisone Ratio Profile Blood Test is useful for investigating suspected Cushing syndrome (hypercortisolism), assisting in diagnosing acquired or inherited abnormalities of 11-beta-hydroxy steroid dehydrogenase (cortisol to cortisone ratio), and diagnosis of pseudo-hyperaldosteronism due to excessive licorice consumption.
 Cortisone Blood Test, LC/MS/MS: A Cortisone Blood Test measures Cortisone, a steroidal hormone, a glucocorticoid which is released by adrenal glands. It also has the ability to act as an anti-inflammatory compound and an antidiuretic hormone.
 Cotton Allergy Blood Test: The Cotton Allergy test measures the IgE antibody levels to detect an allergy to cotton fibers.
-Crab Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Crab Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to crabs.
+Crab Allergy IgE Blood Test: The Crab Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to crabs.
 Creatine Kinase (CK) Blood Test, Total: A CPK test or CK test is a blood test used to evaluate levels of creatine kinase (CK), an enzyme released when muscle damage occurs.
 Creatine Kinase Isoenzymes (CK Isoenzymes) Blood Test without Total CK: A CK Isoenzymes Blood Test without Total CK is useful in locating damage to muscles in your body, including heart, brain, and skeletal muscle.
 Creatine Kinase Isoenzymes (CK Isoenzymes) with Total CK Blood Test: A CK Isoenzymes measures the different forms of CPK in the blood. CPK is an enzyme found mainly in the heart, brain, and skeletal muscle.
@@ -307,7 +307,7 @@ Creatinine Clearance 24-Hour Urine and Blood Test: A Creatinine Clearance 24-Hou
 Creatinine Urine Test, 24-Hour: A Creatinine Urine Test is used to determine glomerular filtration rate, which helps to measure how well the kidney functions.
 Creatinine Urine Test, Random: A Creatinine Urine Test, Random is useful in monitoring kidney function.
 Cryptococcal Antigen Blood Test: The Cryptococcal Antigen Blood Test detects the presence of cryptococcal antigens to screen for Cryptococcosis.
-Cucumber Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Cucumber Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to cucumbers.
+Cucumber Allergy IgE Blood Test: The Cucumber Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to cucumbers.
 Cultivated Oat Allergy IgE Blood Test: The cultivated oat allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to cultivated oats.
 Curry Powder Allergy IgE Blood Test: The Curry Powder Allergy test measures the IgE antibody levels to detect a food sensitivity to curry powder.
 Cyclic Citrullinated Peptide (CCP) Antibody Blood Test, IgG: The Cyclic Citrullinated Peptide (CCP) Antibody Blood Test, IgG detects and measures CCP antibodies in the blood to screen for rheumatoid arthritis.
@@ -326,12 +326,12 @@ Dengue Fever Antibody (IgM) Blood Test: The Dengue Fever Antibody (IgM) Blood Te
 Deoxycorticosterone (DOC) Blood Test: A DOC Blood Test measures Deoxycorticosterone (DOC), a steroid hormone produced by the adrenal gland that possess mineralocorticoid activity and acts as a precursor to aldosterone.
 Dermatophagoides Pteronyssinus IgE Blood Test: The Dermatophagoides Pteronyssinus test measures the IgE antibody levels to detect an allergy to house dust mites.
 DetoxiGenomic Profile, Buccal Swab - Genova Test Kit: The DetoxiGenomic profile identifies genomic risk for chemical sensitivities, oxidative stress, and ability to handle various medications.
-Diabetes #1 Baseline Blood Test Panel: November Special: Save 15% with coupon code NOV15.The Diabetes #1 Baseline Blood Test Panel measures various markers in your blood to assess your risk of developing or monitoring your diabetes.
-Diabetes #2 Essential Blood and Urine Test Panel: November Special: Save 15% with coupon code NOV15.A Diabetes #2 Essential Blood and Urine Test Panel includes a Complete Metabolic Panel (CMP-14) with Glucose, Complete Blood Count (CBC)'s, Hemoglobin A1C plus Insulin, Urinalysis,Microalbumin/Creatinine Ratio Urine, and C-Peptide.
-Diabetes and Vitamin D Blood Test Panel: November Special: Save 15% with coupon code NOV15.The Diabetes and Vitamin D Blood Test Panel includes a Glucose Serum, Fasting Insulin, Hemoglobin A1c, Vitamin D 25-Hydroxy.
+Diabetes #1 Baseline Blood Test Panel: The Diabetes #1 Baseline Blood Test Panel measures various markers in your blood to assess your risk of developing or monitoring your diabetes.
+Diabetes #2 Essential Blood and Urine Test Panel: A Diabetes #2 Essential Blood and Urine Test Panel includes a Complete Metabolic Panel (CMP-14) with Glucose, Complete Blood Count (CBC)'s, Hemoglobin A1C plus Insulin, Urinalysis,Microalbumin/Creatinine Ratio Urine, and C-Peptide.
+Diabetes and Vitamin D Blood Test Panel: The Diabetes and Vitamin D Blood Test Panel includes a Glucose Serum, Fasting Insulin, Hemoglobin A1c, Vitamin D 25-Hydroxy.
 Digoxin Blood Test: The Digoxin Blood Test is useful in determining the level of the medication digoxin in the blood.
 Dihydrotestosterone (DHT) Blood Test, LC/MS: The Dihydrotestosterone (DHT) Blood Test measures DHT levels in the blood to help determine the cause of male pattern hair loss and prostate problems.
-Dill Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Dill Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to dill.
+Dill Allergy IgE Blood Test: The Dill Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to dill.
 Diphenhydramine (Benadryl) Blood Test: The Diphenhydramine (Benadryl) Blood test measures the diphenhydramine levels in the blood.
 Diurnal Cortisol (Cx4) - ZRT Test Kit: The diurnal cortisol test kit tests cortisol levels four times in a 24-hour period.
 Dog Dander Allergy IgE Blood Test: The Dog Dander Allergy Blood Test measures the IgE antibody levels in the blood to detect a dog allergy.
@@ -345,9 +345,9 @@ Drug Abuse Profile, Urine Test (Seven Drugs + Alcohol): A Drug Abuse Profile Uri
 Drug Profile, Urine (Nine Drugs), Immunoassay With GC/MS Confirmation Urine Test: A Drug Profile, Urine (Nine Drugs), Immunoassay With GC/MS Confirmation Urine Test Includes: Amphetamines; barbiturates; benzodiazepines; cannabinoids (marijuana); cocaine; methadone (Dolophine); opiates (codeine, morphine only); phencyclidine (PCP); propoxyphene.
 Duck Feather Allergy IgE Blood Test: The duck feather allergy blood test measures the amount of allergen-specific IgE antibodies in the blood in order to detect an allergy to duck feathers.
 Dust Mite Allergy IgE Blood Test: The Dust Mite Allergy Blood Test measures the IgE antibody levels in the blood to detect an allergy to dust mites.
-Egg Component Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Egg Component Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to two types of egg proteins.
-Egg White Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Egg White Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to egg whites.
-Egg Yolk Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Egg Yolk Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to egg yolks.
+Egg Component Allergy IgE Blood Test: The Egg Component Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to two types of egg proteins.
+Egg White Allergy IgE Blood Test: The Egg White Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to egg whites.
+Egg Yolk Allergy IgE Blood Test: The Egg Yolk Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to egg yolks.
 Electrolyte Blood Test Panel: The Electrolyte Blood Test Panel measures electrolyte levels in the blood to help determine an electrolyte, fluid, or pH imbalance.
 Electrolyte Stool Test: The Electrolyte Stool Test measures certain electrolytes' concentration (osmolality) in a stool sample to determine the cause of chronic diarrhea.
 Elemental Analysis Profile - Genova Test Kit: The Elemental Analysis Profile measures blood levels for four common toxic metals and eight nutrient elements to help screen for toxic metal exposure and common mineral imbalances.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
@@ -415,7 +415,7 @@ Follicle-stimulating Hormone (FSH) Blood Test: The Follicle-Stimulating Hormone 
 Follicle-stimulating Hormone (FSH) and Luteinizing Hormone (LH) Blood Test Panel: The Follicle-Stimulating Hormone (FSH) and Luteinizing Hormone (LH) Blood Test Panel measures FSH & LH levels and helps screen for issues with fertility or reproductive organs, ovulation, or pituitary function.
 Formaldehyde Allergy IgE Blood Test: The formaldehyde allergy test measures the amount of allergen-specific IgE antibodies in the blood in order to detect an allergy to formaldehyde.
 Free T3 and Free T4 Blood Test Panel: The Free T3 and Free T4 Blood Test Panel evaluate thyroid function if a thyroid disorder is suspected.
-Fructosamine Blood Test: November Special: Save 15% with coupon code NOV15.The Fructosamine Blood Test measures fructosamine levels in the blood to determine the average glucose levels over the past two to three weeks.
+Fructosamine Blood Test: The Fructosamine Blood Test measures fructosamine levels in the blood to determine the average glucose levels over the past two to three weeks.
 Fungal Antibodies Blood Test, Quantitative Double Immunodiffusion: The fungal antibodies blood test, quantitative double immunodiffusion aids in the diagnosis of pathogenic or opportunistic fungal infections.
 GI Effects Fundamentals Profile - Genova Test Kit: The GI Effects Fundamentals stool profile offers valuable insight into digestive function, intestinal inflammation, and the intestinal microbiome.
 GI Pathogen Profile, Multiplex PCR Stool Kit - Doctor's Data Test Kit: The GI Pathogen Profile, multiplex PCR Kit is used to test for the presence of viral infections or to differentiate between possible diarrheagenic strains of E. coli.
@@ -424,46 +424,46 @@ GI360™ Microbiome, Stool - Doctor's Data Test Kit: The GI360™ microbiome pro
 GI360™ Profile, Stool - Doctor's Data Test Kit: The GI360™ can identify the presence of pathogenic viruses, bacteria, and parasites using multiplexed, real-time PCR.
 Galectin-3 Blood Test: A Galectin-3 Test may be ordered for the identification of individuals with chronic heart failure at elevated risk of disease progression.
 Gamma-Glutamyl Transferase (GGT) Blood Test: The Gamma-Glutamyl Transferase (GGT) Blood Test measures GGT levels in the blood to screen for liver or bile duct disease.
-Garlic Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Garlic Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to garlic.
+Garlic Allergy IgE Blood Test: The Garlic Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to garlic.
 Gastrin Blood Test: The Gastrin Blood Test is used to detect an overproduction of gastrin, to help diagnose Zollinger-Ellison syndrome and G-cell hyperplasia, and to monitor for recurrence of a gastrin-producing tumor (gastrinoma).
 Gastrointestinal (GI) Effects Comprehensive Stool Profile 1 Day- Genova Test Kit: The Gastrointestinal (GI) Effects Comprehensive Stool Profile 1-Day Test Kit assesses digestive function, intestinal inflammation, and the intestinal microbiome to assist in managing gastrointestinal health.
 Gastrointestinal (GI) Effects Comprehensive Stool Profile 3 Day - Genova Test Kit: The GI Effects Comprehensive Stool Profile is the stool test of choice for optimizing clinical value in managing gut health.
 Gastrointestinal (GI) Effects Microbial Ecology Stool Profile - Genova Test Kit: The GI Effects Microbial Ecology Stool Profile uses DNA analysis to identify parameters for identifying gastrointestinal disorders.
 Gastrointestinal Profile PCR Stool Test: The Gastrointestinal Profile, Stool, PCR, detect nucleic acids from multiple pathogens in a stool sample to screen for a gastrointestinal infection.
-Gelatin Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The gelatin allergy test measures the amount of allergen-specific IgE antibodies in the blood in order to detect an allergy to gelatin.
+Gelatin Allergy IgE Blood Test: The gelatin allergy test measures the amount of allergen-specific IgE antibodies in the blood in order to detect an allergy to gelatin.
 Gerbil Epithelium Allergy IgE Blood Test: The Gerbil Epithelium Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to gerbils.
 German Cockroach Allergy IgE Blood Test: The German Cockroach Allergy Blood Test checks for an allergic reaction to German cockroaches by looking for IgE antibodies in the blood.
-Gestational Diabetes Blood Test: November Special: Save 15% with coupon code NOV15.A Gestational Diabetes Blood Test is used to identify gestational diabetes in pregnant women.
-Gestational Glucose Tolerance Diagnostic Blood Test, 3-Hour (ACOG Recommendations): November Special: Save 15% with coupon code NOV15.This Gestational Glucose Tolerance Diagnostic Blood Test, 3-Hour, measures a pregnant woman's blood glucose (sugar) level and screens for gestational diabetes.
+Gestational Diabetes Blood Test: A Gestational Diabetes Blood Test is used to identify gestational diabetes in pregnant women.
+Gestational Glucose Tolerance Diagnostic Blood Test, 3-Hour (ACOG Recommendations): This Gestational Glucose Tolerance Diagnostic Blood Test, 3-Hour, measures a pregnant woman's blood glucose (sugar) level and screens for gestational diabetes.
 Giant Ragweed Allergy IgE Blood Test: The giant ragweed allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to giant ragweed.
 Giardia Lamblia Stool Test, EIA: The Giardia Lamblia Stool Test, EIA is used in the Rapiddetection of the Giardialamblia parasite.
 Gillis Blood Test Panel: The Gillis blood test panel includes complete blood count (CBC) with differential and platelets, comprehensive metabolic panel (CMP-14) with eGFR, thyroid-stimulating hormone (TSH), lipase serum test, lactic acid dehydrogenase (LD), and ammonia plasma test.
-Ginger Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The ginger allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood in order to detect an allergy to ginger.
+Ginger Allergy IgE Blood Test: The ginger allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood in order to detect an allergy to ginger.
 Gliadin Antibody Profile Blood Test, IgA and IgG: A Gliadin Antibody Profile Blood Test, IgA and IgG is used in the detection of gliadin antibodies aids in the diagnosis and monitoring of certain gluten-sensitive enteropathies, such as celiac disease and dermatitis herpetiformis.
-Glucagon Blood Test: November Special: Save 15% with coupon code NOV15.A Glucagon Blood Test is useful in measuring the amount of glucagon in the bloodstream.
+Glucagon Blood Test: A Glucagon Blood Test is useful in measuring the amount of glucagon in the bloodstream.
 Glucose 6-Phosphate Dehydrogenase (G6PD) Blood Test, Quantitative: The G6PD Blood Test, Quantitative evaluatesG6PD deficiency; determine the cause of drug-induced hemolysis or hemolysis secondary to acute bacterial or viral infection or metabolic disorder such as acidosis
-Glucose Blood Test, Gestational Screen (50g), 135 Cutoff: November Special: Save 15% with coupon code NOV15.A glucose blood test, gestational screen is used to assist in the diagnosis of diabetes during pregnancy.
-Glucose Blood Test, Two-hour Postprandial: November Special: Save 15% with coupon code NOV15.A 2-hr Postprandial Glucose Test establishes the diagnosis of diabetes mellitus.
-Glucose Plasma Test: November Special: Save 15% with coupon code NOV15.A fasting blood sugar; Glucose Plasma Test determines if your blood glucose level is within healthy ranges.
-Glucose Serum Test: November Special: Save 15% with coupon code NOV15.A Glucose Serum Test diagnoses and monitors diabetes.
-Glucose Tolerance (GTT) Blood Test, 2-Hour (Oral WHO Protocol): November Special: Save 15% with coupon code NOV15.The Glucose Tolerance (GTT) Blood Test is used for the screening and diagnosis of diabetes mellitus, Type 2 Diabetes.
-Glucose Tolerance (GTT) Blood Test, 2-Hour, 3 Specimens: November Special: Save 15% with coupon code NOV15.The glucose tolerance 2-hour blood test is used to assess an individual's glucose tolerance.
-Glucose Tolerance Test (GTT) Blood Test, 3-Hour, 4 Specimens: November Special: Save 15% with coupon code NOV15.A GTT Blood Test or 3-Hour Glucose test assesses 4 Specimens is ordered for the screening and diagnosis of diabetes mellitus.
-Glucose Tolerence Test (GTT) Blood Test, 4-Hour, 5 Specimens: November Special: Save 15% with coupon code NOV15.A glucose tolerance test measures how well your body's cells are able to absorb glucose, or sugar, after you ingest a given amount of sugar.
-Glutamic Acid Decarboxylase (GAD) Autoantibody Blood Test: November Special: Save 15% with coupon code NOV15.The Glutamic Acid Decarboxylase (GAD) Autoantibody Blood Test detects autoantibodies that target insulin-producing pancreatic cells to help confirm the diagnosis of type 1 diabetes and evaluate the need for insulin treatment.
+Glucose Blood Test, Gestational Screen (50g), 135 Cutoff: A glucose blood test, gestational screen is used to assist in the diagnosis of diabetes during pregnancy.
+Glucose Blood Test, Two-hour Postprandial: A 2-hr Postprandial Glucose Test establishes the diagnosis of diabetes mellitus.
+Glucose Plasma Test: A fasting blood sugar; Glucose Plasma Test determines if your blood glucose level is within healthy ranges.
+Glucose Serum Test: A Glucose Serum Test diagnoses and monitors diabetes.
+Glucose Tolerance (GTT) Blood Test, 2-Hour (Oral WHO Protocol): The Glucose Tolerance (GTT) Blood Test is used for the screening and diagnosis of diabetes mellitus, Type 2 Diabetes.
+Glucose Tolerance (GTT) Blood Test, 2-Hour, 3 Specimens: The glucose tolerance 2-hour blood test is used to assess an individual's glucose tolerance.
+Glucose Tolerance Test (GTT) Blood Test, 3-Hour, 4 Specimens: A GTT Blood Test or 3-Hour Glucose test assesses 4 Specimens is ordered for the screening and diagnosis of diabetes mellitus.
+Glucose Tolerence Test (GTT) Blood Test, 4-Hour, 5 Specimens: A glucose tolerance test measures how well your body's cells are able to absorb glucose, or sugar, after you ingest a given amount of sugar.
+Glutamic Acid Decarboxylase (GAD) Autoantibody Blood Test: The Glutamic Acid Decarboxylase (GAD) Autoantibody Blood Test detects autoantibodies that target insulin-producing pancreatic cells to help confirm the diagnosis of type 1 diabetes and evaluate the need for insulin treatment.
 Glutathione, Total Blood Test: The Glutathione, Total Blood Test is used to measure the amount of Glutathione in the blood.
-Gluten Blood Test: November Special: Save 15% with coupon code NOV15.The Gluten Blood Test measures the IgE antibody levels to screen for adverse reactions to gluten proteins found in wheat.
-GlycoMark Blood Test: November Special: Save 15% with coupon code NOV15.A GlycoMark Blood Test is used to assist in diabetes management.
+Gluten Blood Test: The Gluten Blood Test measures the IgE antibody levels to screen for adverse reactions to gluten proteins found in wheat.
+GlycoMark Blood Test: A GlycoMark Blood Test is used to assist in diabetes management.
 Goat Milk Allergy IgE Blood Test: The Goat Milk Allergy test measures IgE antibody levels to help detect an allergy to the proteins found in goat milk.
 Gonadotropin-Releasing Hormone (GnRH) Blood Test: The Gonadotropin-Releasing Hormone (GnRH) test measures the levels of GnRH production.
 Goose Feather Allergy IgE Blood Test: The Goose Feather Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to goose feathers.
-Grape Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The Grape Allergy test measures the IgE antibody levels to detect a grape allergy.
-Grapefruit Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Grapefruit IgE Allergy Blood Test measures the IgE antibody levels in the blood to help detect an allergy to grapefruit.
-Green Bean Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Green Bean Allergy test measures the IgE antibody levels and helps detect a food allergy to green beans.
+Grape Allergy Blood Test: The Grape Allergy test measures the IgE antibody levels to detect a grape allergy.
+Grapefruit Allergy IgE Blood Test: The Grapefruit IgE Allergy Blood Test measures the IgE antibody levels in the blood to help detect an allergy to grapefruit.
+Green Bean Allergy IgE Blood Test: The Green Bean Allergy test measures the IgE antibody levels and helps detect a food allergy to green beans.
 Green Pepper Allergy IgE Blood Test: The Green Pepper Allergy test measures the IgE antibody levels and helps detect a food allergy to green peppers.
 Growth Hormone Antibody Blood Test: This Growth Hormone Antibody Test is used to look for growth hormone (GH) antibodies in your blood.
 Growth Hormone Blood Test Panel: The Growth Hormone Blood Test Panel measures HGH and IGF-1 levels in the blood to help diagnose growth hormone disorders and monitor GH treatment effectiveness.
-Guar Bean Gum Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Guar Bean Gum Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to guar gum.
+Guar Bean Gum Allergy IgE Blood Test: The Guar Bean Gum Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to guar gum.
 Guinea Pig Allergy IgE Blood Test: The Guinea Pig Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to guinea pigs.
 Gut Pathogen Profile-Genova Test Kit: The Gut Pathogen Profile detects pathogenic or potentially pathogenic organisms such as parasites, bacteria, and yeast in a stool sample.
 HELLP Syndrome Blood Test Panel: A HELLP Syndrome Blood Test Panel includes CBC, CMP, LDH, and Uric Acid.
@@ -478,7 +478,7 @@ Hair Elements Kit - Doctor's Data Test Kit: The Hair Elements Kit evaluates expo
 Hair Loss (Alopecia) Blood Test Panel: The Hair Loss (Alopecia) Blood Test Panel includes Complete Blood Count (CBC) with Differential and Platelets, Thyroid-stimulating Hormone (TSH), Testosterone Total, Iron and TIBC, Sedimentation Rate (ESR), and Antinuclear Antibodies (ANA).
 Hair Toxic Element Exposure Profile- Doctor's Data Test Kit: The Hair Element Exposure Profile evaluates exposure to 31 essential and potentially toxic elements in a hair sample and monitors the progress of metal detoxification therapy.
 Haptoglobin Blood Test: The Haptoglobin Blood Test measures haptoglobin levels in the blood to screen for hemolytic anemia.
-Hazelnut Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Hazelnut Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to hazelnuts.
+Hazelnut Allergy IgE Blood Test: The Hazelnut Allergy Blood Test measuresIgEantibodies in the blood and the level of an individual's reaction to hazelnuts.
 Health Check Blood and Urine Test Panel, Men: A Health Check Blood and Urine Test Panel for men includes a Complete Blood Count (CBC) With Differential, CMP-14, Lipid Profile, Prostate Specific Antigen Serum, Urinalysis Complete, Testosterone Free (Direct) with Total Testosterone Serum, Dehydroepiandrosterone (DHEA) Sulfate and Vitamin D 25-hydroxy.
 Health Check Blood and Urine Test Panel, Women: A Health Check Blood and Urine Test Panel for Women includes a Wellness #2 Essential (Lipid Profile, Complete Blood Count (CBC) With Differential, Complete Metabolic Panel (CMP-14) with eGFR, Fluids & Electrolytes, Thyroid Panel with Thyroid-stimulating Hormone (TSH) with Thyroid (TH), Liver Panel, Kidney Panel, Glucose, Mineral & Bone); Estrogen, Estradiol, Urinalysis Complete with Microscopic Examination and Vitamin D 25-hydroxy.
 Heart Health #1 Baseline Blood Test Panel: The Heart Health #1 Baseline Blood Test Panel is a detailed panel assessing cardiovascular disease (CVD) risk and overall health.
@@ -491,8 +491,8 @@ Heavy Metals Profile I Urine Test: A Heavy Metals Profile I Urine Test monitors 
 Heavy Metals Profile II Blood Test: A Heavy Metals Profile II Blood Test monitors exposure to arsenic, lead, mercury, and cadmium.
 Helicobacter pylori ( H. Pylori) Antigen Stool Test: This H. Pylori Antigen Stool Test establishes the presence and possible etiologic role of Helicobacter pylori in cases of chronic gastric ulcer, gastritis, duodenal ulcer, dyspepsia, etc.
 Helicobacter pylori (H. pylori) UREA Breath Test: The urea breath test can be used to aid in the diagnosis of H pylori infection. The test can also be used to assess therapy when it is administered more than a month after completion of therapy.
-Hemoglobin (Hb) A1c Blood Test: November Special: Save 15% with coupon code NOV15.The Hemoglobin A1c Blood Test is used to calculate the average glucose level in the blood over an extended period.
-Hemoglobin (Hb) A1c With eAG Blood Test: November Special: Save 15% with coupon code NOV15.Test to evaluate average amount of glucose in your blood.
+Hemoglobin (Hb) A1c Blood Test: The Hemoglobin A1c Blood Test is used to calculate the average glucose level in the blood over an extended period.
+Hemoglobin (Hb) A1c With eAG Blood Test: Test to evaluate average amount of glucose in your blood.
 Hemoglobin (Hb) Solubility Blood Test: The Hemoglobin (Hb) Solubility Blood Test detects the presence of abnormal hemoglobin S (Hb S) to help screen for sickle cell anemia.
 Hemoglobin (Hb), Free, Qualitative, Urine Test: The Hemoglobin (Hb), Free, Qualitative, Urine Test detects hemoglobin in a urine sample to help screen for hemoglobinuria.
 Hemoglobin A1C Blood Spot - ZRT Test Kit: Hemoglobin A1C is an indicator of glycosylated hemoglobin, which results from glucose binding in red blood cells with hemoglobin.
@@ -555,7 +555,7 @@ Human Parvovirus B19 Blood Test, IgG and IgM: A human parvovirus B19 blood test 
 Human T-Cell Lymphotropic Virus 1 and 2 (HTLV-1/HTLV-2) Antibodies Blood Test, Preliminary With Confirmation: The Human T-Cell Lymphotropic Virus 1 and 2 screen patients for infection with human T-lymphotropic virus and, if positive, confirm infection with eitherHTLV-1 orHTLV-2.
 Human T-Cell Lymphotropic Virus 1 and 2 (HTLV-1/HTLV-2) Antibodies Blood Test: The HTLV-1/HTLV-2 Antibodies Blood Test is used to screen patients for infection with the human T-lymphotropic virus.
 Hypersensitivity Pneumonitis Evaluation: The Hypersensitivity Pneumonitis Evaluation detects specific antibodies in the blood to help diagnose hypersensitivity pneumonitis.
-IA2 Autoantibodies (Endocrine Sciences): November Special: Save 15% with coupon code NOV15.The IA2 Autoantibodies Test assists in identifying individuals with an increased risk of developing type 1 diabetes or requiring insulin treatment and aids in the classification of diabetes.
+IA2 Autoantibodies (Endocrine Sciences): The IA2 Autoantibodies Test assists in identifying individuals with an increased risk of developing type 1 diabetes or requiring insulin treatment and aids in the classification of diabetes.
 ION Profile with 40 Amino Acids, Blood and Urine - Genova Test Kit: The ION® Profile with 40 Amino Acids, Blood & Urine Test Kit helps identify nutrient deficiencies that can lead to complex chronic conditions.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
 IgE Antibody (Anti-IgE IgG) Blood Test: The IgE Antibody (Anti-IgE-IgG) Blood Test detects IgG antibodies specific for IgE in the blood to screen for autoimmune urticaria.
 IgE Inhalants Blood Test- Genova Test Kit: The IgE Inhalants Blood Test is a Chemiluminescent test to evaluate serum IgE antibody levels to 14 region-specific common pollens and environmental inhalants. This is an ideal test for patients with suspected environmental and/or seasonal allergies.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
@@ -574,12 +574,12 @@ Inflammatory #1 Baseline Blood Test Panel: This Inflammatory #1 Baseline Blood T
 Inflammatory #2 Essential Blood Test Panel: This Inflammatory #2 Essential Blood Test Panel screens for inflammation caused by certain cardiovascular and autoimmune diseases.
 Inflammatory Bowel Disease (IBD) Profile Blood Test: The IBD blood test is used to rule out Crohn's disease and ulcerative colitis.
 Influenza A and B Antibodies Blood Test, Quantitative: An Influenza A & B Antibodies Quantitative Serum Test is used to identify specimens as acute or convalescent.
-Insulin Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The insulin allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to insulin.
-Insulin Autoantibodies (IAA) (Endocrine Sciences): November Special: Save 15% with coupon code NOV15.The Insulin Autoantibodies (IAA) Test helps assess if an individual has an increased risk of developing autoimmune type 1 diabetes.
-Insulin Fasting Blood Test: November Special: Save 15% with coupon code NOV15.A Insulin Fasting Blood Test is used in diagnosing and the therapy of various disorders of carbohydrate metabolism, including diabetes mellitus and hypoglycemia.
-Insulin Free and Total Blood Test: November Special: Save 15% with coupon code NOV15.An Insulin Free and Total Blood Test includes Insulin Free and Insulin Total.
-Insulin Response Blood Test, 3 Specimens: November Special: Save 15% with coupon code NOV15.The Insulin Response Blood Test, 3-Specimens, measures insulin levels in response to glucose to help screen for hypoglycemia and suspected insulin resistance.
-Insulin Response to Glucose Blood Test, 2 Specimens: November Special: Save 15% with coupon code NOV15.The insulin response to glucose infusion is useful in evaluating patients with hypoglycemia and suspected insulin-resistance.
+Insulin Allergy IgE Blood Test: The insulin allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to insulin.
+Insulin Autoantibodies (IAA) (Endocrine Sciences): The Insulin Autoantibodies (IAA) Test helps assess if an individual has an increased risk of developing autoimmune type 1 diabetes.
+Insulin Fasting Blood Test: A Insulin Fasting Blood Test is used in diagnosing and the therapy of various disorders of carbohydrate metabolism, including diabetes mellitus and hypoglycemia.
+Insulin Free and Total Blood Test: An Insulin Free and Total Blood Test includes Insulin Free and Insulin Total.
+Insulin Response Blood Test, 3 Specimens: The Insulin Response Blood Test, 3-Specimens, measures insulin levels in response to glucose to help screen for hypoglycemia and suspected insulin resistance.
+Insulin Response to Glucose Blood Test, 2 Specimens: The insulin response to glucose infusion is useful in evaluating patients with hypoglycemia and suspected insulin-resistance.
 Insulin-Like Growth Factor 2 (IGF-2) Blood Test, LC/MS: The insulin-like growth factor 2 (IFG-2) test may be used as an adjunct to IGF-1 in the diagnosis of growth disorders.
 Insulin-like Growth Factor (IGF-1) Blood Test: A IGF-1 Blood Test is ordered to help diagnose the cause of growth abnormalities and to evaluate pituitary function.
 Insulin-like Growth Factor-binding Protein 3 (IGFBP-3) Blood Test: An IGFBP-3 Blood Test is used to measure this protein which is the major carrier of IGFs in plasma.
@@ -599,26 +599,26 @@ Iron Serum Test: An iron serum test aids in the evaluation of many conditions in
 Iron and Total Iron-Binding Capacity (TIBC) Blood Test: The Iron and Total Iron-Binding Capacity (TIBC) Blood Test assesses the body's ability to bind and transport iron in the blood, which can help identify an iron deficiency, anemia, or overload.
 Isocyanates Profile Blood Test: This isocyanates profile blood test is used to measure levels of TDI, MDI, and HDI.
 JBB MD Customer Blood Test Panel: JBB MD Customer Panel includes CMP, CBC, Ferritin, Iron and TIBC, Lipid Panel, CRP, Magnesium RBC, Zinc RBC, Ceruloplasim, Vitamin B12, Folate, Homocysteine, TSH, and Free T4.
-Jack Mackerel/Scad Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Jack Mackerel/Scad Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to jack mackerel or scad fish.
+Jack Mackerel/Scad Allergy IgE Blood Test: The Jack Mackerel/Scad Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to jack mackerel or scad fish.
 Japanese Cedar Allergy IgE Blood Test: The Japanese Cedar Allergy test measures the IgE antibody levels to detect a pollen allergy to Japanese Cedar.
 Kappa Light Chain, Free, Blood Test: The Kappa Light Chain, Free, Serum Test measures the levels of a specific protein in the blood and is used to diagnose or monitor plasma cell disorders.
 Kidney #1 Baseline Blood and Urine Test Panel: A Kidney #1 Baseline Blood and Urine Test Panel is a Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP-14) and Urinalysis Complete with Microscopic Examination.
 Kidney #2 Essential Blood and Urine Test Panel: A Kidney #2 Essential Blood and Urine Test Panel includes a Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP-14), Urinalysis Complete with Microscopic Examination plus Parathyroid Hormone (PTH) Intact and Vitamin D, 25-hydroxy.
 Kidney #3 Extreme Blood and Urine Test Panel: A Kidney #3 Extreme Blood and Urine Test Panel includes Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP-14), Urinalysis Complete with Microscopic Examination plus Parathyroid Hormone (PTH) Intact, Vitamin D, 25-hydroxy, CPK, Phosphorus, Protein Electrophoresis Serum, Protein and Creatinine, random urine, and Microalbumin Random Urine.
-Kiwi Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Kiwi Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to kiwi.
+Kiwi Allergy IgE Blood Test: The Kiwi Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to kiwi.
 LUPUS Auto-Immune Blood Test Panel: A LUPUS blood test includes: Antinuclear Antibodies (ANA) Direct, Complete Blood Count with Differential and Platelets (CBC), Urinalysis Complete, Rheumatoid Arthritis (RA) Factor, Sedimentation Rate (ESR), C-Reactive Protein (CRP) High Sensitivity Cardiac Risk, Comprehensive Metabolic Panel - 14 tests, Prothrombin Time (PT) and Partial Thromboplastin Time (PTT).
 Lacosamide, Serum or Plasma Test: The Lacosamide, Serum or Plasma Test monitors drug therapy and adherence by measuring Lacosamide concentration in the blood.
 Lactate Dehydrogenase (LD) Isoenzymes Blood Test: The Lactate Dehydrogenase (LD) Isoenzymes Blood Test measures LD levels in the blood to assess tissue damage severity.
 Lactic Acid Blood Test: The Lactic Acid Blood Test measures lactate levels in the blood to screen for lactic acidosis.
 Lactic Acid Dehydrogenase (LD) Blood Test: The Lactate Dehydrogenase (LD) Blood Test measures LD levels in the blood to screen and monitor tissue damage.
-Lactose Tolerance Blood Test - 5 Specimen: November Special: Save 15% with coupon code NOV15.The Lactose Tolerance 5 Specimen Blood Test helps diagnose lactose intolerance in individuals who have difficulties digesting dairy products, or sometimes as part of an investigation of malabsorption.
-Lamb (Meat) Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Lamb (Meat) Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect a food allergy to lamb meat.
+Lactose Tolerance Blood Test - 5 Specimen: The Lactose Tolerance 5 Specimen Blood Test helps diagnose lactose intolerance in individuals who have difficulties digesting dairy products, or sometimes as part of an investigation of malabsorption.
+Lamb (Meat) Allergy IgE Blood Test: The Lamb (Meat) Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect a food allergy to lamb meat.
 Lamb's Quarters (Goose Foot) Allergy IgE Blood Test: The Lamb's Quarters (Goose Foot) Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to goosefoot.
 Lamotrigine Blood Test: The lamotrigine blood test is used in monitoring serum concentration of lamotrigine, assessing compliance, and adjusting lamotrigine dose in patients receiving other anticonvulsant drugs which interact pharmacokinetically with lamotrigine.
 Latex Allergy Blood Test: The Latex Allergy Blood Test measures the IgE antibody levels in the blood to detect an allergy to latex.
 Lead Blood Test: The Lead Blood Test measures lead levels in the blood to screen for lead poisoning.
 Lead Standard Profile, Blood: The Lead and Protoporphyrin Blood Test measures lead and zinc protoporphyrin levels in the blood to screen for chronic lead exposure.
-Lemon Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The Lemon Allergy test measures the IgE antibody levels to detect a lemon allergy.
+Lemon Allergy Blood Test: The Lemon Allergy test measures the IgE antibody levels to detect a lemon allergy.
 Leptin Blood Test: The Leptin test measures the amount of leptin in your blood and is used to figure body fat amount.
 LetsGetChecked - Colon Cancer Screening Stool Test Kit: The LetsGetChecked - Colon Cancer Screening Stool Test Kit includes Fecal Immunochemical Test (FIT).Get 25% off today with our exclusive discount code WALKINLAB.
 LetsGetChecked - Complete 8 Urine and Blood Spot Test Kit: The LetsGetChecked - Complete 8 Urine and Blood Spot Test Kit includesChlamydia, Gonorrhea, HIV (I, II, P24 antigen), Syphilis, Mycoplasma, Ureaplasma, Trichomoniasis, and Gardnerella (Bacterial Vaginosis).Get 25% off today with our exclusive discount code WALKINLAB.
@@ -637,11 +637,11 @@ LetsGetChecked - Testosterone Blood Spot Test Kit: The LetsGetChecked - Testoste
 LetsGetChecked - Thyroid Antibody Blood Spot Test Kit: The LetsGetChecked - Thyroid Antibody Blood Spot Test Kit includes Thyroid Stimulating Hormone (TSH), Free Thyroxine (FT4), Free Triiodothyronine (FT3), Thyroglobulin Antibodies (TGAB), and Thyroid Peroxidase Antibodies (TPO/TPEX).Get 25% off today with our exclusive discount code WALKINLAB.
 LetsGetChecked - Thyroid Blood Spot Test Kit: The LetsGetChecked - Thyroid Blood Spot Test Kit includes Thyroid Stimulating Hormone (TSH), Free Thyroxine (FT4), and Free Triiodothyronine (FT3).Get 25% off today with our exclusive discount code WALKINLAB.
 LetsGetChecked - Vaginitis (BV, CV, TV) Swab Test Kit: The LetsGetChecked - Vaginitis (BV, CV, TV) Swab Test Kit includes Bacterial Vaginosis (BV), Candida Vaginitis (CV), and Trichomonas Vaginitis (TV).Get 25% off today with our exclusive discount codeWALKINLAB.
-Lima Bean Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Lima Bean Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to lima beans.
+Lima Bean Allergy IgE Blood Test: The Lima Bean Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to lima beans.
 Lime Allergy IgE Blood Test: The Lime Allergy test measures the IgE antibody levels to detect a lime allergy.
 Lipase Serum Test: The Lipase Serum Test monitors pancreatic functions.
-Lipid Blood Test Panel Plus Hemoglobin (Hb) A1C: November Special: Save 15% with coupon code NOV15.The Lipid Panel Blood Test Plus Hemoglobin (HB) A1c measures fats in the blood, and the average glucose level from over 12 weeks, to screen for cardiovascular disease in individuals with diabetes.
-Lipid Blood Test Panel Plus Hemoglobin A1C and Glucose: November Special: Save 15% with coupon code NOV15.A Lipid Blood Test Panel Plus Hemoglobin A1C and Glucose includes Lipid Panel, Hemoglobin A1C, and Glucose.
+Lipid Blood Test Panel Plus Hemoglobin (Hb) A1C: The Lipid Panel Blood Test Plus Hemoglobin (HB) A1c measures fats in the blood, and the average glucose level from over 12 weeks, to screen for cardiovascular disease in individuals with diabetes.
+Lipid Blood Test Panel Plus Hemoglobin A1C and Glucose: A Lipid Blood Test Panel Plus Hemoglobin A1C and Glucose includes Lipid Panel, Hemoglobin A1C, and Glucose.
 Lipid Panel Blood Test With LDL:HDL Ratio: The Lipid Panel Blood Test With LDL: HDL Ratio Blood Test measures the amount of lipids, including different types of cholesterol, to assess the risk of cardiovascular diseases.
 Lipid Panel Blood Test With Non-HDL: Lipid Profile with Non-HDL Blood Test is used to check the levels of cholesterol in your body.
 Lipid Panel Blood Test With Total Cholesterol: HDL Ratio: What's a cholesterol test? A cholesterol test is often referred to as a lipid panel or lipid profile and is used to measure lipids-fats and fatty substances used as a source of energy by your body. Lipids include cholesterol, triglycerides, vldl, high-density lipoprotein (HDL Cholesterol), and low-density lipoprotein (LDL Cholesterol).
@@ -655,14 +655,14 @@ Liver Profile #1 Baseline Blood Test Panel: A Liver Profile #1 Baseline Blood Te
 Liver Profile #2 Essential Blood Test Panel: A Liver Profile #2 Essential Blood Test Panel includes Hepatic-7 panel + GGT, LDH, Total Cholesterol plus Prothrombin Time (PT), Complete Blood Count with differential and platelets (CBC), Alpha-Fetoprotein (AFP) Serum Tumor.
 Liver Profile #3 Extreme Blood Test Panel: A Liver Profile #3 Extreme Blood Test Panel includes Hepatic-7 Panel + GGT, LDH, Total Cholesterol plus PT, CBC's, AFP, and Ferritin, plus Acute Hepatitis Panel.
 Liver-Kidney Microsomal (LKM) Antibodies Serum Test: The Liver-Kidney Microsomal (LKM) Antibodies Serum Test detects LKM antibodies in the blood to screen for autoimmune hepatitis.
-Lobster Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Lobster Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to lobster.
+Lobster Allergy IgE Blood Test: The Lobster Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to lobster.
 Low-density Lipoprotein Cholesterol (Direct) Blood Test: A Low-density Lipoprotein Cholesterol (Direct) Blood Test is used for the direct determination of LDL cholesterol.
-Lupin Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Lupin Allergy IgE Blood Test measures the IgE antibody levels in the blood to screen for an allergy to lupins.
+Lupin Allergy IgE Blood Test: The Lupin Allergy IgE Blood Test measures the IgE antibody levels in the blood to screen for an allergy to lupins.
 Luteinizing Hormone (LH) Serum Test: The Luteinizing Hormone (LH) Serum Test measures LH levels and helps screen for issues with fertility or reproductive organs, ovulation, and pituitary function.
 Lyme Disease Antibodies Blood Test, IgG and IgM: The Lyme disease blood test, western blot is used to detect antibodies specific for B burgdorferi.
 Lyme Disease DNA Blood Test, Qualitative, Real-Time PCR: A Lyme Disease DNA Blood Test, Qualitative, Real-Time PCR aids in the confirmation of active Lyme disease.
 Lysozyme Blood Test: The Lysozyme Blood Test monitors disease progression or regression in confirmed tuberculosis, sarcoidosis, or leukemia.
-Macadamia Nut Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The macadamia nut allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to macadamia nuts.
+Macadamia Nut Allergy IgE Blood Test: The macadamia nut allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to macadamia nuts.
 Macroprolactin Blood Test: The Macroprolactin Blood Test helps determine the causes of high prolactin levels in the blood.
 Magnesium Blood Test, RBC: The Magnesium Blood Test, RBC is the "gold standard" blood test to evaluate a magnesium deficiency.
 Magnesium Serum Test: The Magnesium Serum Test measures the level of magnesium in the blood. Magnesium is an important electrolyte and needed for proper muscle, nerve, and enzyme function.
@@ -671,14 +671,14 @@ Male Blood Spot Profile II - ZRT Test Kit: The Male Blood Spot Profile II checks
 Male Comprehensive Profile I Saliva and Blood - ZRT Test Kit: The Comprehensive Male Profile I Saliva and Blood is a combination of the male version of ZRT's Salivary Hormone Profile III and the Essential Thyroid Profile and include both saliva and dried blood spot tests.  The profile provides a broad assessment of possible hormonal imbalances because they assess sex, adrenal, and thyroid hormone levels.
 Male Comprehensive Profile II Saliva and Blood - ZRT Test Kit: The Male Comprehensive Profile II Saliva and Blood will test cortisol 4 times throughout the day in saliva, and the sex and thyroid hormones are all tested in dried blood spot.Comprehensive testing allows for the treatment to restore balance and achieve overall wellness.
 Manganese Whole Blood: The Manganese Whole Blood is used to monitor manganese exposure.
-Mango Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Mango Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to mangos.
+Mango Allergy IgE Blood Test: The Mango Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to mangos.
 Mannose Binding Lectin Blood Test: A mannose binding lectin (MBL) blood test measures the levels of this protein in your blood. Abnormal mannose binding lectin concentrations may be found in people with infectious and autoimmune disorders.
 Measles, Mumps, Rubella (MMR) Immunity Profile Blood Test: The Measles, Mumps, Rubella (MMR) Immunity Profile Blood Test detects antibodies to common infectious diseases, such as measles, mumps, and rubella, to help confirm immunity.
 Measles, Mumps, Rubella (MMR) and Varicella (VZV) Immunity Blood Test Panel: The Measles, Mumps, Rubella (MMR), and Varicella (VZV) Immunity Blood Test Panel detects antibodies to common infectious diseases, such as measles, mumps, rubella, and varicella zoster, to help confirm immunity.
 Melanocyte-stimulating Hormone (MSH) Blood Test: A melanocyte-stimulating Hormone Blood Test is used to evaluate the levels of MSH in the blood. It controls the production of hormones, modulates the immune system, and controls nerve function, too.
 Melatonin Saliva Panel, Morning - Labrix Test Kit: The Melatonin Saliva Panel tests the levels of Melatonin, a hormone associated with sleep patterns. This panel is for morning specimen testing.
 Melatonin Saliva Panel, Night - Labrix Test Kit: The Melatonin Saliva Panel tests the levels of Melatonin, a hormone associated with sleep patterns. This panel is for night specimen testing.
-Melon Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Melon Allergy test measures the IgE antibody levels to detect a food allergy to melons.
+Melon Allergy IgE Blood Test: The Melon Allergy test measures the IgE antibody levels to detect a food allergy to melons.
 Menopause Plus, Saliva - Genova Test Kit: The Menopause Plus, Saliva - Genova Test Kit is a comprehensive salivary hormone test that evaluates levels of key hormones in both women and men.
 Mercury Blood Test: A Mercury Blood Test is used to detect the presence of an excessive amount of mercury.
 Mercury Urine Test, Random: A mercury urine test is used to detect an excess of mercury.
@@ -697,8 +697,8 @@ Microalbumin Urine Test, Random: The random microalbumin urine test checks urine
 Microalbumin/Creatinine Ratio Urine Test, Random: The Microalbumin/Creatinine Ratio Urine Test, Random measures albumin and creatinine levels in a urine sample to help screen for kidney disease.
 Microbiomix Stool Analysis Profile - Genova Test Kit: The Microbiomix Stool Analysis Profile detects pathogenic or potentially pathogenic organisms such as parasites, bacteria, and yeast in a stool sample to assess the complete gut microbiome.
 Military Deployment Blood and Urine Test Panel: A Military Deployment Blood and Urine Test Panel includes ABO Grouping and RHO Typing (Blood Typing); CBC with differential; Comprehensive Metabolic Panel; Glucose 6-Phosphate Dehydrogenase (G6PD), Quantitative, Blood and Red Blood Cell Count (RBC); Hemoglobin A1c with eAg; HIV 1/2 Antigen/Antibody; Lipid Panel;Urinalysis (Complete) and Varicella Zoster Virus Antibodies IgG.
-Milk Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Milk Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to cow's milk.
-Milk Protein Component Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Milk Protein Component Allergy test measures IgE Antibodies for the whey and casein proteins found in cow’s milk to screen for allergic reactions.
+Milk Allergy IgE Blood Test: The Milk Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to cow's milk.
+Milk Protein Component Allergy IgE Blood Test: The Milk Protein Component Allergy test measures IgE Antibodies for the whey and casein proteins found in cow’s milk to screen for allergic reactions.
 Mitochondrial (M2) Antibody Blood Test: The Mitochondrial (M2) Antibody Blood Test detects M2 antibodies in the blood to screen for primary biliary cirrhosis.
 Mononucleosis Blood Test, Qualitative: A Mononucleosis Blood Test, Qualitative is used to detect heterophile antibodies related to infectious mononucleosis.
 Morgan Prenatal Blood Test Panel #1: A Morgan Prenatal Blood Test Panel #1 includes Prenatal Panel includes Hepatitis B Surface Antigen, ABO Grouping and RH Typing and Rubella, IgG
@@ -708,9 +708,9 @@ Mouse Epithelium Allergy IgE Blood Test: The Mouse Epithelium Allergy IgE Blood 
 Mouse Urine Allergy IgE Blood Test: The mouse urine allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to mouse urine.
 Mugwort Allergy IgE Blood Test: The Mugwort Allergy test measures the IgE antibody levels to help detect a pollen allergy to mugwort weed.
 Mumps Blood Test, IgG: The Mumps Blood Test, IgG, measures and detects antibodies to mumps to help confirm immunity.
-Mushroom Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The mushroom allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to mushrooms.
-Mussel Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Mussel Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to mussels.
-Mustard Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Mustard Allergy test measures the IgE antibody levels to detect a food allergy to mustard.
+Mushroom Allergy IgE Blood Test: The mushroom allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to mushrooms.
+Mussel Allergy IgE Blood Test: The Mussel Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to mussels.
+Mustard Allergy IgE Blood Test: The Mustard Allergy test measures the IgE antibody levels to detect a food allergy to mustard.
 Myasthenia Gravis Antibody Profile: The Myasthenia Gravis Antibody Profile measures three types of Acetylcholine receptor (AChR) antibodies and Striated Muscle antibodies in the blood to screen for Myasthenia Gravis.
 Myasthenia Gravis Blood Test Panel: The myasthenia gravis blood test panel measures three types of acetylcholine receptor (AChR) antibodies: binding, blocking, and modulating. Measuring AChR antibodies can help your healthcare provider understand whether you need additional testing to evaluate a possible diagnosis for myasthenia gravis.
 Mycoplasma Pneumoniae Antibodies Blood Test, IGM and IGG: The Mycoplasma Pneumoniae Antibodies Blood Test is an aid in the diagnosis of disease associated with Mycoplasma pneumoniae.
@@ -737,19 +737,19 @@ Nicotine and Expanded Metabolites Blood Test, LC/MS/MS: The Nicotine and Expande
 Nicotine and Metabolite Urine Test, Quantitative, Random: A Nicotine and Metabolite Urine Test is the measurement of nicotine and its metabolites to monitor success of smoking cessation programs, detect passive exposure, and evaluate nontobacco nicotine exposure.
 Non-Alcoholic Fatty Liver Disease Risk Assessment: The Non-Alcoholic Fatty Liver Disease Risk Assessment Panel consists of routine blood tests that evaluate liver function and assess the risk of developing non-alcoholic fatty liver disease.
 Nortriptyline Serum Test: The Nortriptyline Serum Test measures the levels of nortriptyline, a drug used to treat major depression and bipolar disorders.
-Nutmeg Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The Nutmeg Allergy test measures the IgE antibody levels to detect a nutmeg allergy.
+Nutmeg Allergy Blood Test: The Nutmeg Allergy test measures the IgE antibody levels to detect a nutmeg allergy.
 NutrEval FMV, Blood and Urine - Genova Test Kit: The NutrEval FMV provides a framework of core nutrients in 5 key areas: Antioxidants, B Vitamins, Digestive Support, Essential Fatty Acids, and Minerals.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
 NutrEval Plasma and Urine Test Plus Vitamin D - GENOVA KIT: NutrEval FMV®provides a framework of core nutrients in 5 key areas: Antioxidants, B Vitamins, Digestive Support, Essential Fatty Acids, and Minerals plus Vitamin D.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
 Nutrient Deficiency Blood Test Panel: The Nutrient Deficiency Blood Test Panel measures vitamin and mineral levels in the blood to screen for a deficiency.
 Nutrition and Wellness #1 Baseline Blood and Urine Test Panel: The Nutrition and Wellness #1 Baseline Blood and Urine Test Panel includes a Complete Blood Count (CBC), Lipid Panel, Complete Metabolic Panel (CMP-14), Urinalysis with Complete Microscopic Examination, Iron w/TIBC, Vitamin D 25-hydroxy.
 Nutrition and Wellness #2 Essential Blood and Urine Test Panel: A Nutrition and Wellness #2 Essential Blood and Urine Test Panel includes Complete Blood Count (CBC), Lipid Panel, Complete Metabolic Panel (CMP-14), Urinalysis with Complete Microscopic Examination, Iron w/TIBC, Vitamin D 25-hydroxy, Prealbumin, Coenzyme Q10, Vitamin B12, Folate (Folic Acid).
 Nutrition and Wellness #3 Extreme Blood and Urine Test Panel: The Nutrition and Wellness #3 Extreme Blood and Urine Test Panel includes a Complete Blood Count (CBC), Lipid Panel, Complete Metabolic Panel (CMP-14), Urinalysis with Complete Microscopic Examination, Iron w/TIBC, Vitamin D 25-hydroxy, Prealbumin, Coenzyme Q10, Vitamin B12, Folate (Folic Acid), Vitamin A, Vitamin E, Beta Carotene, Vitamin B1, Vitamin B6, Vitamin C.
-Oat Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Oat Allergy Ige Blood Test measures the IgE antibody levels in the blood to screen for an allergy to oats.
+Oat Allergy IgE Blood Test: The Oat Allergy Ige Blood Test measures the IgE antibody levels in the blood to screen for an allergy to oats.
 Occult Blood, Fecal, Immunoassay Test: The Occult Blood, Fecal, Immunoassay Test detects blood hidden in a stool sample to help screen for colorectal cancer.
 Omega-3 and -6 Fatty Acids Blood Test: An Omega-3 and -6 Fatty Acids Blood Test is useful in measuring the essential fatty acids.
-Onion Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Onion Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to onions.
-Orange Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Orange IgE Allergy Blood Test measures the IgE antibody levels in the blood to help detect an allergy to oranges.
-Oregano Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The oregano allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to oregano.
+Onion Allergy IgE Blood Test: The Onion Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to onions.
+Orange Allergy IgE Blood Test: The Orange IgE Allergy Blood Test measures the IgE antibody levels in the blood to help detect an allergy to oranges.
+Oregano Allergy IgE Blood Test: The oregano allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to oregano.
 Organic Acid Analysis Urine Test, Random: The Organic Acid Analysis Urine Test, Random detects abnormal levels of organic acids to help screen for rare inborn errors of metabolism.
 Organix Comprehensive Profile Urine Test-Genova Test Kit: This comprehensive Organix test measures a broad range of metabolites to assess metabolism & microbial activity.
 Osmolality Blood Test: An osmolality blood test is used to evaluate the level of sodium, glucose, and blood urea nitrogen (a byproduct of proteins as they are broken down by the body) in your bloodstream.
@@ -761,28 +761,28 @@ Oxalate Urine Test, Quantitative, 24-Hour: The Oxalate Urine Test, Quantitative,
 Oxidative Stress 2.0 Urine Test- Genova Test Kit: The Oxidative Stress 2.0 Urine test utilizes a urine sample in order to evaluate the body's oxidative stress status and antioxidant reserve. It can help practitioners identify underlying causes and perpetuating factors for many clinical disorders and to customize specific treatment programs.
 Oxidized LDL-Doctor's Data Test Kit: Plasma levels of Ox-LDL are a sensitive biomarker of atherosclerosis.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
 Oxidized Low-density Lipoprotein Blood Test: An oxidized low-density lipoprotein (oxLDL) test is used to measure your LDL, or "bad cholesterol," levels that have been modified by oxidation.
-Oyster Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Oyster Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to oysters.
+Oyster Allergy IgE Blood Test: The Oyster Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to oysters.
 PPP Wellness #1 Blood Test Panel: The PPP Wellness #1 Blood Test Panel includes Lipid Panel, CMP-14, Hemoglobin A1C, Homocysteine, CRP, TSH, Free T3, Free T4, Vitamin D-25, Testosterone total, Estradiol, and Insulin Fasting.
 PPP Wellness #2 Blood Test Panel: The PPP Wellness #2 Blood Test Panel includes a Lipid Panel, CMP-14, Hemoglobin A1C, Homocysteine, CRP, TSH, Free T3, Free T4, Vitamin D-25, Testosterone total, Estradiol, Fasting Insulin, plus The NMR LipoProfile.
-PPP Wellness #3 Blood Test Panel: November Special: Save 15% with coupon code NOV15.The PPP Wellness #3 Blood Test Panel includes Lipid Panel, CMP-14, Hemoglobin A1C, Homocysteine, CRP, TSH, Free T3, Free T4, Vitamin D-25, Testosterone total, Estradiol, Insulin Fasting, NMR LipoProfile, DHEA Sulfate, and IGF-1.
+PPP Wellness #3 Blood Test Panel: The PPP Wellness #3 Blood Test Panel includes Lipid Panel, CMP-14, Hemoglobin A1C, Homocysteine, CRP, TSH, Free T3, Free T4, Vitamin D-25, Testosterone total, Estradiol, Insulin Fasting, NMR LipoProfile, DHEA Sulfate, and IGF-1.
 Pancreatic Elastase Stool Test: The Pancreatic Elastase Stool Test measures the amount of elastase in a stool sample to screen for pancreatic insufficiency.
-Papaya Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The papaya allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to papayas.
+Papaya Allergy IgE Blood Test: The papaya allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to papayas.
 Paper Wasp Allergy IgE Blood Test: The paper wasp allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to paper wasps.
-Paprika Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The paprika allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to paprika.
+Paprika Allergy IgE Blood Test: The paprika allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to paprika.
 Parasite Examination (Malaria) Blood Test: The Parasite Examination (Malaria) Blood Test helps to diagnose malaria.
 Parathyroid Hormone (PTH) Blood Test Plus Calcium: The Parathyroid Hormone (PTH) Blood Test Plus Calcium measures the PTH and calcium levels in the blood to help screen for, diagnose, and monitor various health conditions
 Parathyroid Hormone (PTH) Intact without Calcium Blood Test: The Parathyroid Hormone (PTH) Intact without Calcium Blood Test measures the level of PTH in the blood to help screen for osteoporosis and other underlying health conditions.
 Parathyroid Hormone-related Peptide (PTH-rP) (Endocrine Sciences) Plasma Test: The Parathyroid Hormone-Related Peptide (PTH-RP) Plasma Test measures the PTH-RP hormone levels in the blood to help diagnose hypercalcemia.
 Parietal Cell Antibody Blood Test, ELISA: Parietal Cell Antibody Blood Test is useful in diagnosis of pernicious anemia.
 Parrot, Parakeet, and Budgerigar Feather Allergy IgE Blood Test: The Parrot, Parakeet, and Budgerigar Feather Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to various bird feathers.
-Parsley Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The parsley allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to parsley.
+Parsley Allergy IgE Blood Test: The parsley allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to parsley.
 Partial Thromboplastin Time Blood Test, Activated: A PPT Test is useful in detecting deficiencies or inhibitors to the intrinsic (Factors VIII, IX, XI, and XII) and common (Factors II, V, X, and fibrinogen) pathway coagulation factors.
-Pea Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The Pea Allergy test measures the IgE antibody levels and helps detect a pea allergy.
-Peach Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Peach Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to peaches.
+Pea Allergy Blood Test: The Pea Allergy test measures the IgE antibody levels and helps detect a pea allergy.
+Peach Allergy IgE Blood Test: The Peach Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to peaches.
 Peak Performance Challenge Blood Test Panel: A Peak Performance Challenge Blood Test Panel includes Lipid Profile, Comprehensive Metabolic Panel (CMP-14) and Hemoglobin A1c.
-Peanut Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The peanut allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to peanuts.
-Peanut Component Blood Test Panel: November Special: Save 15% with coupon code NOV15.The Peanut Component Blood Test Panel measures the IgE antibody levels in the blood to screen for an allergy to certain proteins found in peanuts.
-Pecan Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The pecan allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to pecans.
+Peanut Allergy IgE Blood Test: The peanut allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to peanuts.
+Peanut Component Blood Test Panel: The Peanut Component Blood Test Panel measures the IgE antibody levels in the blood to screen for an allergy to certain proteins found in peanuts.
+Pecan Allergy IgE Blood Test: The pecan allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to pecans.
 Penicillin G Allergy IgE Blood Test: The Penicillin G Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to penicillin G.
 Penicillin V Allergy IgE Blood Test: The Penicillin V Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to penicillin V.
 Phenobarbital Serum Test: A Phenobarbital Serum Test for phenobarbital, a long-acting barbiturate, which is effective in generalized tonic-clonic and simple partial seizures.
@@ -791,15 +791,15 @@ Phosphorus Serum Test: The Phosphorus Serum Test measures the blood's phosphorus
 Phosphorus Urine Test, 24-Hour: A Phosphorus Urine Test, 24-Hour is used to evaluate calcium/phosphorus balance.
 Pigeon Feather Allergy IgE Blood Test: The pigeon feather allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to pigeon feathers.
 Pigweed, Rough (Common) Allergy IgE Blood Test: The Pigweed, Rough (Common) Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to common pigweed.
-Pine Nut Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The pine nut allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to pine nuts.
-Pineapple Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The pineapple allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to pineapple.
-Pistachio Nut Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Pistachio Nut Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect a food allergy to pistachios.
+Pine Nut Allergy IgE Blood Test: The pine nut allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to pine nuts.
+Pineapple Allergy IgE Blood Test: The pineapple allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to pineapple.
+Pistachio Nut Allergy IgE Blood Test: The Pistachio Nut Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect a food allergy to pistachios.
 Platelet Antibody Profile: The Platelet Antibody Profile measures antiplatelet antibody levels in a blood sample.
 Platinum Comprehensive - ALCAT Test Kit: This Platinum Comprehensive panel tests for 200 food intolerances, 30 Food Additives/Colorings/Preservatives, 50 functional foods and medicinal herbs, 20 Antibiotics/Anti-inflammatory Agents, and 20 molds that can activate the immune system. It measures changes in size and volume of white blood cells in response to challenges with foods. This is a tolerance test, not an allergy test.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
 Platinum Plus ALCAT Test Kit: This Platinum Plus ALCAT Test Kit tests for 250 food intolerances, 30 food additives/colorings and environmental chemicals, 50 functional foods and medicinal herbs and 20 molds that can activate the immune system, and 20 antibiotics/anti-inflammatory agents. It measures changes in size and volume of white blood cells in response to challenges with foods. This is a tolerance test, not an allergy test.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
-Plum Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Plum Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to plums.
+Plum Allergy IgE Blood Test: The Plum Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to plums.
 Poliovirus 1 and 3 Antibody Immune Status Blood Test: A poliovirus 1 and 3 antibody immune status blood test determines titers of neutralizing antibody against poliovirus 1 and 3.
-Pork Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The pork allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to pork.
+Pork Allergy IgE Blood Test: The pork allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to pork.
 Porphobilinogen, Quantitative, Random Urine: A Porphobilinogen, Quantitative, Random Urine is useful in diagnosing the genetic disease porphyria.
 Porphyrins Plasma Test, Fractionated: A Porphyrins Plasma Test, Fractionated is useful in the diagnosis certain types of porphyria.
 Porphyrins Urine Test, Quantitative, 24-Hour: A Porphyrins Urine Test, Quantitative, 24-Hour is used as follow up if Porphyrins, Quantitative Random Urine comes back abnormal.
@@ -807,7 +807,7 @@ Porphyrins Urine Test, Quantitative, Random: The porphyrins urine test is the in
 Potassium Blood Test, RBC: The Potassium Blood Test, RBC provides a measurement of intracellular Potassium levels which can indicate deficiency sooner than an ordinary blood test.
 Potassium Blood Test: Potassium Blood Test is useful in measuring the amount of potassium in the blood.
 Potassium Urine Test, 24-Hour: A 24-hour Potassium Urine Test is used to detect abnormal concentrations of potassium, including high potassium (hyperkalemia) and low potassium (hypokalemia).
-Potato Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The potato allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to potatoes.
+Potato Allergy IgE Blood Test: The potato allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to potatoes.
 Pre-Op (Surgery) Blood Test Panel: The pre-op (surgery) blood test panel is a group of commonly required tests required before undergoing surgery.
 Prealbumin Blood Test: The Prealbumin Blood Test measures prealbumin levels in the blood to diagnose and monitor problems with nutritional health.
 Pregnancy Progression Blood Test Panel: This panel evaluates the two most common hormones, human chorionic gonadotropin (hCG) and progesterone, which are typically used for monitoring purposes in the early stages of pregnancy.
@@ -816,7 +816,7 @@ Prenatal Profile (OB) Blood Test Panel: The Prenatal Profile (OB) Blood Test Pan
 Prenatal Profile (OB) Blood Test with Hepatitis B Surface Antigen: A Prenatal Profile Blood Test with Hepatitis B Surface Antigen includes ABO Grouping and Rh, Antibody Screen, Complete Blood Count (CBC), Hepatitis B Surface Antigen, Rubella, RPR Quantitative and HIV 1 and 2 Preliminary Blood Test (4th generation).
 Procollagen Type I Intact N Terminal Propeptide Blood Test: The procollagen type I intact N terminal propeptide blood test is useful in managing osteoporosis and monitoring bone formation therapies and antiresorptive therapies.
 Progesterone Blood Test: The Progesterone Blood Test measures the amount of progesterone in a blood sample to help determine the cause of infertility in women.
-Proinsulin Blood Test: November Special: Save 15% with coupon code NOV15.A proinsulin blood test measures the amount of proinsulin in your blood which can help evaluate if your body has a problem making insulin or is resistant to the insulin you make.
+Proinsulin Blood Test: A proinsulin blood test measures the amount of proinsulin in your blood which can help evaluate if your body has a problem making insulin or is resistant to the insulin you make.
 Prolactin Serum Test: The Prolactin Serum Test measures the level of prolactin in the blood and helps screen for prolactinoma.
 Prostate-specific Antigen (PSA) Blood Test, Ultrasensitive: PSA test intended for use post-surgery or post-medical treatment of prostate cancer.
 Prostate-specific Antigen (PSA) Free:Total Ratio Blood Test: The Prostate-specific Antigen (PSA) Free:Total Ratio Blood Test compares Total PSA (the amount that is bound to blood proteins) to Free PSA (floats unbound in the blood).
@@ -836,19 +836,19 @@ Prothrombin Time (PT) w/INR Blood Test: The Prothrombin Time w/ INR Blood Test i
 Prothrombin Time (PT) w/INR and Partial Thromboplastin Time (PTT) Blood Test: The Prothrombin Time (PT) w/ INR and Partial Thromboplastin Time (PTT) Blood Test helps detect and diagnose a bleeding or excessive clotting disorder.
 QuantiFERON TB Gold Plus Blood Test: The QuantiFERON TB Gold Plus Blood Test screens for TB infection by using a blood sample to look for signs of an immune reaction to Mycobacterium tuberculosis.
 QuestAssureD™ 25-Hydroxyvitamin D (D2, D3) Blood Test, LC/MS/MS: The QuestAssureD™ 25-Hydroxyvitamin D (D2, D3) Blood Test measures total Vitamin D and its two primary forms (D2 and D3) in the blood to screen for a deficiency or toxicity.
-Quinoa Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Quinoa Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to quinoa.
+Quinoa Allergy IgE Blood Test: The Quinoa Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to quinoa.
 RPR (Diagnosis) with Reflex to Titer and Confirmatory Testing: This is a non-treponemal screening test for syphilis
 RPR (Rapid Plasma Reagin) Syphilis Blood Test, Qualitative: RPR Test (Rapid Plasma Reagin) looks for Treponema pallidum, the bacterium that causes Syphilis in your blood.
 RPR (Rapid Plasma Reagin) Syphilis Blood Test: A RPR (Rapid Plasma Reagin) is a test for Syphilis.
 Rabbit Allergy IgE Blood Test: The Rabbit Allergy IgE Blood Test measures IgE antibodies in the blood to detect an allergy to rabbits.
 Ragweed (Short/Commom) Allergy IgE Blood Test: The Ragweed (Short/Common) Allergy IgE Blood Test measures IgE antibodies in the blood to detect an allergy to short or common ragweed.
 Rapid Plasma Reagin (RPR) Test With Reflex: The Rapid Plasma Reagin (RPR) Test with Reflex screens for and diagnoses syphilis.Please note that this test for syphilis may miss early and late cases of syphilis. Always consult a healthcare provider if you have symptoms or are concerned about an exposure.
-Raspberry Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Raspberry Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to raspberries.
+Raspberry Allergy IgE Blood Test: The Raspberry Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to raspberries.
 Reclaim Panel 1 Blood Test: The Reclaim Panel 1 Blood Test consists of basic functional medicine lab tests to screen for underlying autoimmune thyroid & chronic disorders.
 Reclaim Panel 2 Blood and Urine Test: The Reclaim Panel 2 Blood and Urine Test consists of comprehensive functional medicine lab tests to screen for underlying autoimmune thyroid & chronic disorders.
 Red Blood Cell (RBC) Elements Blood Test - Doctor's Data Kit: A RBC Elements Blood Test provides a reliable means of identifying short-term toxic element exposure and evaluating intracellular mineral nutrient status. Results help to quickly pinpoint imbalances underlying conditions such as chronic fatigue, depression, ADHD, and cardiovascular disease.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
 Red Cedar Allergy Blood Test: The Red Cedar Allergy test measures the IgE antibody levels to detect a pollen allergy to Red Cedar.
-Red Snapper Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Red Snapper Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to red snapper.
+Red Snapper Allergy IgE Blood Test: The Red Snapper Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to red snapper.
 Renal Function Blood Test Panel: Renal Function Blood Test Panel evaluates kidney function, diagnose kidney-related disorders, screen for or monitor those with kidney disease.
 Respiratory Allergen Panel Region 1 IgE Blood Test: The Respiratory Allergen Panel Region 1 IgE Blood Test measures IgE antibodies in the blood to detect an allergy to various allergens commonly found in the Connecticut, Massachusetts, Maine, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, and Vermont region.
 Respiratory Allergen Panel Region 10 IgE Blood Test: The Respiratory Allergen Panel Region 10 IgE Blood Test measures IgE antibodies in the blood to detect an allergy to various allergens commonly found in the Oklahoma and Texas region.
@@ -873,33 +873,33 @@ Rheumatoid Factor (RA) Blood Test: The Rheumatoid Factor Blood Test measures rhe
 Rheumatoid Factor IGA, IGG, IGM Blood Test: The Rheumatoid Factor (IgA, IgG, IgM) Blood Test helps diagnose rheumatoid arthritis and other autoimmune disorders by detecting and measuring 3 rheumatoid factors in a blood sample.
 Rhythm Plus, Saliva - Genova Test Kit: The Rhythm Plushormone test is a comprehensive assessment of estradiol, progesterone, and testosterone spanning a full 28 days.
 Rhythm, Saliva - Genova Test Kit: The Rhythm hormone test is a comprehensive assessment of estradiol, progesterone, and testosterone spanning a full 28 days.
-Rice Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Rice Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to rice.
+Rice Allergy IgE Blood Test: The Rice Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to rice.
 Rubella Antibodies Blood Test, IgG: The Rubella Antibodies Blood Test, IgG detects antibodies to rubella to confirm previous infection or vaccination.
 Rubeola Antibodies Blood Test, IgG: The Rubeola (Measles) Antibodies Blood Test, IgG, measures and detects antibodies to measles to help confirm immunity.
 Rubeola Antibodies, IgM Serum Test: A rubeola antibodies, IgM serum test is used to demonstrate acute infection with measles virus; differential diagnosis of a pregnant female exposed to or presenting with a rash
-Rye Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The rye allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to rye.
+Rye Allergy IgE Blood Test: The rye allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to rye.
 S-100B Protein Serum Test: The S-100B Protein Serum Test measures S-100B protein levels in a blood sample to help screen for various central nervous system pathologies and malignant melanoma.
 SARS-CoV-2 (COVID-19) Antibody (IgG), Spike, Semi-Quantitative: The SARS-CoV-2 (COVID-19) Antibody (IGG), Spike, Semi-Quantitative Blood Test detects and measures antibodies to COVID-19.PLEASE SCHEDULE YOUR APPOINTMENTHERE.
 STD #1 Baseline Blood Test Panel, 3 Tests: The STD #1 Baseline Blood Test Panel, 3 Tests, helps to screen for three common sexually transmitted diseases (STDs).
 STD #2 Essential Blood and Urine Test Panel, 9 Tests: The  STD #2 Essential Blood and Urine Panel, 9 Tests helps to screen for and diagnose nine common sexually transmitted diseases (STDs).
 STD #3 Extreme Blood and Urine Test Panel, 15 Tests: The STD #3 Extreme Blood and Urine Panel, 15 Tests, helps to screen for seven common sexually transmitted diseases (STDs), plus eight additional blood and urine tests.
 Saccharomyces cerevisiae Antibodies (ASCA) (IgG) Serum Test: A Saccharomyces cerevisiae Antibodies Serum Test is intended to aid in the diagnosis of patients with Crohn's disease.
-Sage Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The sage allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to sage.
+Sage Allergy IgE Blood Test: The sage allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to sage.
 Salicylate (Aspirin) Serum Test: A Salicylate Test to detect Salicylate overdose, to help evaluate its severity and monitor its resolution; sometimes to monitor for an overdose if you regularly use prescription-strength salicylates.
-Salmon Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Salmon Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to salmon.
-Sardine/Pilchard Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Sardine/Pilchard Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to sardines or pilchard fish.
-Scallop Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Scallop Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to scallops.
+Salmon Allergy IgE Blood Test: The Salmon Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to salmon.
+Sardine/Pilchard Allergy IgE Blood Test: The Sardine/Pilchard Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to sardines or pilchard fish.
+Scallop Allergy IgE Blood Test: The Scallop Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to scallops.
 Scleroderma (SCL-70) Blood Test: The Scleroderma (Scl-70) Antibody test measures the Scl-70 antibodies in the blood to help diagnose progressive systemic sclerosis (scleroderma).
-Seafood Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Seafood Allergy Blood Test measures the IgE antibody levels in the blood to detect an allergy to various common seafood.
+Seafood Allergy IgE Blood Test: The Seafood Allergy Blood Test measures the IgE antibody levels in the blood to detect an allergy to various common seafood.
 Sedimentation Rate Blood Test, Westergren: The Sedimentation Rate Blood Test, Westergren, helps diagnose and monitor conditions that cause inflammation.
 Selenium Blood Test: A Selenium Blood Test monitors selenium deficiency and occupational exposure.
 Serotonin Blood Test: The Serotonin Blood Test is ordered to help diagnose and monitor treatment for a serotonin-secreting carcinoid tumor.
-Sesame Seed IgE Allergy Blood Test: November Special: Save 15% with coupon code NOV15.The sesame seed allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to sesame seeds.
+Sesame Seed IgE Allergy Blood Test: The sesame seed allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to sesame seeds.
 Sex Hormone Binding Globulin (SHBG) Serum Test: The Sex Hormone Binding Globulin Serum Test measures SHBG levels in the blood to help screen for testosterone excess or deficiency.
 Sex Steroid Metabolites + UDH II Profile, Dried Urine - ZRT Test Kit: The Sex Steroid Metabolites + UDH II Profile, Dried Urine - ZRT Test Kit evaluates various hormone levels to help monitor adrenal dysfunction, hormone therapy, and breast cancer risk.
 Sex Steroid Metabolites Profile, Dried Urine - ZRT Test Kit: The Sex Steroid Metabolites Profile, Dried Urine - ZRT Test Kit assesses various hormone levels to help monitor adrenal dysfunction, hormone therapy, and breast cancer risk.
 Short Comprehensive Profile, Saliva - Doctor's Data Kit: This Short Comprehensive Profile, Saliva, measures hormone levels in the body to detect an abnormal level or hormone imbalance.
-Shrimp Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Shrimp Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to shrimp.
+Shrimp Allergy IgE Blood Test: The Shrimp Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to shrimp.
 Silicon, Serum/Plasma Test: A Silicon, Serum/Plasma Test assesses the presence of Silicon.
 Silk Allergy IgE Blood Test: The Silk Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to silk.
 Sjogren's Anti SS-A and SS-B Blood Test: The Sjogren's Anti SS-A and SS-B Blood Test aids in the diagnosis of Sjögren's syndrome (especially with vasculitis) and lupus patients with Sjögren overlap syndrome.
@@ -907,20 +907,20 @@ Sleep Balance Profile, Urine - ZRT Test Kit: The Sleep Balance Profile gives pre
 Sm/RNP Antibody Blood Test: The Sm/RNP Antibody test measures the Smith and RNP antibodies in the blood to help diagnose mixed connective tissue disease (MCTD), lupus, and scleroderma.
 Sodium Urine Test, 24-Hour: A 24-hour Sodium Urine Test is used in determining the cause of a sodium imbalance and for patients with kidney conditions to determine the cause of damage.
 Sodium Urine Test, Random: A sodium urine test is a work-up volume depletion, acute renal failure, acute oliguria, and differential diagnosis of hyponatremia.
-Sole Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Sole Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to sole fish.
+Sole Allergy IgE Blood Test: The Sole Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to sole fish.
 Soluble Transferrin Receptor Blood Test: A Soluble Transferrin Receptor Blood Test is a measurement of sTfR is used to diagnose iron deficiency in individuals with chronic disease (inflammatory diseases, infections, malignancies), many of whom are anemic.
-Soy Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Soy Allergy IgE Blood Test measures the IgE antibody levels in the blood to screen for an allergy to soy.
-Spinach Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Spinach Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to spinach.
-Squid (Pacific) Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Squid (Pacific) Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to Pacific squid.
+Soy Allergy IgE Blood Test: The Soy Allergy IgE Blood Test measures the IgE antibody levels in the blood to screen for an allergy to soy.
+Spinach Allergy IgE Blood Test: The Spinach Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to spinach.
+Squid (Pacific) Allergy IgE Blood Test: The Squid (Pacific) Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to Pacific squid.
 Stachybotrys Chartarum/Atra Blood Test, IgE: A Stachybotrys Chartarum/Atra Blood Test detects possible IgE-mediated responses to Stachybotrys Chartarum/Atra.
 Stool Culture Test: A Stool Culture Test detects the presence of disease causing bacterial organisms including Salmonella, Shigella, Campylobacter, and Enterohemorrhagic E coli in the stool and aid in the diagnosis of Typhoid Fever, Enteric Fever, Bacillary Dysentery, and Salmonella infection.
-Strawberry Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The strawberry allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to strawberries.
+Strawberry Allergy IgE Blood Test: The strawberry allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to strawberries.
 Sunflower Allergy Blood Test: The Sunflower Allergy test measures the IgE antibody levels to help detect a pollen allergy to sunflowers.
-Sunflower Seed Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Sunflower Seed Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to sunflower seeds.
-Swordfish Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Swordfish Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to swordfish.
+Sunflower Seed Allergy IgE Blood Test: The Sunflower Seed Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to sunflower seeds.
+Swordfish Allergy IgE Blood Test: The Swordfish Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to swordfish.
 TDap Titer Blood Test Panel: The TDap Titer Blood Test Panel detects antibodies and helps determine if an individual has been vaccinated against or previously infected by tetanus, diphtheria, and pertussis.
 Tacrolimus Blood Test: The tacrolimus blood test is ordered to measure tacrolimus blood levels for use in patients receiving this drug.
-Tea Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The tea allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to tea.
+Tea Allergy IgE Blood Test: The tea allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to tea.
 Telomere Length Test - ALCAT Test Kit: This Telomere Length Test measures the average telomere length in lymphocytes​ compared to the normal reference range of an age-matched population.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
 Testosterone BIO With Sex Hormone Binding Globulin (SHBG) Blood Test: The Testosterone BIO with Sex Hormone Binding Globulin (SHBG) Blood Test measures free testosterone, total testosterone, and SHBG levels in a blood sample to help screen for a testosterone excess or deficiency.
 Testosterone Free (Dialysis) and Total Testosterone Test, LC/MS/MS: The testosterone free (dialysis) and total testosterone test determines the level of free and total testosterone. The levels reported for this test are determined using different methodologies than the normal free and total testosterone tests.
@@ -941,7 +941,7 @@ The NMR LipoProfile #2 Essential Blood Test Panel: The NMR LipoProfile plus Homo
 The NMR LipoProfile #3 Extreme Blood Test Panel: The NMR LipoProfile, Homoecysteine, C-Reactive Protein Cardiac plus Comprehensive Metabolic Profile - 14 tests, Lipid Profile, Hemoglobin A1c.
 Theophylline Blood Test: A Theophylline Blood Test is a therapeutic drug monitoring of Theophylline.
 Thistle, Russian Allergy IgE Blood Test: The Thistle, Russian Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to Russian thistle.
-Thyme Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Thyme Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to thyme.
+Thyme Allergy IgE Blood Test: The Thyme Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to thyme.
 Thyroglobulin Antibody and Thyroglobulin Blood Test, IMA or RIA: The Thyroglobulin test is primarily used as a tumor marker to evaluate the effectiveness of treatment for thyroid cancer and to monitor for recurrence.
 Thyroid #1 Baseline Blood Test Panel: The Thyroid #1 Baseline Blood Test Panel evaluates healthy thyroid function and screens for thyroid disorders.
 Thyroid #2 Essential Blood Test Panel plus Reverse T3: The Thyroid #2 Essential Blood Test Panel plus Reverse T3 provides a detailed evaluation of thyroid function for individuals showcasing signs of thyroid disorder.
@@ -967,7 +967,7 @@ Tin, Whole Blood: The Tin, Whole Blood test is used to evaluate exposure to tin.
 Tissue Transglutaminase (tTG) Blood Test, IgA: A tTG blood test detects antibodies to aid in the diagnosis of gluten-sensitive enteropathy (GSE), such as celiac disease and dermatitis herpetiformis.
 Tissue Transglutaminase (tTG) Blood Test, IgG: A tTG Blood Test is useful in diagnosing gluten-sensitive enteropathies, such as Celiac Sprue Disease, and an associated skin condition, dermatitis herpetiformis in patients who are IgA-deficient.
 Titanium Blood Test: Measures the amount of titanium in the blood typically associated with industrial exposure or medical procedures.
-Tomato Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The tomato allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to tomatoes.
+Tomato Allergy IgE Blood Test: The tomato allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to tomatoes.
 Top 12 Important Blood Test Panel, Men: Complete Blood Count (CBC), Comprehensive Metabolic Panel - 14 tests, Testosterone Free Direct with Total Testosterone, Dehydroepiandrosterone (DHEA) Sulfate, Estradiol, Hemoglobin A1c, C-Reactive Protein (CRP), Fibrinogen, Homocyst(e)ine Plasma, Thyroid-stimulating Hormone (TSH), Lipid Panel With Total Cholesterol:HDL Ratio, and Prostate-specific Antigen (PSA).
 Top 12 Important Blood Test Panel, Women: A Top 12 Important Blood Test Panel and Women is a Complete Blood Count (CBC), Comprehensive Metabolic Panel - 14 tests, Testosterone Free Direct with Total Testosterone, Dehydroepiandrosterone (DHEA) Sulfate, Estradiol, Hemoglobin A1c, C-Reactive Protein (CRP), Fibrinogen, Homocysteine Plasma, Thyroid-stimulating Hormone (TSH), Lipid Panel With Total Cholesterol:HDL Ratio, Vitamin D 25-hydroxy.
 Top 5 Health Numbers Blood Test Panel: The Top 5 Health Numbers Panel screens your health and identifies five vital areas that need improvement.
@@ -982,7 +982,7 @@ Toxoplasma Gondii Antibodies Blood Test, IgM: The Toxoplasma Gondii Antibodies T
 Tramadol Serum Blood Test: Tramadol testing is used to confirm or identify suspected drug toxicity of Tramadol which is used for relief of moderate to moderately-severe pain.
 Tramadol, Screen Only, Urine Test: The tramadol urine test is used to detect the presence of tramadol. It is useful for monitoring compliance of utilization and also the detection of the illicit use of the drug.
 Transferrin Blood Test: The Transferrin Blood Test is used to screen for iron deficiency or excess and diagnose anemia by measuring transferrin levels in the blood.
-Tree Nut and Peanut Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Tree Nut & Peanut Allergy IgE Blood Test measures the IgE antibody levels in the blood to screen for an allergy to certain tree nuts and peanuts.
+Tree Nut and Peanut Allergy IgE Blood Test: The Tree Nut & Peanut Allergy IgE Blood Test measures the IgE antibody levels in the blood to screen for an allergy to certain tree nuts and peanuts.
 Treponema Pallidum (Syphilis) Screening Cascade Blood Test: The Treponema Pallidum (Syphilis) Screening Cascade test screens for and diagnoses syphilis.
 Treponema pallidum Antibodies (FTA-ABS) Serum Test: The FTA-ABS Serum Test is used to confirm Syphilis.
 Tri-iodothyronine (T3) Blood Test: The Tri-Iodothyronine (T3) Blood Test helps evaluate thyroid gland function and diagnose hyperthyroidism.
@@ -993,9 +993,9 @@ Trileptal (Oxcarbazepine) Serum Test: The Trileptal Serum Test checks level of t
 Trimethylamine N-oxide (TMAO) Blood Test: The Trimethylamine N-oxide (TMAO) Blood Test measures TMAO levels to assess cardiovascular disease (CVD) risk.
 Tryptase Blood Test: The Tryptase Blood Test measures the tryptase levels in a blood sample to diagnose the cause of a severe allergic reaction or to screen for a mast cell disorder.
 Tumor Necrosis Factor-a Blood Test: A Tumor Necrosis Factor-a Blood Test is used to monitor levels of tumor necrosis factor-a.
-Tuna Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Tuna Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to tuna.
+Tuna Allergy IgE Blood Test: The Tuna Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect a food allergy to tuna.
 Turkey Feather Allergy IgE Blood Test: The Turkey Feather Allergy IgE Blood Test measures IgE antibodies in the blood to detect an allergy to turkey feathers.
-Turkey Meat Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Turkey Meat Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to turkey.
+Turkey Meat Allergy IgE Blood Test: The Turkey Meat Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to turkey.
 Urea Nitrogen (BUN) Serum Test: A Urea Nitrogen (BUN) Serum Test is used to measure the amount of urea in the blood.
 Urea Nitrogen Urine Test, 24-Hour: A Urea Nitrogen Urine Testis a Renal function test; coarse nitrogen-wasting test on patients on hyperalimentation; indicate nitrogen balance in hyperalimentation; rule out tap of urinary bladder in amniocentesis, paracentesis.
 Uric Acid Blood Test: The Uric Acid Blood Test measures uric acid levels in the blood and helps screen for gout or kidney stone formation.
@@ -1011,7 +1011,7 @@ VLDL Cholesterol Blood Test: This VLDL Cholesterol Blood Test helps assess your 
 Vaginosis Profile - Doctor's Data Test Kit: Vaginosis Profile is based on a self-collected sample, the Comprehensive Vaginosis Profile differentiates between bacterial vaginosis, and vulvovaginal candidiasis to guide effective treatment.
 Valproic Acid Blood Test, Free: The Valproic Acid Blood Test, Free is useful in monitoring the concentration of valproic acid in your blood and to maintain a therapeutic level.
 Valproic Acid Serum Test: The Valproic Acid Serum test measures valproic acid in the blood to monitor if the drug concentration is within the therapeutic range.
-Vanilla Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The vanilla allergy blood test measures a person's allergic reaction to vanilla.
+Vanilla Allergy IgE Blood Test: The vanilla allergy blood test measures a person's allergic reaction to vanilla.
 Varicella Zoster Virus (VZV) Antibodies Blood Test, IgG: The Varicella-Zoster Virus (VZV) Antibodies Blood Test, IgG detects and measures antibodies to VZV to confirm previous infection or vaccination.
 Varicella Zoster Virus (VZV) Antibodies Blood Test, Quantitative, IgM: The VZV Antibodies Blood Test, IgM detects and measures antibodies in the blood to diagnose an acute VZV infection.
 Varicella Zoster Virus (VZV) Blood Test, DNA, PCR: The Varicella-Zoster Virus Blood Test, DNA, PCR is used to detect the varicella-zoster virus in whole blood or lesions.
@@ -1041,8 +1041,8 @@ Vitamin Deficiency and Wellness Blood Test Panel: The Vitamin Deficiency and Wel
 Vitamin E Serum Test: The Vitamin E Serum test measures the level of vitamin E in the blood to screen for a deficiency.
 Vitamin K1 Blood Test: The Vitamin K Blood Test measures vitamin K levels in the blood to screen for a vitamin K deficiency and assess the risk of blood clotting, bone metabolism, and hemorrhagic disorders.
 Vitamins Blood Test Panel: The Vitamins Blood Test Panel includes a Vitamins A, B1, B6, B9(Folic Acid), B12, C, D,E, and K1.
-Walnut Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The walnut allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to walnuts.
-Watermelon Serum Test: November Special: Save 15% with coupon code NOV15.The Watermelon Serum test measures the IgE antibody levels to detect a food sensitivity to watermelons.
+Walnut Allergy IgE Blood Test: The walnut allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to walnuts.
+Watermelon Serum Test: The Watermelon Serum test measures the IgE antibody levels to detect a food sensitivity to watermelons.
 Weight Management Blood Test Panel, Men: The Weight Management Blood Test Panel, Men, provides blood analysis to uncover biological abnormalities that could cause unwanted weight gain or loss in men.
 Weight Management Blood Test Panel, Women: The Weight Management Blood Test Panel, Women, provides blood analysis to uncover biological abnormalities that could cause unwanted weight gain or loss in women.
 Weight Management Profile, Saliva and Blood Spot - ZRT Test Kit: The Weight Management Profile, Saliva, and Blood Spot - ZRT Test Kit detects hormonal imbalances that contribute to weight issues and screens for early signs of diabetes and metabolic syndrome.
@@ -1059,19 +1059,19 @@ Wellness Express Blood Test Panel: A Wellness Express Blood Test Panel contains 
 Wellness Express Panel Blood Test Plus Complete Blood Count (CBC), Thyroid and Ferritin: A Wellness Express Panel Blood Test Plus includes: Comprehensive Metabolic Panel (CMP-20), Lipid Profile (cholesterol), CBC, Thyroid  Profile with TSH plus Tri-iodothyronine (T3) Free Serum, Thyroxine (T4) Free Direct Serum, and Ferritin.
 West Nile Virus (WNV) Antibody Serum Test: The West Nile Virus Antibody Serum Test aids in the diagnosis of West Nile virus encephalitis.
 Western Ragweed Allergy IgE Blood Test: The Western Ragweed Allergy IgE Blood Test measures IgE antibodies in the blood to detect an allergy to western ragweed.
-Wheat Allergy Blood Test, IgE: November Special: Save 15% with coupon code NOV15.The Wheat Allergy test measures the IgE antibody levels to help detect a food allergy to wheat.
-Whey Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Whey Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to the milk protein whey.
-White Bean Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The White Bean Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to white beans.
+Wheat Allergy Blood Test, IgE: The Wheat Allergy test measures the IgE antibody levels to help detect a food allergy to wheat.
+Whey Allergy IgE Blood Test: The Whey Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to the milk protein whey.
+White Bean Allergy IgE Blood Test: The White Bean Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to white beans.
 White Blood Cells (WBC) Stool Test: A WBC test or fecal leukocytes stain is ordered to assist in differential diagnosis of diarrheal disease and looks for white blood cells in stool.
 Whole Blood Elements Kit - Doctor's Data Kit: The Whole Blood Elements Kit is an assessment of element levels in whole blood is a valuable tool for identification of dietary adequacy, gastrointestinal, renal and endocrine functions, and excess or deficiency conditions.Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw. PleaseClick Hereto locate a lab for specimen collection.
-Whole Egg Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Whole Egg Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to egg yolks and whites.
+Whole Egg Allergy IgE Blood Test: The Whole Egg Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to egg yolks and whites.
 Women's Health and Breast Profile, Saliva - Doctor's Data Kit: This Women's Health and Breast Profile, Saliva, measures hormone levels in the body to detect a hormone imbalance and assesses the risk of developing breast cancer or other hormone-sensitive cancers.
-Xanthan Gum Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The xanthan gum allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to xanthan gum.
-Yeast Allergy IgE Blood Test: November Special: Save 15% with coupon code NOV15.The Yeast Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to yeast.
+Xanthan Gum Allergy IgE Blood Test: The xanthan gum allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to xanthan gum.
+Yeast Allergy IgE Blood Test: The Yeast Allergy IgE Blood Test measures the IgE antibody levels in the blood to help detect an allergy to yeast.
 Yersinia Enterocolitica Antibodies Blood Test, IgG and IgA: TheYersinia enterocoliticaAntibodies test measures IgG and IgA antibodies to screen for an acute Yersiniosis infection.
 Zinc Blood Test, RBC: A Zinc Blood Test, RBC is a sensitive screening for zinc deficiency or overload.
 Zinc Blood Test: The Zinc Blood Test is a diagnostic tool used to measure zinc levels in the blood and assess potential nutritional deficiencies.
-Zinc Transporter 8 Antibody Blood Test: November Special: Save 15% with coupon code NOV15.The Zinc Transporter 8 (ZnT8) Antibody Blood Test is used to evaluate your risk for developing type 1 diabetes and confirm a diagnosis.
+Zinc Transporter 8 Antibody Blood Test: The Zinc Transporter 8 (ZnT8) Antibody Blood Test is used to evaluate your risk for developing type 1 diabetes and confirm a diagnosis.
 hCG (Pregnancy) Blood Test, Qualitative: The hCG (Pregnancy) Blood Test, QL, provides a positive or negative result depending on the presence or absence of hCG in a blood sample to confirm pregnancy.
 hCG (Pregnancy) Blood Test, Quantitative: The hCG (Pregnancy) Blood Test, Quantitative, measures a hormone called hCG, produced during pregnancy by the placenta and found in the blood.
 hCG (Pregnancy) Urine Test, Random: The hCG Pregnancy Urine Test is used in confirmation of normal or ectopic pregnancy; support for the diagnosis of testicular tumors

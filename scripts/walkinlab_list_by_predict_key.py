@@ -46,8 +46,18 @@ def get_data(href: str) -> dict[str, str]:
     parser = bs4.BeautifulSoup(response.content, 'html.parser')
     try:
         data = {'id': href_short, 'name': parser.h1.get_text(strip=True), 'description': parser.find('div', {'class': 'description'}).get_text(strip=True)}
+        assert data['name'], data
         assert ('\n' not in data['name']), data
+        assert data['description'], data
         assert ('\n' not in data['description']), data
+
+        advert = parser.find('div', {'class': 'description'}).find('span', {'class': 'red'})
+        if advert:
+            advert = advert.get_text(strip=True)  # Example: November Special: Save 15% with coupon code NOV15.
+            assert advert, (data, advert)
+            assert data['description'].startswith(advert), (data, advert)
+            data['description'] = data['description'].removeprefix(advert).lstrip()
+            assert data['description'], data
     except Exception:
         print(f'Failed to get data for {href}.', file=sys.stderr)
         raise
@@ -61,7 +71,7 @@ def main():
         keys = [''.join(key) for key in itertools.product(chars, repeat=key_len)]
 
         curr_results = set()
-        with cf.ProcessPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        with cf.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             results_groups = executor.map(get_results, keys)
             for result_group in results_groups:
                 for result in result_group:
