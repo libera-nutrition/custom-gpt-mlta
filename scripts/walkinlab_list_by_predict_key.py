@@ -24,8 +24,14 @@ EXCLUDED = {'gift-card-1'}
 @DISKCACHE.memoize(expire=datetime.timedelta(weeks=4).total_seconds(), tag='get_results')
 def get_results(key: str, /) -> list[str]:
     print(f'Reading URL for key={key}.')
-    response = requests.post('https://www.walkinlab.com/products/predictSearch', data={'search': key}, headers=REQUEST_HEADERS)
-    response.raise_for_status()
+    try:
+        response = requests.post('https://www.walkinlab.com/products/predictSearch', data={'search': key}, headers=REQUEST_HEADERS)
+        response.raise_for_status()
+    except Exception:
+        print(f'Failed to URL for key={key} with status {response.status_code}.', file=sys.stderr)
+        if (len(key) == 1) and (key in string.punctuation):
+            return []
+        raise
     print(f'Read URL for key={key} with status {response.status_code}.')
 
     # print(f'Parsing content of length {len(content):,} for key {key}.')
@@ -89,8 +95,13 @@ def get_data(href: str, /) -> dict[str, str]:
 
 def main() -> None:
     final_results = {}
-    for key_len in range(1, MAX_KEY_LEN + 1):
-        chars = string.ascii_lowercase + '0123456789' if (key_len <= 2) else string.ascii_lowercase
+    for key_len in range(MAX_KEY_LEN + 1):
+        chars = string.ascii_lowercase
+        if key_len in (1, 2):
+            chars += string.digits
+        if key_len == 1:
+            chars += string.punctuation
+
         keys = [''.join(key) for key in itertools.product(chars, repeat=key_len)]
 
         curr_results = set()
