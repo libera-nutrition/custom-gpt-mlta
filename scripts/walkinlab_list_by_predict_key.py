@@ -111,7 +111,7 @@ def main() -> None:
     output_results = [f'{k}: {v}' for k, v in output_results.items()]
     output_results = sorted(output_results)
     text = '\n'.join(output_results)
-    path = PACKAGE_PATH / 'data/sourced/WalkInLab_tests_list.txt'
+    path = PACKAGE_PATH / 'uploads/WalkInLab_tests_list.txt'
     print(f'Writing {len(output_results)} results having text length {len(text):,} to {path}.')
     path.write_text(text)
 

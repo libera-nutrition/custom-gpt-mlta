@@ -15,6 +15,6 @@ results = [f'{k}: {v}' for k, v in results.items()]
 results = sorted(results)
 
 text = '\n'.join(results)
-path = PACKAGE_PATH / 'data/sourced/QuestHealth_tests_list.txt'
+path = PACKAGE_PATH / 'uploads/QuestHealth_tests_list.txt'
 print(f'Writing {len(results)} results having text length {len(text):,} to {path}.')
 path.write_text(text)
