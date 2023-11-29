@@ -5,6 +5,7 @@ Autoimmune Screening Test (ANA with Reflex): Test for autoantibodies related to 
 Basic Health Profile — Men's: Take a snapshot of your current health and overall wellness for men.
 Basic Health Profile — Standard: Take a snapshot of your current health and overall wellness.
 Basic Health Profile — Women's: Take a snapshot of your current health and overall wellness for women.
+Blood Type Test: Identify your blood group (A, B, AB, or O) and + or - Rh antigen.
 COVID-19 & Flu Test: Detect active SARS-CoV-2 and influenza A/B infections.
 COVID-19 Active Infection Test: Test to detect an active SARS-CoV-2 (COVID-19) infection.
 COVID-19 Antibody Test: Detect COVID-19 antibodies from a previous infection or vaccination.
@@ -15,7 +16,6 @@ Cholesterol (Lipid) Panel: Measure total cholesterol, HDL, LDL, and TG to help a
 Common Respiratory Allergy Panel — Basic: Test for IgE antibodies in response to 14 specific respiratory allergens.
 Common Respiratory Allergy Panel — Expanded: Test for IgE antibodies in response to 25 specific respiratory allergens.
 Complete Blood Count (CBC): Measure blood components to help identify anemia & blood disorders.
-Comprehensive Health Profile — Men's: Get a more complete picture of your overall wellness for men.
 Comprehensive Health Profile — Standard: Get a more complete picture of your overall wellness.
 Comprehensive Health Profile — Women's: Get a more complete picture of your overall wellness for women.
 Comprehensive Metabolic Panel (CMP): Assess risk for liver and kidney disease, hypertension, and diabetes.
