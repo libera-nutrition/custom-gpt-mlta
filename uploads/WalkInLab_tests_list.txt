@@ -173,10 +173,10 @@ CD4:CD8 Ratio Blood Test Profile: The CD4: CD8 Ratio Blood Test Profile assesses
 CICA: Celiac, IBS, and Crohn's Antibody Only - ALCAT Test Kit: The CICA: Celiac, IBS, and Crohn's Antibody Only - ALCAT Test Kit detects specific antibodies and measures potentially inflammatory cellular reactions. Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw.
 CICA: Celiac, IBS, and Crohn's Full Array - ALCAT Test Kit: The CICA evaluates a patient’s genetic risk for celiac disease, serum markers associated with active celiac disease process, and genetic serum markers associated with Crohn’s disease, and serological markers for diminished antigen exclusion in the gut. Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw.
 CICA: Celiac, IBS, and Crohn's Genetic Only - ALCAT Test Kit: The CICA: Celiac, IBS, and Crohn's Genetic Only - ALCAT Test Kit assesses your genetic predisposition to celiac and Crohn's disease and evaluates GI function. Note: This is a pre-paid shipping test kit that will be mailed and it requires a blood draw.
-Cadmium Blood Test: A Cadmium Blood Test is used to monitor recent or acute exposure to cadmium
+Cadmium Blood Test: A Cadmium Blood Test is used to monitor recent or acute exposure to cadmium.
 Cadmium, 24-Hour Urine Test: The Cadmium, 24-Hour Urine Test evaluates exposure to the toxic metal cadmium in a urine sample over 24 hours.
 Caffeine Allergy IgE Blood Test: The Caffeine Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to caffeine.
-Calcitonin Blood Test: The Calcitonin Blood Test measures the level of hormone calcitonin in the blood
+Calcitonin Blood Test: The Calcitonin Blood Test measures the level of hormone calcitonin in the blood.
 Calcium Ionized Serum Test: The Calcium Ionized Serum Test measures ionized calcium levels in the blood to help screen for, diagnose, and monitor various conditions related to the bones, heart, nerves, kidneys, and teeth.
 Calcium Serum Test: The Calcium Serum Test measures calcium levels in the blood to help screen for, diagnose, and monitor various conditions related to the bones, heart, nerves, kidneys, and teeth.
 Calcium Urine Test, 24-Hour: The Calcium Urine Test, 24-Hour, measures calcium levels in the urine over 24 hours to help screen for, diagnose, and monitor various conditions related to the bones, heart, nerves, kidneys, and teeth.
@@ -192,7 +192,7 @@ Cancer Screening Panel, Women: The Cancer Screening Panel for Women consists of 
 Candida Albicans Allergy Blood Test: The Candida Albicans Allergy Blood Test measures the IgE antibody levels in the blood to help detect an allergy to candida albicans.
 Candida Antibodies Blood Test, IgA, IgG, and IgM, ELISA: The Candida Antibodies Blood Test, IgG, IgA, and IgM, ELISA detects antibodies that the body produces in response to Candida albicans.
 Candida Antibodies Blood Test, IgG, ELISA: The Candida Antibodies Blood Test, IgG, ELISA, detects antibodies the body produces in response to Candida albicans.
-Candida Immune Complex Blood Test: Candida immune complexes not only aid in diagnosing intestinal overgrowth, but that levels of complexes decrease during successful treatment of the condition
+Candida Immune Complex Blood Test: Candida immune complexes not only aid in diagnosing intestinal overgrowth, but that levels of complexes decrease during successful treatment of the condition.
 Cannabinoid (Marijuana) Confirmation Urine Test, Ultrasensitive, Random: A Cannabinoid Confirmation Urine Test is a Cannabinoid (marijuana) urine test with cutoff = 15 ng/mL.
 Carbamazepine (Tegretol) Serum Test: A Carbamazepine Blood Test is a test that evaluates the blood levels of carbamazepine. It is used in the dose adjustment and to ensure that carbamazepine levels remain within an acceptable range.
 Carbohydrate Antigen (CA) 19-9 Blood Test: The Carbohydrate Antigen (CA) 19-9 Blood Test is used primarily to monitor response to pancreatic cancer therapy and to monitor recurrence, sometimes to help diagnose pancreatic cancer. However, CA 19-9 may also be elevated with the presence of other cancers.
@@ -207,7 +207,7 @@ Cardio IQ® High Sensitivity C-Reactive Protein (hs-CRP) Blood Test: The Cardio 
 Cardio IQ® Insulin Blood Test: The Cardio IQ® Insulin Blood Test measures insulin levels to help screen for hyperinsulinemia.
 Cardio IQ® Insulin Resistance Panel with Score Blood Test: The Cardio IQ insulin resistance (IR) test gives you information to change or avoid becoming diabetic or prediabetic.
 Cardio IQ® Vitamin D, 25-Hydroxy Blood Test: The Cardio IQ® Vitamin D, 25-Hydroxy Blood Test is used to help screen for and diagnose vitamin D deficiency or toxicity and monitor response to vitamin D2 or vitamin D3 supplementation.
-Cardio Metabolic Profile, Blood Spot - ZRT Test Kit: The Cardio Metabolic Blood Spot Profile assesses risks associated with type 2 diabetes and cardiovascular disease. Tests in this profile include: Insulin, High Sensitivity C-Reactive Protein, Total Cholesterol, HDL and LDL Cholesterol, Hemoglobin A1c, and Triglycerides. (Blood Spot Test)
+Cardio Metabolic Profile, Blood Spot - ZRT Test Kit: The Cardio Metabolic Blood Spot Profile assesses risks associated with type 2 diabetes and cardiovascular disease. Tests in this profile include: Insulin, High Sensitivity C-Reactive Protein, Total Cholesterol, HDL and LDL Cholesterol, Hemoglobin A1c, and Triglycerides. (Blood Spot Test).
 Cardio Plus Blood Test Panel plus Prostate-specific Antigen (PSA): A Cardio Plus Blood Test Panel plus Prostate-specific Antigen is a PSA plus Cholesterol (Lipid) Profile, Comprehensive Metabolic Panel (CMP-14), and Complete Blood Count (CBC) with differential and platelets.
 Cardio Plus Blood Test Panel: A Cardio Plus Blood Test Panel includes Cholesterol (Lipid) Profile, Comprehensive Metabolic Panel (CMP-14), and Complete Blood Count (CBC) with differential and platelets. (Over 35 Test Results).
 Cardiolipin Antibodies Blood Test, IgA, IgG, and IgM: The Cardiolipin Antibodies Blood Test, IgA, IgG, and IgM, detects antibodies in the blood to investigate blood clotting, miscarriage causes, and autoimmune diseases.
@@ -357,7 +357,7 @@ English Plantain Allergy IgE Blood Test: The English Plantain Allergy IgE Blood 
 Entamoeba Histolytica Antibody Blood Test, IgG, ELISA: An Entamoeba histolytica antibody test is used to detect if you have antibodies in your blood to the Entamoeba histolytica parasite.
 Eosinophil (EOS) Count Blood Test: The eosinophils (EOS) count blood test checks the number of white blood cells called eosinophils in the blood.
 Epstein-Barr Virus (EBV) Acute Infection Antibodies Profile Blood Test: The Epstein-Barr Virus (EBV) Acute Infection Antibodies Profile Blood Test helps diagnose infectious mononucleosis (mono) and evaluate an individual's susceptibility to EBV.
-Epstein-Barr Virus (EBV) Antibodies to Viral Capsid Antigen (VCA) Blood Test, IgM: An EBV Antibodies to VCA Blood Test, IgM aids in the diagnosis of acute EBV infection. (infectious mononucleosis)
+Epstein-Barr Virus (EBV) Antibodies to Viral Capsid Antigen (VCA) Blood Test, IgM: An EBV Antibodies to VCA Blood Test, IgM aids in the diagnosis of acute EBV infection. (infectious mononucleosis).
 Epstein-Barr Virus (EBV) Blood Test, IgG: An Epstein-Barr Virus (EBV) Blood Test, IgG is used to aid in the diagnosis of EBV infection (infectious mononucleosis).
 Epstein-Barr Virus Nuclear Antigen (EBNA) Antibody Blood Test, IgG: An EBNA Antibody Blood Test, IgG is useful in diagnosing past Epstein-Barr virus (EBV) exposure.
 Epstein-Barr Virus Viral Capsid Antigen (VCA) Antibody Blood Test, IgG: An EBV antibodies blood test detects an IgG antibodies to the Epstein-Barr Virus.
@@ -441,7 +441,7 @@ Gillis Blood Test Panel: The Gillis blood test panel includes complete blood cou
 Ginger Allergy IgE Blood Test: The ginger allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood in order to detect an allergy to ginger.
 Gliadin Antibody Profile Blood Test, IgA and IgG: A Gliadin Antibody Profile Blood Test, IgA and IgG is used in the detection of gliadin antibodies aids in the diagnosis and monitoring of certain gluten-sensitive enteropathies, such as celiac disease and dermatitis herpetiformis.
 Glucagon Blood Test: A Glucagon Blood Test is useful in measuring the amount of glucagon in the bloodstream.
-Glucose 6-Phosphate Dehydrogenase (G6PD) Blood Test, Quantitative: The G6PD Blood Test, Quantitative evaluates G6PD deficiency; determine the cause of drug-induced hemolysis or hemolysis secondary to acute bacterial or viral infection or metabolic disorder such as acidosis
+Glucose 6-Phosphate Dehydrogenase (G6PD) Blood Test, Quantitative: The G6PD Blood Test, Quantitative evaluates G6PD deficiency; determine the cause of drug-induced hemolysis or hemolysis secondary to acute bacterial or viral infection or metabolic disorder such as acidosis.
 Glucose Blood Test, Gestational Screen (50g), 135 Cutoff: A glucose blood test, gestational screen is used to assist in the diagnosis of diabetes during pregnancy.
 Glucose Blood Test, Two-hour Postprandial: A 2-hr Postprandial Glucose Test establishes the diagnosis of diabetes mellitus.
 Glucose Plasma Test: A fasting blood sugar; Glucose Plasma Test determines if your blood glucose level is within healthy ranges.
@@ -522,7 +522,7 @@ Hepatitis E Blood Test, IgM: Hepatitis E Virus (HEV) is a major cause of enteric
 Herpes (HSV) Types I and II DNA PCR Blood Test: A HSV Types I and II DNA PCR Blood Test is intended for use as an aid in the diagnosis of herpes simplex virus ( HSV) infections.
 Herpes Simplex Virus (HSV) Type 2 Specific Antibodies Blood Test, IgG: The Herpes Simplex Virus (HSV) Type 2-Specific Antibodies, IgG, detects IgG antibodies specific to HSV type 2 to confirm or rule out the possibility of infection.
 Herpes Simplex Virus (HSV) Types 1 and 2 Specific Antibodies Blood Test, IgG: The Herpes Simplex Virus (HSV) Types 1 and 2 Specific Antibodies Blood Test, IgG, detect and measure the levels of IgG antibodies to confirm a diagnosis of genital herpes infection.
-Herpes Simplex Virus (HSV) Types 1/2 Phenotyping for Acyclovir Drug Resistance Blood Test: A HSV Types 1/2 Phenotyping for Acyclovir Drug Resistance Blood Test is used to detect herpes simplex virus resistance to acyclovir
+Herpes Simplex Virus (HSV) Types 1/2 Phenotyping for Acyclovir Drug Resistance Blood Test: A HSV Types 1/2 Phenotyping for Acyclovir Drug Resistance Blood Test is used to detect herpes simplex virus resistance to acyclovir.
 Herpes Simplex Virus 1 Type-Specific Antibody Blood Test, IgG: The herpes simplex virus 1 type-specific antibody blood test is useful in detecting antibodies specific to herpes type 1.
 Herpes Simplex Virus 2 (IgG), with Reflex to HSV-2 Inhibition: The Herpes Simplex Virus 2 (IgG), with Reflex to HSV-2 Inhibition test screens for Herpes type 2 and confirms the presence or absence of genital herpes infection.
 High Sensitivity C-Reactive Protein Blood Spot - ZRT Test Kit: C-Reactive Protein is a proven marker of inflammation and may contribute significantly to cardiovascular disease's pro-inflammatory and pro-thrombotic components.
@@ -620,24 +620,24 @@ Lead Blood Test: The Lead Blood Test measures lead levels in the blood to screen
 Lead Standard Profile, Blood: The Lead and Protoporphyrin Blood Test measures lead and zinc protoporphyrin levels in the blood to screen for chronic lead exposure.
 Lemon Allergy Blood Test: The Lemon Allergy test measures the IgE antibody levels to detect a lemon allergy.
 Leptin Blood Test: The Leptin test measures the amount of leptin in your blood and is used to figure body fat amount.
-LetsGetChecked - Colon Cancer Screening Stool Test Kit: The LetsGetChecked - Colon Cancer Screening Stool Test Kit includes Fecal Immunochemical Test (FIT). Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Complete 8 Urine and Blood Spot Test Kit: The LetsGetChecked - Complete 8 Urine and Blood Spot Test Kit includes Chlamydia, Gonorrhea, HIV (I, II, P24 antigen), Syphilis, Mycoplasma, Ureaplasma, Trichomoniasis, and Gardnerella (Bacterial Vaginosis). Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Cortisol Blood Spot Test Kit: The LetsGetChecked - Cortisol Blood Spot Test Kit checks cortisol levels. Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Diabetes Blood Spot Test Kit: The LetsGetChecked - Diabetes Blood Spot Test Kit includes % of Hemoglobin A1c. Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Diabetes and Heart Blood Spot Test Kit: The LetsGetChecked Diabetes and Heart Blood Spot Test Kit includes Cholesterol, HDL (High-Density Lipoprotein), LDL (Low-Density Lipoprotein), HDL % of Total Cholesterol, % of Hemoglobin A1c, and Total Triglycerides. Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Hepatitis B & C Blood Spot Test Kit: The LetsGetChecked - Hepatitis B & C Blood Spot Test Kit includes Hepatitis B and Hepatitis C. Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Herpes Blood Spot Test Kit: The LetsGetChecked - Herpes Blood Spot Test Kit includes Herpes Simplex I (HSV-I) and Herpes Simplex II (HSV-II). Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - High-Sensitivity CRP Blood Spot Test Kit: The LetsGetChecked - High-Sensitivity CRP Blood Spot Test Kit includes High-sensitivity C-reactive protein (hs-CRP). Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Lyme Disease Blood Spot Test Kit: The LetsGetChecked - Lyme Disease Blood Spot Test Kit includes Borrelia IgM Antibodies, and Borrelia IgG Antibodies. Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Male Hormone Advanced Blood Spot Test Kit: The LetsGetChecked - Male Hormone Advanced Blood Spot Test Kit includes Testosterone, Sex Hormone-Binding Globulin (SHBG), Free Androgen Index (FAI), Estradiol, Prolactin. Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Male Hormone Blood Spot Test: The LetsGetChecked - Male Hormone Blood Spot Test Kit includes Testosterone, Sex Hormone Binding Globulin (SHBG), and the Free Androgen Index (FAI). Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Ovarian Reserve Blood Spot Test Kit: The LetsGetChecked - Ovarian Reserve Blood Spot Test includes the Anti-Mullerian Hormone. Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Simple 2 Urine Test Kit: The LetsGetChecked - Simple 2 Urine Test Kit includes Chlamydia and Gonorrhea. Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Standard 5 Urine and Blood Spot Test Kit: The LetsGetChecked - Standard 5 Urine and Blood Spot Test Kit includes Chlamydia, Gonorrhea, HIV (I, II, P24 antigen), Syphilis, and Trichomoniasis. Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Testosterone Blood Spot Test Kit: The LetsGetChecked - Testosterone Blood Spot Test Kit includes the Testosterone. Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Thyroid Antibody Blood Spot Test Kit: The LetsGetChecked - Thyroid Antibody Blood Spot Test Kit includes Thyroid Stimulating Hormone (TSH), Free Thyroxine (FT4), Free Triiodothyronine (FT3), Thyroglobulin Antibodies (TGAB), and Thyroid Peroxidase Antibodies (TPO/TPEX). Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Thyroid Blood Spot Test Kit: The LetsGetChecked - Thyroid Blood Spot Test Kit includes Thyroid Stimulating Hormone (TSH), Free Thyroxine (FT4), and Free Triiodothyronine (FT3). Get 25% off today with our exclusive discount code WALKINLAB.
-LetsGetChecked - Vaginitis (BV, CV, TV) Swab Test Kit: The LetsGetChecked - Vaginitis (BV, CV, TV) Swab Test Kit includes Bacterial Vaginosis (BV), Candida Vaginitis (CV), and Trichomonas Vaginitis (TV). Get 25% off today with our exclusive discount code WALKINLAB.
+LetsGetChecked - Colon Cancer Screening Stool Test Kit: The LetsGetChecked - Colon Cancer Screening Stool Test Kit includes Fecal Immunochemical Test (FIT).
+LetsGetChecked - Complete 8 Urine and Blood Spot Test Kit: The LetsGetChecked - Complete 8 Urine and Blood Spot Test Kit includes Chlamydia, Gonorrhea, HIV (I, II, P24 antigen), Syphilis, Mycoplasma, Ureaplasma, Trichomoniasis, and Gardnerella (Bacterial Vaginosis).
+LetsGetChecked - Cortisol Blood Spot Test Kit: The LetsGetChecked - Cortisol Blood Spot Test Kit checks cortisol levels.
+LetsGetChecked - Diabetes Blood Spot Test Kit: The LetsGetChecked - Diabetes Blood Spot Test Kit includes % of Hemoglobin A1c.
+LetsGetChecked - Diabetes and Heart Blood Spot Test Kit: The LetsGetChecked Diabetes and Heart Blood Spot Test Kit includes Cholesterol, HDL (High-Density Lipoprotein), LDL (Low-Density Lipoprotein), HDL % of Total Cholesterol, % of Hemoglobin A1c, and Total Triglycerides.
+LetsGetChecked - Hepatitis B & C Blood Spot Test Kit: The LetsGetChecked - Hepatitis B & C Blood Spot Test Kit includes Hepatitis B and Hepatitis C.
+LetsGetChecked - Herpes Blood Spot Test Kit: The LetsGetChecked - Herpes Blood Spot Test Kit includes Herpes Simplex I (HSV-I) and Herpes Simplex II (HSV-II).
+LetsGetChecked - High-Sensitivity CRP Blood Spot Test Kit: The LetsGetChecked - High-Sensitivity CRP Blood Spot Test Kit includes High-sensitivity C-reactive protein (hs-CRP).
+LetsGetChecked - Lyme Disease Blood Spot Test Kit: The LetsGetChecked - Lyme Disease Blood Spot Test Kit includes Borrelia IgM Antibodies, and Borrelia IgG Antibodies.
+LetsGetChecked - Male Hormone Advanced Blood Spot Test Kit: The LetsGetChecked - Male Hormone Advanced Blood Spot Test Kit includes Testosterone, Sex Hormone-Binding Globulin (SHBG), Free Androgen Index (FAI), Estradiol, Prolactin.
+LetsGetChecked - Male Hormone Blood Spot Test: The LetsGetChecked - Male Hormone Blood Spot Test Kit includes Testosterone, Sex Hormone Binding Globulin (SHBG), and the Free Androgen Index (FAI).
+LetsGetChecked - Ovarian Reserve Blood Spot Test Kit: The LetsGetChecked - Ovarian Reserve Blood Spot Test includes the Anti-Mullerian Hormone.
+LetsGetChecked - Simple 2 Urine Test Kit: The LetsGetChecked - Simple 2 Urine Test Kit includes Chlamydia and Gonorrhea.
+LetsGetChecked - Standard 5 Urine and Blood Spot Test Kit: The LetsGetChecked - Standard 5 Urine and Blood Spot Test Kit includes Chlamydia, Gonorrhea, HIV (I, II, P24 antigen), Syphilis, and Trichomoniasis.
+LetsGetChecked - Testosterone Blood Spot Test Kit: The LetsGetChecked - Testosterone Blood Spot Test Kit includes the Testosterone.
+LetsGetChecked - Thyroid Antibody Blood Spot Test Kit: The LetsGetChecked - Thyroid Antibody Blood Spot Test Kit includes Thyroid Stimulating Hormone (TSH), Free Thyroxine (FT4), Free Triiodothyronine (FT3), Thyroglobulin Antibodies (TGAB), and Thyroid Peroxidase Antibodies (TPO/TPEX).
+LetsGetChecked - Thyroid Blood Spot Test Kit: The LetsGetChecked - Thyroid Blood Spot Test Kit includes Thyroid Stimulating Hormone (TSH), Free Thyroxine (FT4), and Free Triiodothyronine (FT3).
+LetsGetChecked - Vaginitis (BV, CV, TV) Swab Test Kit: The LetsGetChecked - Vaginitis (BV, CV, TV) Swab Test Kit includes Bacterial Vaginosis (BV), Candida Vaginitis (CV), and Trichomonas Vaginitis (TV).
 Lima Bean Allergy IgE Blood Test: The Lima Bean Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to lima beans.
 Lime Allergy IgE Blood Test: The Lime Allergy test measures the IgE antibody levels to detect a lime allergy.
 Lipase Serum Test: The Lipase Serum Test monitors pancreatic functions.
@@ -702,7 +702,7 @@ Milk Allergy IgE Blood Test: The Milk Allergy IgE Blood Test measures IgE antibo
 Milk Protein Component Allergy IgE Blood Test: The Milk Protein Component Allergy test measures IgE Antibodies for the whey and casein proteins found in cow’s milk to screen for allergic reactions.
 Mitochondrial (M2) Antibody Blood Test: The Mitochondrial (M2) Antibody Blood Test detects M2 antibodies in the blood to screen for primary biliary cirrhosis.
 Mononucleosis Blood Test, Qualitative: A Mononucleosis Blood Test, Qualitative is used to detect heterophile antibodies related to infectious mononucleosis.
-Morgan Prenatal Blood Test Panel #1: A Morgan Prenatal Blood Test Panel #1 includes Prenatal Panel includes Hepatitis B Surface Antigen, ABO Grouping and RH Typing and Rubella, IgG
+Morgan Prenatal Blood Test Panel #1: A Morgan Prenatal Blood Test Panel #1 includes Prenatal Panel includes Hepatitis B Surface Antigen, ABO Grouping and RH Typing and Rubella, IgG.
 Mosquito Allergy IgE Blood Test: The mosquito allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to mosquitos.
 Mountain Cedar Allergy IgE Blood Test: The Mountain Cedar Allergy test measures the IgE antibody levels to detect a pollen allergy to Mountain Cedar.
 Mouse Epithelium Allergy IgE Blood Test: The Mouse Epithelium Allergy IgE Blood Test measures the IgE antibody levels in the blood to detect an allergy to the common house mouse.
@@ -771,7 +771,7 @@ Papaya Allergy IgE Blood Test: The papaya allergy IgE blood test measures the am
 Paper Wasp Allergy IgE Blood Test: The paper wasp allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to paper wasps.
 Paprika Allergy IgE Blood Test: The paprika allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to paprika.
 Parasite Examination (Malaria) Blood Test: The Parasite Examination (Malaria) Blood Test helps to diagnose malaria.
-Parathyroid Hormone (PTH) Blood Test Plus Calcium: The Parathyroid Hormone (PTH) Blood Test Plus Calcium measures the PTH and calcium levels in the blood to help screen for, diagnose, and monitor various health conditions
+Parathyroid Hormone (PTH) Blood Test Plus Calcium: The Parathyroid Hormone (PTH) Blood Test Plus Calcium measures the PTH and calcium levels in the blood to help screen for, diagnose, and monitor various health conditions.
 Parathyroid Hormone (PTH) Intact without Calcium Blood Test: The Parathyroid Hormone (PTH) Intact without Calcium Blood Test measures the level of PTH in the blood to help screen for osteoporosis and other underlying health conditions.
 Parathyroid Hormone-related Peptide (PTH-rP) (Endocrine Sciences) Plasma Test: The Parathyroid Hormone-Related Peptide (PTH-RP) Plasma Test measures the PTH-RP hormone levels in the blood to help diagnose hypercalcemia.
 Parietal Cell Antibody Blood Test, ELISA: Parietal Cell Antibody Blood Test is useful in diagnosis of pernicious anemia.
@@ -838,7 +838,7 @@ Prothrombin Time (PT) w/INR and Partial Thromboplastin Time (PTT) Blood Test: Th
 QuantiFERON TB Gold Plus Blood Test: The QuantiFERON TB Gold Plus Blood Test screens for TB infection by using a blood sample to look for signs of an immune reaction to Mycobacterium tuberculosis.
 QuestAssureD™ 25-Hydroxyvitamin D (D2, D3) Blood Test, LC/MS/MS: The QuestAssureD™ 25-Hydroxyvitamin D (D2, D3) Blood Test measures total Vitamin D and its two primary forms (D2 and D3) in the blood to screen for a deficiency or toxicity.
 Quinoa Allergy IgE Blood Test: The Quinoa Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to quinoa.
-RPR (Diagnosis) with Reflex to Titer and Confirmatory Testing: This is a non-treponemal screening test for syphilis
+RPR (Diagnosis) with Reflex to Titer and Confirmatory Testing: This is a non-treponemal screening test for syphilis.
 RPR (Rapid Plasma Reagin) Syphilis Blood Test, Qualitative: RPR Test (Rapid Plasma Reagin) looks for Treponema pallidum, the bacterium that causes Syphilis in your blood.
 RPR (Rapid Plasma Reagin) Syphilis Blood Test: A RPR (Rapid Plasma Reagin) is a test for Syphilis.
 Rabbit Allergy IgE Blood Test: The Rabbit Allergy IgE Blood Test measures IgE antibodies in the blood to detect an allergy to rabbits.
@@ -877,10 +877,10 @@ Rhythm, Saliva - Genova Test Kit: The Rhythm hormone test is a comprehensive ass
 Rice Allergy IgE Blood Test: The Rice Allergy IgE Blood Test measures IgE antibody levels in the blood to help detect an allergy to rice.
 Rubella Antibodies Blood Test, IgG: The Rubella Antibodies Blood Test, IgG detects antibodies to rubella to confirm previous infection or vaccination.
 Rubeola Antibodies Blood Test, IgG: The Rubeola (Measles) Antibodies Blood Test, IgG, measures and detects antibodies to measles to help confirm immunity.
-Rubeola Antibodies, IgM Serum Test: A rubeola antibodies, IgM serum test is used to demonstrate acute infection with measles virus; differential diagnosis of a pregnant female exposed to or presenting with a rash
+Rubeola Antibodies, IgM Serum Test: A rubeola antibodies, IgM serum test is used to demonstrate acute infection with measles virus; differential diagnosis of a pregnant female exposed to or presenting with a rash.
 Rye Allergy IgE Blood Test: The rye allergy IgE blood test measures the amount of allergen-specific IgE antibodies in the blood to detect an allergy to rye.
 S-100B Protein Serum Test: The S-100B Protein Serum Test measures S-100B protein levels in a blood sample to help screen for various central nervous system pathologies and malignant melanoma.
-SARS-CoV-2 (COVID-19) Antibody (IgG), Spike, Semi-Quantitative: The SARS-CoV-2 (COVID-19) Antibody (IGG), Spike, Semi-Quantitative Blood Test detects and measures antibodies to COVID-19. PLEASE SCHEDULE YOUR APPOINTMENT HERE .
+SARS-CoV-2 (COVID-19) Antibody (IgG), Spike, Semi-Quantitative: The SARS-CoV-2 (COVID-19) Antibody (IGG), Spike, Semi-Quantitative Blood Test detects and measures antibodies to COVID-19.
 STD #1 Baseline Blood Test Panel, 3 Tests: The STD #1 Baseline Blood Test Panel, 3 Tests, helps to screen for three common sexually transmitted diseases (STDs).
 STD #2 Essential Blood and Urine Test Panel, 9 Tests: The STD #2 Essential Blood and Urine Panel, 9 Tests helps to screen for and diagnose nine common sexually transmitted diseases (STDs).
 STD #3 Extreme Blood and Urine Test Panel, 15 Tests: The STD #3 Extreme Blood and Urine Panel, 15 Tests, helps to screen for seven common sexually transmitted diseases (STDs), plus eight additional blood and urine tests.
@@ -976,7 +976,7 @@ Toxic & Essential Elements Blood Spot Profile - ZRT Test Kit: Toxic & Essential 
 Toxic & Essential Elements Urine Profile - ZRT Test Kit: Toxic & Essential Elements Urine home test kit is used to evaluate if an individual has too little, or too much, of the essential nutrients iodine and selenium or the trace elements bromine and lithium. Also, if the individual has been exposed to too much of the toxic elements, arsenic, mercury, and cadmium.
 Toxic Element Clearance Profile, Urine - Genova Test Kit: The Toxic Element Clearance Profile measures urinary excretion of a diverse range of potentially harmful elements. Both well-known toxins such as lead and mercury, and new technology toxins such as niobium are assessed in this toxic element test.
 Toxic Metals 24-Hour Urine -Doctor's Data Test Kit: The Urine Toxic Metals, 24-Hour Test Kit evaluates exposure to potentially toxic elements and monitors metal detoxification therapy's effectiveness in a urine sample over 24 hours.
-Toxic Metals Fecal Kit - Doctor's Data Test Kit: The Toxic Metals Fecal Kit is an analysis of elements in feces provides indirect information about the potential for toxic metal burden. For many toxic metals, fecal (biliary) excretion is the primary natural route of elimination from the body. Fecal elemental analysis also provides a direct indication of dietary exposure to toxic metals
+Toxic Metals Fecal Kit - Doctor's Data Test Kit: The Toxic Metals Fecal Kit is an analysis of elements in feces provides indirect information about the potential for toxic metal burden. For many toxic metals, fecal (biliary) excretion is the primary natural route of elimination from the body. Fecal elemental analysis also provides a direct indication of dietary exposure to toxic metals.
 Toxic Metals Random Urine - Doctor's Data Test Kit: The Urine Toxic Metals profile is a complete assessment of urine metal excretion. This test is useful for anyone undergoing heavy metal detoxification therapy, or who wants to assess current heavy metal exposure. Doctors often use this test for excretion of heavy metals via heavy metal detoxification therapy.
 Toxoplasma Gondii Antibodies Blood Test, IgG: The Toxoplasma Gondii Antibodies Blood Test is used to support the diagnosis of toxoplasmosis; document past exposure and/or immunity to Toxoplasma gondii.
 Toxoplasma Gondii Antibodies Blood Test, IgM: The Toxoplasma Gondii Antibodies Test is used to support the diagnosis of toxoplasmosis; to determine if a person has a recent or acute infection.
@@ -1018,13 +1018,13 @@ Varicella Zoster Virus (VZV) Antibodies Blood Test, Quantitative, IgM: The VZV A
 Varicella Zoster Virus (VZV) Blood Test, DNA, PCR: The Varicella-Zoster Virus Blood Test, DNA, PCR is used to detect the varicella-zoster virus in whole blood or lesions.
 Vascular Endothelial Growth Factor Blood Test: The Vascular Endothelial Growth Factor test measures VEGF concentration levels in the blood to assess tumor progression and monitor response to treatment.
 Viscosity Blood Test: The Viscosity Blood Test evaluates blood flow resistance to help screen for hyperviscosity syndrome.
-Vitamin #1 Baseline Blood Test Panel: A Vitamin #1 Baseline Blood Test Panel includes Vitamin B12, Vitamin K1, and Vitamin D, 25-hydroxy
+Vitamin #1 Baseline Blood Test Panel: A Vitamin #1 Baseline Blood Test Panel includes Vitamin B12, Vitamin K1, and Vitamin D, 25-hydroxy.
 Vitamin #2 Essential Blood Test Panel: A Vitamin #2 Essential Blood Test Panel includes a Vitamin B12, Vitamin K1, Vitamin D 25 hydroxy plus Iron with Total Iron-Binding Capacity, Folate (Folic Acid), and Comprehensive Metabolic Panel - 14 tests.
 Vitamin #3 Extreme Blood Test Panel: A Vitamin #3 Extreme Blood Test Panel includes Vitamin B12, Vitamin K1, Vitamin D 25 Hydroxy, Iron with Total Iron-Binding Capacity, Folate (Folic Acid), and Comprehensive Metabolic Panel - 14 tests plus Magnesium RBC, Ferritin Serum, Prealbumin and Vitamin C.
 Vitamin A Serum Test: Vitamin A Serum Test determines Vitamin A levels.
 Vitamin A, E and Beta Carotene Blood Test Panel: A Vitamin A, E and Beta Carotene Blood Test Panel is ordered to assess hypervitaminosis or vitamin deficiency.
 Vitamin B1 Whole Blood Test: The Vitamin B1 Whole Blood Test measures levels of vitamin B1 in the blood.
-Vitamin B12 Blood Test, Unsaturated Binding Capacity: A vitamin b12 blood test, unsaturated binding capacity is a differential diagnosis of polycythemia vera from secondary/relative polycythemias; evaluate macrocytic/megaloblastic anemia; diagnose congenital absence of transcobalamin II or cobalophilin (transcobalamin I and III)
+Vitamin B12 Blood Test, Unsaturated Binding Capacity: A vitamin b12 blood test, unsaturated binding capacity is a differential diagnosis of polycythemia vera from secondary/relative polycythemias; evaluate macrocytic/megaloblastic anemia; diagnose congenital absence of transcobalamin II or cobalophilin (transcobalamin I and III).
 Vitamin B12 Blood Test: This Vitamin B12 Blood Test measures the vitamin B12 levels in the blood to help screen for a deficiency.
 Vitamin B12 and Folate Blood Test Panel: This Vitamin B12 and Folate Blood Test Panel measure your vitamin B12 and folate levels to screen for a deficiency.
 Vitamin B12 and Folate Wellness Blood Test Panel: The Vitamin B12 and Folate Wellness Blood Test Panel includes a Vitamin B12, Folate (Folic Acid, Vitamin B9), CMP-14, and CBC.
@@ -1075,4 +1075,4 @@ Zinc Blood Test: The Zinc Blood Test is a diagnostic tool used to measure zinc l
 Zinc Transporter 8 Antibody Blood Test: The Zinc Transporter 8 (ZnT8) Antibody Blood Test is used to evaluate your risk for developing type 1 diabetes and confirm a diagnosis.
 hCG (Pregnancy) Blood Test, Qualitative: The hCG (Pregnancy) Blood Test, QL, provides a positive or negative result depending on the presence or absence of hCG in a blood sample to confirm pregnancy.
 hCG (Pregnancy) Blood Test, Quantitative: The hCG (Pregnancy) Blood Test, Quantitative, measures a hormone called hCG, produced during pregnancy by the placenta and found in the blood.
-hCG (Pregnancy) Urine Test, Random: The hCG Pregnancy Urine Test is used in confirmation of normal or ectopic pregnancy; support for the diagnosis of testicular tumors
+hCG (Pregnancy) Urine Test, Random: The hCG Pregnancy Urine Test is used in confirmation of normal or ectopic pregnancy; support for the diagnosis of testicular tumors.

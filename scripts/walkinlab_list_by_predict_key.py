@@ -16,7 +16,8 @@ MAX_KEY_LEN = 3
 MAX_WORKERS = 32
 REQUEST_HEADERS = {"User-Agent": 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0'}
 HREF_PREFIX = '/products/view/'
-EXCLUDED = {'gift-card-1'}
+EXCLUDED_PRODUCTS = {'gift-card-1'}
+EXCLUDED_DESCRIPTION_SENTENCES_LOWERCASE = {'coupon code', 'discount code', 'locate a lab', 'schedule your appointment'}
 
 # Note: If this script freezes during execution, it may be because of diskcache handling a process executor poorly. In this case, either stop and rerun the script, or otherwise use a thread executor instead.
 
@@ -72,22 +73,15 @@ def get_data(href: str, /) -> dict[str, str]:
         assert data['description'], data
         assert ('\n' not in data['description']), data
 
-        advert = description_tag.find('span', {'class': 'red'})
-        if advert:
-            advert = advert.get_text(strip=True)  # Example: November Special: Save 15% with coupon code NOV15.
-            assert advert, (data, advert)
-            assert data['description'].startswith(advert), (data, advert)
-            data['description'] = data['description'].removeprefix(advert).strip()
-            assert data['description'], data
+        data['description'] = '. '.join(s for s in data['description'].split('. ') if all(e not in s.lower() for e in EXCLUDED_DESCRIPTION_SENTENCES_LOWERCASE))
+        if not data['description'].endswith('.'):
+            assert (not data['description'].endswith('!')), data['description']
+            data['description'] += '.'
 
         data['description'] = data['description'].replace('\xa0', ' ')  # Note: unicodedata.normalization with NFKC or NFKD shouldn't be used here as both undesirably replace the ™ character.
 
         while '  ' in data['description']:
             data['description'] = data['description'].replace('  ', ' ')
-
-        if 'locate a lab' in data['description']:
-            data['description'] = data['description'].replace('Please Click Here to locate a lab for specimen collection.', '').strip()
-            assert ('locate a lab' not in data['description']), data
     except Exception:
         print(f'Failed to parse data for {href} with description tag:\n{description_tag}', file=sys.stderr)
         raise
@@ -112,7 +106,7 @@ def main() -> None:
             results_groups = executor.map(get_results, keys)
             for result_group in results_groups:
                 for result in result_group:
-                    if (result not in final_results) and (result.removeprefix(HREF_PREFIX) not in EXCLUDED):
+                    if (result not in final_results) and (result.removeprefix(HREF_PREFIX) not in EXCLUDED_PRODUCTS):
                         curr_results.add(result)
             results_data = list(executor.map(get_data, list(curr_results)))
             for result_data in results_data:
