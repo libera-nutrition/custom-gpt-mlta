@@ -62,6 +62,7 @@ def get_data(href: str, /) -> dict[str, str]:
     href_short = href.removeprefix(HREF_PREFIX)
     content = get_content(href).decode()
 
+    description_tag = None
     try:
         parser = bs4.BeautifulSoup(content, 'html.parser')
         description_tag = parser.find('div', {'class': 'description'})
@@ -88,7 +89,7 @@ def get_data(href: str, /) -> dict[str, str]:
             data['description'] = data['description'].replace('Please Click Here to locate a lab for specimen collection.', '').strip()
             assert ('locate a lab' not in data['description']), data
     except Exception:
-        print(f'Failed to parse data for {href}.', file=sys.stderr)
+        print(f'Failed to parse data for {href} with description tag:\n{description_tag}', file=sys.stderr)
         raise
     return data
 
