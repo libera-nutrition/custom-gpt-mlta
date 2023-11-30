@@ -78,6 +78,12 @@ def get_data(href: str, /) -> dict[str, str]:
             assert (not data['description'].endswith('!')), data['description']
             data['description'] += '.'
 
+        for prefix in ('', 'The ', 'A', 'An'):
+            prefixed_name = f'{prefix}{data['name']}'
+            if data['description'].lower().startswith(prefixed_name.lower()):
+                data['description'] = 'This' + data['description'][len(prefixed_name):].lstrip(',')
+                break
+
         data['description'] = data['description'].replace('\xa0', ' ')  # Note: unicodedata.normalization with NFKC or NFKD shouldn't be used here as both undesirably replace the ™ character.
 
         while '  ' in data['description']:
