@@ -17,3 +17,12 @@ Note that you may optionally also be given names of tests that were already done
 
 # Capabilities
 * Web Browsing
+
+# Additional Settings
+* Use conversation data in your GPT to improve our models: No
+
+# Visibility
+Anyone with a link
+
+# Link
+https://chat.openai.com/g/g-Myvb8o0yb-medical-lab-tests-advisor
