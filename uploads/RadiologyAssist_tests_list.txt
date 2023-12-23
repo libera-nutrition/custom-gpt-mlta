@@ -1,0 +1,394 @@
+Axumin (PET Special Tracer)
+Breast Tomosynthesis
+CT Scan - Abdomen & Pelvis - Angiogram
+CT Scan - Abdomen & Pelvis - With & Without Contrast
+CT Scan - Abdomen & Pelvis - With Contrast
+CT Scan - Abdomen & Pelvis - Without Contrast
+CT Scan - Abdomen - Angiogram
+CT Scan - Abdomen - With & Without Contrast
+CT Scan - Abdomen - With Contrast
+CT Scan - Abdomen - Without Contrast
+CT Scan - Angiogram - Abdomen
+CT Scan - Angiogram - Abdomen & Pelvis
+CT Scan - Angiogram - Brain
+CT Scan - Angiogram - Carotids
+CT Scan - Angiogram - Chest
+CT Scan - Angiogram - Head / Brain
+CT Scan - Angiogram - Heart / Coronaries
+CT Scan - Angiogram - Lower Extremity
+CT Scan - Angiogram - Neck
+CT Scan - Angiogram - Pelvic
+CT Scan - Angiogram - Pulmonary
+CT Scan - Angiogram - Renal
+CT Scan - Angiogram - Run-Offs
+CT Scan - Angiogram - Upper Extremity
+CT Scan - Ankle - Angiogram
+CT Scan - Ankle - Arthrogram
+CT Scan - Ankle - With & Without Contrast
+CT Scan - Ankle - With Contrast
+CT Scan - Ankle - Without Contrast
+CT Scan - Brain - Angiogram
+CT Scan - Brain - With & Without Contrast
+CT Scan - Brain - With Contrast
+CT Scan - Brain - Without Contrast
+CT Scan - Calcium Score - Without Contrast
+CT Scan - Cervical Spine - With & Without Contrast
+CT Scan - Cervical Spine - With Contrast
+CT Scan - Cervical Spine - Without Contrast
+CT Scan - Chest - Angiogram
+CT Scan - Chest - With & Without Contrast
+CT Scan - Chest - With Contrast
+CT Scan - Chest - Without Contrast
+CT Scan - Coronary Screening - Low Dose
+CT Scan - Enterography - Without Contrast
+CT Scan - Head - Angiogram
+CT Scan - Head - With & Without Contrast
+CT Scan - Head - With Contrast
+CT Scan - Head - Without Contrast
+CT Scan - Hip (Bilateral) - Angiogram
+CT Scan - Hip (bilateral) - Angiogram
+CT Scan - Hip (bilateral) - With & Without Contrast
+CT Scan - Hip (bilateral) - With Contrast
+CT Scan - Hip (bilateral) - Without Contrast
+CT Scan - Hip (unilateral) - With & Without Contrast
+CT Scan - Hip (unilateral) - With Contrast
+CT Scan - Hip (unilateral) - Without Contrast
+CT Scan - Lower Extremity - Angiogram
+CT Scan - Lower Extremity - With & Without Contrast
+CT Scan - Lower Extremity - With Contrast
+CT Scan - Lower Extremity - Without Contrast
+CT Scan - Lumbar Spine - With & Without Contrast
+CT Scan - Lumbar Spine - With Contrast
+CT Scan - Lumbar Spine - Without Contrast
+CT Scan - Lungs - Cancer Screening - Low Dose
+CT Scan - Maxillofacial - With & Without Contrast
+CT Scan - Maxillofacial - With Contrast
+CT Scan - Maxillofacial - Without Contrast
+CT Scan - Neck - Angiogram
+CT Scan - Neck - With & Without Contrast
+CT Scan - Neck - With Contrast
+CT Scan - Neck - Without Contrast
+CT Scan - Orbits / Sella / Iacs - With & Without Contrast
+CT Scan - Orbits / Sella / Iacs - With Contrast
+CT Scan - Orbits / Sella / Iacs - Without Contrast
+CT Scan - Pelvis - Angiogram
+CT Scan - Pelvis - With & Without Contrast
+CT Scan - Pelvis - With Contrast
+CT Scan - Pelvis - Without Contrast
+CT Scan - Scanogram-Leg lengths - Scanogram-Leg lengths
+CT Scan - Sinus - Complete Without Contrast
+CT Scan - Thoracic Spine - With & Without Contrast
+CT Scan - Thoracic Spine - With Contrast
+CT Scan - Thoracic Spine - Without Contrast
+CT Scan - Upper Extremity - Angiogram
+CT Scan - Upper Extremity - With & Without Contrast
+CT Scan - Upper Extremity - With Contrast
+CT Scan - Upper Extremity - Without Contrast
+CT Scan - Urogram - With & Without Contrast
+CTA - Angiogram Abdomen & Pelvis - With & Without Contrast
+CTA - Angiogram Abdomen - With & Without Contrast
+CTA - Angiogram Carotids - With & Without Contrast
+CTA - Angiogram Chest - With & Without Contrast
+CTA - Angiogram Head / Brain - With & Without Contrast
+CTA - Angiogram Heart / Coronaries - Angiogram Heart / Coronaries
+CTA - Angiogram Lower Extremity - Angiogram Lower Extremity
+CTA - Angiogram Neck - Angiogram Neck
+CTA - Angiogram Pelvic - Angiogram Pelvic
+CTA - Angiogram Pulmonary - Angiogram Pulmonary
+CTA - Angiogram Renal - With & Without Contrast
+CTA - Angiogram Run-Offs - With & Without Contrast
+CTA - Angiogram Upper Extremities - Angiogram Upper Extremities
+DEXA - Bone Density / DEXA - Bone Density / DEXA
+Diagnostic Mammogram - Bilateral
+Diagnostic Mammogram - Unilateral
+Diagnostic Mammogram with Ultrasound - Bilateral
+Diagnostic Mammogram with Ultrasound - Unilateral
+Echocardiogram (Transthoracic) Complete
+Electrocardiogram (ECG or EKG)
+MRA - Abdomen Angio - Abdomen
+MRA - Chest / Thorax Angio - Chest / Thorax
+MRA - Head / Brain Angio - With & Without Contrast
+MRA - Head / Brain Angio - With Contrast
+MRA - Head / Brain Angio - Without Contrast
+MRA - Lower Extremity Angio - Lower Extremity
+MRA - Neck / Carotid Angio - With & Without Contrast
+MRA - Neck / Carotid Angio - With Contrast
+MRA - Neck / Carotid Angio - Without Contrast
+MRA - Pelvis Angio - Pelvis
+MRA - Spine / Spinal Canal Angio - Spine
+MRA - Upper Extremity Angio - Upper Extremity
+MRCP (Abdomen Liver Pancreas)
+MRI - Abdomen - With & Without Contrast
+MRI - Abdomen - With Contrast
+MRI - Abdomen - Without Contrast
+MRI - Ankle - Arthrogram
+MRI - Ankle - With & Without Contrast
+MRI - Ankle - With Contrast
+MRI - Ankle - Without Contrast
+MRI - Arthrogram - Ankle (Unilateral)
+MRI - Arthrogram - ELbow (Unilateral)
+MRI - Arthrogram - Hip (Unilateral)
+MRI - Arthrogram - Knee (Unilateral)
+MRI - Arthrogram - Shoulder (Unilateral)
+MRI - Arthrogram - TMJ
+MRI - Arthrogram - Wrist (Unilateral)
+MRI - Brain - With & Without Contrast
+MRI - Brain - With Contrast
+MRI - Brain - Without Contrast
+MRI - Brain and Pituitary - With & Without Contrast
+MRI - Brain with Pituitary - With & Without Contrast
+MRI - Breast - Bilateral - With & Without Contrast
+MRI - Breast - Bilateral - Without Contrast
+MRI - Breast - Unilateral - With & Without Contrast
+MRI - Breast - Unilateral - Without Contrast
+MRI - Cervical Spine - With & Without Contrast
+MRI - Cervical Spine - With Contrast
+MRI - Cervical Spine - Without Contrast
+MRI - Chest/Thorax - With & Without Contrast
+MRI - Chest/Thorax - With Contrast
+MRI - Chest/Thorax - Without Contrast
+MRI - Cholangiopancreatography - Without Contrast
+MRI - Elbow - Arthrogram
+MRI - Elbow - With & Without Contrast
+MRI - Elbow - With Contrast
+MRI - Elbow - Without Contrast
+MRI - Enterography - With & Without Contrast
+MRI - Face - With & Without Contrast
+MRI - Face - With Contrast
+MRI - Face - Without Contrast
+MRI - Foot - With & Without Contrast
+MRI - Foot - With Contrast
+MRI - Foot - Without Contrast
+MRI - Forearm - With & Without Contrast
+MRI - Forearm - With Contrast
+MRI - Forearm - Without Contrast
+MRI - Hand - With & Without Contrast
+MRI - Hand - With Contrast
+MRI - Hand - Without Contrast
+MRI - Hip - Unilateral - Arthrogram
+MRI - Hip - Unilateral - With & Without Contrast
+MRI - Hip - Unilateral - With Contrast
+MRI - Hip - Unilateral - Without Contrast
+MRI - Humerus - With & Without Contrast
+MRI - Humerus - With Contrast
+MRI - Humerus - Without Contrast
+MRI - Internal Auditory Canal (IAC) - With & Without Contrast
+MRI - Internal Auditory Canal (IAC) - With Contrast
+MRI - Internal Auditory Canal (IAC) - Without Contrast
+MRI - Knee (Left) - Unilateral - With & Without Contrast
+MRI - Knee (Left) - Unilateral - With Contrast
+MRI - Knee (Left) - Unilateral - Without Contrast
+MRI - Knee (Right) - Unilateral - With & Without Contrast
+MRI - Knee (Right) - Unilateral - With Contrast
+MRI - Knee (Right) - Unilateral - Without Contrast
+MRI - Knee (Unspecified) - Unilateral - With & Without Contrast
+MRI - Knee (Unspecified) - Unilateral - With Contrast
+MRI - Knee (Unspecified) - Unilateral - Without Contrast
+MRI - Knee - Bilateral - With & Without Contrast
+MRI - Knee - Bilateral - With Contrast
+MRI - Knee - Bilateral - Without Contrast
+MRI - Knee - Unilateral - Arthrogram
+MRI - Knee - Unilateral - With & Without Contrast
+MRI - Knee - Unilateral - With Contrast
+MRI - Knee - Unilateral - Without Contrast
+MRI - Lower Extremity - With & Without Contrast
+MRI - Lower Extremity - With Contrast
+MRI - Lower Extremity - Without Contrast
+MRI - Lower Extremity Joint - With & Without Contrast
+MRI - Lower Extremity Joint - With Contrast
+MRI - Lower Extremity Joint - Without Contrast
+MRI - Lower Leg - With & Without Contrast
+MRI - Lower Leg - With Contrast
+MRI - Lower Leg - Without Contrast
+MRI - Lumbar Spine - With & Without Contrast
+MRI - Lumbar Spine - Without Contrast
+MRI - Neck - With & Without Contrast
+MRI - Neck - With Contrast
+MRI - Neck - Without Contrast
+MRI - Orbit / Face / Neck - With & Without Contrast
+MRI - Orbit / Face / Neck - With Contrast
+MRI - Orbit / Face / Neck - Without Contrast
+MRI - Pelvis - With & Without Contrast
+MRI - Pelvis - With Contrast
+MRI - Pelvis - Without Contrast
+MRI - Shoulder - Arthrogram
+MRI - Shoulder - With & Without Contrast
+MRI - Shoulder - With Contrast
+MRI - Shoulder - Without Contrast
+MRI - TMJ - Arthrogram
+MRI - TMJ - With & Without Contrast
+MRI - Thigh - With & Without Contrast
+MRI - Thigh - With Contrast
+MRI - Thigh - Without Contrast
+MRI - Thoracic Spine - With & Without Contrast
+MRI - Thoracic Spine - With Contrast
+MRI - Thoracic Spine - Without Contrast
+MRI - Upper Extremity Joint - With & Without Contrast
+MRI - Upper Extremity Joint - With Contrast
+MRI - Upper Extremity Joint - Without Contrast
+MRI - Upper Extremity Non Joint - With & Without Contrast
+MRI - Upper Extremity Non Joint - With Contrast
+MRI - Upper Extremity Non Joint - Without Contrast
+MRI - Wrist - Arthrogram
+MRI - Wrist - With & Without Contrast
+MRI - Wrist - With Contrast
+MRI - Wrist - Without Contrast
+PET Scan - Brain - PET Scan
+PET Scan - Full Body - With CT Scan
+PET Scan - Full Body - Without CT Scan
+PET Scan - Limited Area - with CT Scan
+PET Scan - Limited Area - without CT Scan
+PET Scan - Myocardial imaging - metabolic evaluation
+PET Scan - Myocardial imaging - perfusion multiple studies at rest and/or stress
+PET Scan - Myocardial imaging - perfusion single study at rest or stress
+PET Scan - Skull to Mid Thigh - PET with CT Scan
+PET Scan - Skull to Mid Thigh - PET without CT Scan
+Screening Mammogram - 2D
+Screening Mammogram - 3D
+Treadmill Stress Test
+Treadmill Stress Test with Echocardiogram
+Ultrasound - Abdomen & Pelvis - With Transvaginal
+Ultrasound - Abdomen & Pelvis - w/o Transvaginal
+Ultrasound - Abdomen - Complete
+Ultrasound - Abdomen - Limited - Single Organ / Quadrant or follow up
+Ultrasound - Aorta - Complete
+Ultrasound - Arterial - Bilateral
+Ultrasound - Arterial - Unilateral
+Ultrasound - Axilla - Complete
+Ultrasound - Bladder - Complete
+Ultrasound - Breast (Unilateral) - Complete
+Ultrasound - Breast (Unilateral) - Limited
+Ultrasound - Buttock - Complete
+Ultrasound - Carotid - Carotid
+Ultrasound - Chest - Pleural Effusion Fluid in Chest or Soft Tissue
+Ultrasound - Chest Wall - Complete
+Ultrasound - Doppler - Complete
+Ultrasound - Doppler - Limited
+Ultrasound - Fine Needle Aspiration w/imag - Complete
+Ultrasound - Galbladder - Complete
+Ultrasound - Genitalia (Male) - Prostate (Non-transrectal)
+Ultrasound - Genitalia (Male) - Scrotum and Contents (Testicles)
+Ultrasound - Groin (Hip Groin Region & Peripheral Nerves) - Complete
+Ultrasound - Head / Neck - Soft Tissues (Thyroid Parathyroid Parotid)
+Ultrasound - Kidney / Renal - Complete
+Ultrasound - Liver - Complete
+Ultrasound - Neck Abscess Drainage by needle - Complete
+Ultrasound - Ob/Gyn - 1st Trimester <14 weeks
+Ultrasound - Ob/Gyn - 2nd & 3rd Trimester >14weeks
+Ultrasound - Ob/Gyn - OB Follow Up (Re-Evaluate Fetal Size & Organ Sys)
+Ultrasound - Ob/Gyn - OB Limited (Fetal heartbeat Placental & Fetal Position)
+Ultrasound - Pancreas - Complete
+Ultrasound - Pelvic Wall - Complete
+Ultrasound - Pelvis - Bladder Only
+Ultrasound - Pelvis - Pelvic Complete
+Ultrasound - Pelvis and Transvaginal - Complete
+Ultrasound - Pelvis and Transvaginal with Doppler
+Ultrasound - Spine - Spinal Canal & Contents
+Ultrasound - Testicular / Scrotal - Testicular / Scrotal
+Ultrasound - Testicular / Scrotal with Doppler (Complete)
+Ultrasound - Testicular / Scrotal with Doppler (Limited)
+Ultrasound - Transvaginal - Transvaginal (Non-Obstetric)
+Ultrasound - Upper & Lower Extremities - Complete
+Ultrasound - Upper & Lower Extremities - Limited
+Ultrasound - Venous - Bilateral
+Ultrasound - Venous - Unilateral
+Virtual Colonoscopy - Virtual Colonoscopy Diagnostic - With Contrast
+Virtual Colonoscopy - Virtual Colonoscopy Diagnostic - Without Contrast
+Virtual Consultation
+Xray - Abdomen - 1 View
+Xray - Abdomen - 2 Views
+Xray - Abdomen - 3+ Views
+Xray - Abdomen - Abdomen Complete Acute Abdomen Series 1 Chest View
+Xray - Acromioclavicular Joint Bilat w/ or w/o Weights - Acromioclavicular Joint Bilat w/ or w/o Weights
+Xray - Ankle - 2 Views
+Xray - Ankle - 3 Views
+Xray - Bone & Joints - Bone Age Studies
+Xray - Bone & Joints - Bone Length Studies (Scanogram / Orthoroentgenogram)
+Xray - Bone & Joints - Bone Survey
+Xray - Calcaneus or Heel - 2 Views
+Xray - Cervical Spine - 3 Views
+Xray - Cervical Spine - 4 Views
+Xray - Cervical Spine - Complete
+Xray - Chest - 1 View
+Xray - Chest - 2 Views
+Xray - Chest - 3 Views
+Xray - Chest - 4+ Views
+Xray - Clavicle Complete - 1 View
+Xray - Elbow - 1 View
+Xray - Elbow - 2 Views
+Xray - Facial Bones - 2 Views
+Xray - Facial Bones - 3 Views
+Xray - Femur - 1 View
+Xray - Femur - 2 Views
+Xray - Fingers - 1 View
+Xray - Foot - 2 Views
+Xray - Foot - 3 Views
+Xray - Forearm - 1 View
+Xray - Hand - 2 Views
+Xray - Hand - 3 Views
+Xray - Hip Bilateral Incl. AP of Pelvis - 2 Views
+Xray - Hip Bilateral Incl. AP of Pelvis - 3 Views
+Xray - Hip Bilateral Incl. AP of Pelvis - 4 Views
+Xray - Hip Bilateral Incl. AP of Pelvis - 5 Views
+Xray - Hip Unilateral Incl AP of Pelvis - 1 View
+Xray - Hip Unilateral Incl AP of Pelvis - 2 Views
+Xray - Hip Unilateral Incl AP of Pelvis - 3 Views
+Xray - Hip Unilateral Incl AP of Pelvis - 4 Views
+Xray - Humerus - 3 Views
+Xray - Knee Both - 1 or 2 Views
+Xray - Knee Both - 3 Views
+Xray - Knee Both - 4 Views
+Xray - Knee Single - 1 or 2 Views
+Xray - Knee Single - 3 Views
+Xray - Knee Single - 4 Views
+Xray - Lumbar Spine (Lumbosacral) - 2 Views
+Xray - Lumbar Spine (Lumbosacral) - 3 Views
+Xray - Lumbar Spine (Lumbosacral) - 4+ Views
+Xray - Lumbar Spine (Lumbosacral) Bending Views Only - 2 Views
+Xray - Lumbar Spine (Lumbosacral) Bending Views Only - 3 Views
+Xray - Lumbar Spine (Lumbosacral) Complete Incl. Bending Views - 4+ Views
+Xray - Mandible - 3 Views
+Xray - Mandible - 4+ Views
+Xray - Mastoids - 2 Views
+Xray - Mastoids - 3 Views
+Xray - Nasal Bones - 3 Views
+Xray - Neck Soft Tissue - 1 Views
+Xray - Orbits / Sella / Iacs - 4+ Views
+Xray - Pelvis - 1 View
+Xray - Pelvis - 2 Views
+Xray - Ribs Bilateral - 3 Views
+Xray - Ribs Bilateral - 4+ Views
+Xray - Ribs Unilateral - 2 Views
+Xray - Ribs Unilateral - 3 Views
+Xray - Sacroiliac Joints - 2 Views
+Xray - Sacroiliac Joints - 3 Views
+Xray - Sacrum & Coccyx - 2 Views
+Xray - Scapula Complete - 2 Views
+Xray - Shoulder - 1 View
+Xray - Shoulder - 2 Views
+Xray - Sinuses/ Paranasal - 2 Views
+Xray - Sinuses/ Paranasal - 3 Views
+Xray - Skull - 3 Views
+Xray - Skull - 4+ Views
+Xray - Spine Scoliosis Study Incl. Supine & Erect - 1 View
+Xray - Spine Scoliosis Study Incl. Supine & Erect - 2 Views
+Xray - Spine Scoliosis Study Incl. Supine & Erect - 3 Views
+Xray - Spine Scoliosis Study Incl. Supine & Erect - 4 Views
+Xray - Spine Scoliosis Study Incl. Supine & Erect - 6+ Views
+Xray - Spine Single View Specify Level (Scoliosis) - 1 View
+Xray - Sternum - 2 Views
+Xray - Sternum - 3 Views
+Xray - Temporomandibular Joint Open/Closed Bilateral - 1 View
+Xray - Thoracic - 2 Views
+Xray - Thoracic - 3 Views
+Xray - Thoracic - 4 Views
+Xray - Thoracolumbar Junction - 2 Views
+Xray - Tibia & Fibula - 2 Views
+Xray - Toe(s) - 2 Views
+Xray - Upper GI Tract - Contrast w/o KUB
+Xray - Upper GI Tract - Contrast with KUB
+Xray - Upper GI Tract - w/o KUB
+Xray - Upper GI Tract - with KUB
+Xray - Upper GI Tract - with small intestine
+Xray - Wrist - 2 Views
+Xray - Wrist - 3 Views
