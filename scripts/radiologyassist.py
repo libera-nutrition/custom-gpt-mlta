@@ -17,7 +17,7 @@ DISKCACHE = diskcache.FanoutCache(directory=str(DISKCACHE_PATH), timeout=1, size
 MAX_KEY_LEN = 0  # Note: No additional benefit was observed with lengths 1 or 2.
 MAX_WORKERS = 1
 
-EXCLUDED_IDs = {'\ufeffHCPCS CODE'}
+EXCLUDED_TESTS = {'SHORT DESCRIPTION', 'Virtual Consultation'}
 
 # Note: If this script freezes during execution, it may be because of diskcache handling a process executor poorly. In this case, either stop and rerun the script, or otherwise use a thread executor instead.
 
@@ -46,8 +46,13 @@ def get_results(term: str, /) -> list[str]:
     if not data:
         # print(f'No results exist for search term {term!r}.')
         return []
-    results = [d['text'].removeprefix(f'{d['id']} - ').strip() for d in data if (d['id'] not in EXCLUDED_IDs)]
-    assert ('DESCRIPTION' not in str(results)), results
+    results = [d['text'].removeprefix(f'{d['id']} - ').strip() for d in data]
+    results = [r for r in results if r not in EXCLUDED_TESTS]
+
+    for idx, result in enumerate(results.copy()):
+        if ' - ' not in result:
+            results[idx] = f'Other - {result}'
+
     return results
 
 

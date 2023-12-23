@@ -1,5 +1,3 @@
-Axumin (PET Special Tracer)
-Breast Tomosynthesis
 CT Scan - Abdomen & Pelvis - Angiogram
 CT Scan - Abdomen & Pelvis - With & Without Contrast
 CT Scan - Abdomen & Pelvis - With Contrast
@@ -103,8 +101,6 @@ Diagnostic Mammogram - Bilateral
 Diagnostic Mammogram - Unilateral
 Diagnostic Mammogram with Ultrasound - Bilateral
 Diagnostic Mammogram with Ultrasound - Unilateral
-Echocardiogram (Transthoracic) Complete
-Electrocardiogram (ECG or EKG)
 MRA - Abdomen Angio - Abdomen
 MRA - Chest / Thorax Angio - Chest / Thorax
 MRA - Head / Brain Angio - With & Without Contrast
@@ -117,7 +113,6 @@ MRA - Neck / Carotid Angio - Without Contrast
 MRA - Pelvis Angio - Pelvis
 MRA - Spine / Spinal Canal Angio - Spine
 MRA - Upper Extremity Angio - Upper Extremity
-MRCP (Abdomen Liver Pancreas)
 MRI - Abdomen - With & Without Contrast
 MRI - Abdomen - With Contrast
 MRI - Abdomen - Without Contrast
@@ -233,6 +228,13 @@ MRI - Wrist - Arthrogram
 MRI - Wrist - With & Without Contrast
 MRI - Wrist - With Contrast
 MRI - Wrist - Without Contrast
+Other - Axumin (PET Special Tracer)
+Other - Breast Tomosynthesis
+Other - Echocardiogram (Transthoracic) Complete
+Other - Electrocardiogram (ECG or EKG)
+Other - MRCP (Abdomen Liver Pancreas)
+Other - Treadmill Stress Test
+Other - Treadmill Stress Test with Echocardiogram
 PET Scan - Brain - PET Scan
 PET Scan - Full Body - With CT Scan
 PET Scan - Full Body - Without CT Scan
@@ -245,8 +247,6 @@ PET Scan - Skull to Mid Thigh - PET with CT Scan
 PET Scan - Skull to Mid Thigh - PET without CT Scan
 Screening Mammogram - 2D
 Screening Mammogram - 3D
-Treadmill Stress Test
-Treadmill Stress Test with Echocardiogram
 Ultrasound - Abdomen & Pelvis - With Transvaginal
 Ultrasound - Abdomen & Pelvis - w/o Transvaginal
 Ultrasound - Abdomen - Complete
@@ -294,7 +294,6 @@ Ultrasound - Venous - Bilateral
 Ultrasound - Venous - Unilateral
 Virtual Colonoscopy - Virtual Colonoscopy Diagnostic - With Contrast
 Virtual Colonoscopy - Virtual Colonoscopy Diagnostic - Without Contrast
-Virtual Consultation
 Xray - Abdomen - 1 View
 Xray - Abdomen - 2 Views
 Xray - Abdomen - 3+ Views
