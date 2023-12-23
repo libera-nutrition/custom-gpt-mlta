@@ -14,7 +14,7 @@ DISKCACHE = diskcache.FanoutCache(directory=str(PACKAGE_PATH / '.diskcache'), ti
 
 MAX_KEY_LEN = 3
 MAX_WORKERS = 32
-REQUEST_HEADERS = {"User-Agent": 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0'}
+REQUEST_HEADERS = {"User-Agent": 'Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0'}
 HREF_PREFIX = '/products/view/'
 EXCLUDED_PRODUCTS = {'gift-card-1'}
 EXCLUDED_DESCRIPTION_SENTENCES_LOWERCASE = {'coupon code', 'discount code', 'locate a lab', 'schedule your appointment'}
