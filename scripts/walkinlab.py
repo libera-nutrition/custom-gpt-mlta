@@ -9,8 +9,10 @@ import bs4
 import diskcache
 import requests
 
-PACKAGE_PATH = pathlib.Path(__file__).parents[1]
-DISKCACHE = diskcache.FanoutCache(directory=str(PACKAGE_PATH / '.diskcache'), timeout=1, size_limit=1024 ** 3)
+FILE_PATH = pathlib.Path(__file__)
+PACKAGE_PATH = FILE_PATH.parents[1]
+DISKCACHE_PATH = PACKAGE_PATH / '.diskcache' / FILE_PATH.stem
+DISKCACHE = diskcache.FanoutCache(directory=str(DISKCACHE_PATH), timeout=1, size_limit=1024 ** 3)
 
 MAX_KEY_LEN = 3
 MAX_WORKERS = 32
