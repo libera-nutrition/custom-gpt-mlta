@@ -2,4 +2,4 @@ This is the repository for the custom GPT [Medical Lab Tests Advisor](https://ch
 
 To create the custom GPT using GPT Builder, use its [definition](DEFINITION.md) and [uploaded files](uploads). Note that the uploaded files may be US-specific.
 
-To create the uploads, run each of the [scripts](scripts) using Python 3.12 after having provisioned the package [requirements](requirements.txt).
+To create the uploads, run each of the [scripts](scripts) using Python 3.12 after having provisioned the [devcontainer](.devcontainer/devcontainer.json).
